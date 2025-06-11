@@ -1,5 +1,55 @@
 [
   {
+    "slug": "intersectionality-as-critical-social-theory",
+    "title": "Intersectionality as Critical Social Theory",
+    "author": "Patricia Hill Collins",
+    "publicationYear": 2019,
+    "pageCount": 376,
+    "coverImage": "/images/covers/intersectionality-as-critical-social-theory.jpg",
+    "chapters": [
+      {
+        "title": "Intersectionality as Critical Inquiry",
+        "slug": "intersectionality-as-critical-inquiry",
+        "order": 1
+      },
+      {
+        "title": "What’s Critical about Critical Social Theory?",
+        "slug": "whats-critical-about-critical-social-theory",
+        "order": 2
+      },
+      {
+        "title": "Intersectionality and Resistant Knowledge Projects",
+        "slug": "intersectionality-and-resistant-knowledge-projects",
+        "order": 3
+      },
+      {
+        "title": "Intersectionality and Epistemic Resistance",
+        "slug": "intersectionality-and-epistemic-resistance",
+        "order": 4
+      },
+      {
+        "title": "Intersectionality, Experience, and Community",
+        "slug": "intersectionality-experience-and-community",
+        "order": 5
+      },
+      {
+        "title": "Intersectionality and the Question of Freedom",
+        "slug": "intersectionality-and-the-question-of-freedom",
+        "order": 6
+      },
+      {
+        "title": "Relationality within Intersectionality",
+        "slug": "relationality-within-intersectionality",
+        "order": 7
+      },
+      {
+        "title": "Intersectionality without Social Justice?",
+        "slug": "intersectionality-without-social-justice",
+        "order": 8
+      }
+    ]
+  },
+  {
     "slug": "left-of-karl-marx",
     "title": "Left of Karl Marx : The Life Of Black Communist Claudia Jones",
     "author": "Carole Boyce Davies",

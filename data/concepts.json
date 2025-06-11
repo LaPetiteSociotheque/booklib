@@ -27,6 +27,15 @@
     ]
   },
   {
+    "title": "Communauté de résistance épistémique",
+    "slug": "communaute-de-resistance-epistemique",
+    "definition": "Collectif social et intellectuel qui produit du savoir à partir de l’expérience de l’oppression et remet en cause les normes dominantes de légitimation théorique.\n",
+    "historicalContext": "Concept forgé à partir des épistémologies féministes et postcoloniales (Sandra Harding, Linda Alcoff, bell hooks) ; appliqué par Collins aux femmes noires, peuples autochtones, activistes queer racisé·es.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
     "title": "Communauté diasporique",
     "slug": "communaute-diasporique",
     "definition": "Forme d’organisation des migrant·es caribéen·nes autour de pratiques partagées, mémoire et résistance.\n",
@@ -36,12 +45,39 @@
     ]
   },
   {
+    "title": "Communauté interprétative",
+    "slug": "communaute-interpretative",
+    "definition": "Collectif dans lequel des individus construisent ensemble des significations à partir de leurs expériences partagées, en dehors ou à la marge des institutions dominantes.\n",
+    "historicalContext": "Concept théorisé par Stanley Fish dans les études littéraires, puis réinvesti dans les épistémologies féministes pour penser la production collective de savoir dans les espaces militants, familiaux ou culturels.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
     "title": "Contre-public noir",
     "slug": "contre-public-noir",
     "definition": "Espace discursif autonome permettant aux Noir·es d’exprimer leurs récits et revendications. *The West Indian Gazette* incarne un tel espace.\n",
     "historicalContext": "Théorisé par Nancy Fraser ou Catherine Squires, mais ancré historiquement dans les journaux militants noirs des XIXe et XXe siècles. Jones en donne une forme exemplaire.\n",
     "books": [
       "left-of-karl-marx"
+    ]
+  },
+  {
+    "title": "Cooptation",
+    "slug": "cooptation",
+    "definition": "Processus par lequel des idées critiques sont intégrées dans des structures dominantes, vidées de leur potentiel subversif et réinscrites dans une logique de reconnaissance ou de contrôle.\n",
+    "historicalContext": "Notion mobilisée dans les critiques du néolibéralisme (Nancy Fraser, Sara Ahmed) pour désigner la domestication des concepts radicaux par les institutions universitaires et politiques.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Dépolitisation",
+    "slug": "depolitisation",
+    "definition": "Processus par lequel des idées critiques sont vidées de leur charge contestataire et intégrées dans les structures dominantes sans remise en cause de celles-ci.\n",
+    "historicalContext": "Analysée dans les critiques des politiques de reconnaissance (Nancy Fraser) et de diversité institutionnelle (Sara Ahmed), la dépolitisation accompagne souvent la professionnalisation de concepts issus des luttes sociales.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
     ]
   },
   {
@@ -72,6 +108,33 @@
     ]
   },
   {
+    "title": "Émancipation communautaire",
+    "slug": "emancipation-communautaire",
+    "definition": "Forme de liberté élaborée à travers des pratiques collectives concrètes dans des contextes de domination, valorisant les solidarités et les appartenances locales.\n",
+    "historicalContext": "Centrale dans les Black Liberation Movements, les féminismes populaires et les mouvements autochtones. Elle critique les limites des modèles d’émancipation étatiques ou juridiques.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Enquête critique",
+    "slug": "enquete-critique",
+    "definition": "Démarche intellectuelle qui interroge les fondements sociaux, politiques et épistémologiques des savoirs. Elle refuse les cadres analytiques neutres ou naturalisés.\n",
+    "historicalContext": "Inspirée de la théorie critique (École de Francfort) et renouvelée par les épistémologies féministes et décoloniales qui valorisent les savoirs situés.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Expérience vécue",
+    "slug": "experience-vecue",
+    "definition": "Ensemble des perceptions, émotions et compréhensions issues du quotidien des sujets. Point d’entrée dans l’analyse sociale, elle nécessite une médiation collective pour devenir savoir critique.\n",
+    "historicalContext": "Concept central dans les féminismes noirs, chicanos et autochtones. Contesté lorsqu’il est réduit à une parole individuelle essentialisée dans les politiques néolibérales de la diversité.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
     "title": "Féminisme marxiste noir",
     "slug": "feminisme-marxiste-noir",
     "definition": "Courant critique qui lie analyse marxiste de la production et critique du racisme et du patriarcat. Pour Jones, les droits des femmes noires sont constitutifs de la lutte des classes.\n",
@@ -81,12 +144,48 @@
     ]
   },
   {
+    "title": "Fétichisation de l’expérience",
+    "slug": "fetichisation-de-lexperience",
+    "definition": "Procédé consistant à ériger l’expérience individuelle comme vérité absolue ou savoir auto-suffisant, sans médiation critique ni contextualisation politique.\n",
+    "historicalContext": "Critique formulée dans les épistémologies féministes postcoloniales (bell hooks, Chandra Mohanty) pour dénoncer les usages institutionnels dépolitisés de la diversité.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Généalogie insurgée",
+    "slug": "genealogie-insurgee",
+    "definition": "Ensemble de traditions intellectuelles issues de positions marginalisées, élaborées pour contester les fondements du savoir dominant.\n",
+    "historicalContext": "Inspirée par Michel Foucault et les épistémologies féministes et postcoloniales. Réactivée dans les études critiques pour valoriser les filiations alternatives aux canons académiques.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
     "title": "Internationalisme noir anticolonial",
     "slug": "internationalisme-noir-anticolonial",
     "definition": "Stratégie liant les luttes des femmes noires aux mouvements de libération nationale et aux combats contre l’impérialisme mondial.\n",
     "historicalContext": "Issu des traditions panafricaines et communistes noires des années 1940-50. Jones, entre Trinidad, les États-Unis et le Royaume-Uni, renouvelle cet héritage dans une perspective féministe marxiste.\n",
     "books": [
       "left-of-karl-marx"
+    ]
+  },
+  {
+    "title": "Intersectionnalité critique",
+    "slug": "intersectionnalite-critique",
+    "definition": "Version de l’intersectionnalité centrée sur l’analyse des structures de pouvoir, la lutte contre les oppressions systémiques et l’engagement politique ancré.\n",
+    "historicalContext": "Héritée des écrits du Combahee River Collective, de Crenshaw et de Davis. Elle s’oppose à la banalisation ou à la technocratisation du concept dans les milieux institutionnels.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Intersectionnalité (définition)",
+    "slug": "intersectionnalite-definition",
+    "definition": "Mode d’analyse critique des oppressions (racisme, sexisme, classisme) conçues comme co-constitutives. L’intersectionnalité articule théorie, méthode et praxis dans une visée transformatrice.\n",
+    "historicalContext": "Concept introduit par Kimberlé Crenshaw en 1989, issu des luttes afro-féministes des années 1960–1990. Il se diffuse dans les milieux académiques à partir des années 2000, au risque d’une dépolitisation.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
     ]
   },
   {
@@ -108,12 +207,48 @@
     ]
   },
   {
+    "title": "Mémoire collective",
+    "slug": "memoire-collective",
+    "definition": "Savoir partagé au sein d’un groupe, transmis à travers la mémoire sociale plutôt que par les institutions officielles, et servant de base à la résistance.\n",
+    "historicalContext": "Mobilisée par les historiographies critiques (Paul Gilroy, Michel-Rolph Trouillot) pour contrer l’effacement des récits subalternes dans les récits nationaux dominants.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
     "title": "Mémoire politique",
     "slug": "memoire-politique",
     "definition": "Processus par lequel les trajectoires militantes sont transmises, effacées ou réécrites. Jones est une figure marginalisée dans les récits dominants, ce que souligne Boyce Davies comme symptôme de cette mémoire sélective.\n",
     "historicalContext": "La mémoire politique est toujours construite. Elle tend à invisibiliser les femmes, les personnes racisées et les dissident·es. La redécouverte de figures comme Jones participe à une critique historiographique marxiste et féministe.\n",
     "books": [
       "left-of-karl-marx"
+    ]
+  },
+  {
+    "title": "Modèle non additionnel de l’oppression",
+    "slug": "modele-non-additionnel-de-loppression",
+    "definition": "Cadre critique qui rejette l’idée que les oppressions (racisme, sexisme, classisme, etc.) s’ajoutent de manière cumulative. Il met en avant leur co-constitution structurelle et contextuelle.\n",
+    "historicalContext": "Critiqué dès les années 1980–1990 par les féminismes noirs et chicanos pour son incapacité à rendre compte des vécus imbriqués. Collins le remplace par une logique relationnelle et systémique.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Neutralisation institutionnelle",
+    "slug": "neutralisation-institutionnelle",
+    "definition": "Processus par lequel un concept critique est intégré dans les structures académiques ou politiques sans transformation des rapports de pouvoir, perdant ainsi sa force subversive.\n",
+    "historicalContext": "Décrit dans les travaux de Nancy Fraser, Sara Ahmed et les féminismes décoloniaux. La reconnaissance institutionnelle de concepts comme l’intersectionnalité s’accompagne souvent de leur vidage critique.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Pensée en systèmes co-constitutifs",
+    "slug": "pensee-en-systemes-co-constitutifs",
+    "definition": "Approche théorique qui considère les rapports de domination comme formés dans l’interaction mutuelle, sans hiérarchie ni addition.\n",
+    "historicalContext": "Apparue dans les années 1990 avec les critiques féministes de la hiérarchisation des oppressions. Portée notamment par Crenshaw, Collins et Davis.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
     ]
   },
   {
@@ -144,6 +279,33 @@
     ]
   },
   {
+    "title": "Praxis",
+    "slug": "praxis",
+    "definition": "Processus dialectique entre production théorique, méthode d’analyse et engagement politique. Elle permet de penser l’intersectionnalité comme forme d’action intellectuelle située.\n",
+    "historicalContext": "Notion issue du marxisme, reprise par Paulo Freire et bell hooks. Elle valorise les savoirs produits dans les luttes comme outils d’analyse critique.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Réflexivité critique",
+    "slug": "reflexivite-critique",
+    "definition": "Capacité d’un cadre théorique à interroger ses propres présupposés, conditions de production, méthodes et usages sociaux.\n",
+    "historicalContext": "Inscrite dans les traditions marxistes et féministes, la réflexivité devient centrale dans les cultural studies et les critical race theories pour contrer l’objectivisme positiviste.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Relationalité",
+    "slug": "relationalite",
+    "definition": "Cadre d’analyse qui conçoit les identités, les systèmes d’oppression et les résistances comme interdépendants, dynamiques et contextuellement situés.\n",
+    "historicalContext": "Issu des épistémologies féministes noires et postcoloniales (Audre Lorde, Gloria Anzaldúa), ce concept rompt avec les approches fixistes ou hiérarchisées.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
     "title": "Répression d’État",
     "slug": "repression-detat",
     "definition": "Ensemble des dispositifs mobilisés pour démanteler les militantismes noirs, féminins et communistes.\n",
@@ -151,6 +313,49 @@
     "books": [
       "left-of-karl-marx"
     ]
+  },
+  {
+    "title": "Résistance épistémique",
+    "slug": "resistance-epistemique",
+    "definition": "Pratiques cognitives et théoriques par lesquelles les groupes opprimés contestent les savoirs hégémoniques légitimant leur domination.\n",
+    "historicalContext": "Concept développé dans les épistémologies féministes et décoloniales (José Medina, Kristie Dotson), centré sur la narration, la mémoire et l’expérience comme outils critiques.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Resistant knowledge projects",
+    "slug": "resistant-knowledge-projects",
+    "definition": "Formes collectives de production de savoirs issues de groupes subalternes, articulant expérience vécue, mémoire et critique structurelle des systèmes de domination.\n",
+    "historicalContext": "Appuyés sur les traditions afro-féministes, chicanas, autochtones et queer, ces projets échappent aux normes académiques et défendent la légitimité des savoirs communautaires.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Responsabilité épistémique",
+    "slug": "responsabilite-epistemique",
+    "definition": "Obligation de réfléchir aux effets sociaux, politiques et éthiques de la production et de la diffusion des savoirs, en particulier lorsqu’ils concernent des groupes marginalisés.\n",
+    "historicalContext": "Développée dans les épistémologies féministes critiques (notamment chez José Medina et Kristie Dotson), cette notion s’oppose à l’usage abstrait ou instrumentalisé de cadres critiques comme l’intersectionnalité.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Savoir situé",
+    "slug": "savoir-situe",
+    "definition": "Connaissance produite depuis une position sociale, politique et historique spécifique, assumée comme telle dans l’analyse critique.\n",
+    "historicalContext": "Théorisé par Donna Haraway et Sandra Harding contre l’illusion d’objectivité universelle. Central dans les épistémologies féministes, queer et postcoloniales.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "(titre manquant)",
+    "slug": "savoirs-incarnes",
+    "definition": "",
+    "historicalContext": "",
+    "books": []
   },
   {
     "title": "Superexploitation",
@@ -162,12 +367,39 @@
     ]
   },
   {
+    "title": "Théorie sociale critique",
+    "slug": "theorie-sociale-critique",
+    "definition": "Forme de production de savoir visant à analyser les structures de domination et à contribuer à leur transformation depuis des positions marginalisées.\n",
+    "historicalContext": "Longtemps dominée par l’École de Francfort, cette tradition est renouvelée à partir des années 1980 par les féminismes noirs, les subaltern studies et les théories queer.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
     "title": "Travailleuse domestique noire",
     "slug": "travailleuse-domestique-noire",
     "definition": "Figure centrale de la critique de Jones, représentant la double dévalorisation du travail reproductif et du travail racialisé. Ces femmes sont surexploitées sans reconnaissance syndicale.\n",
     "historicalContext": "Après l’abolition de l’esclavage, les femmes noires sont cantonnées au travail domestique aux États-Unis, au Royaume-Uni ou à Trinidad. Jones politise cette réalité dans une lecture marxiste-féministe.\n",
     "books": [
       "left-of-karl-marx"
+    ]
+  },
+  {
+    "title": "Validité scientifique",
+    "slug": "validite-scientifique",
+    "definition": "Ensemble de normes définissant ce qui est reconnu comme savoir légitime. Ces critères sont critiqués pour leur rôle dans l’exclusion des savoirs subalternes.\n",
+    "historicalContext": "Contestée par les épistémologies critiques depuis les années 1980. Donna Haraway et Sandra Harding proposent des alternatives comme le savoir situé ou l’objectivité forte.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Voix subalternes",
+    "slug": "voix-subalternes",
+    "definition": "Formes de savoir et d’expression émanant de groupes marginalisés, souvent réduites au silence ou délégitimées dans les récits dominants.\n",
+    "historicalContext": "Concept issu des *Subaltern Studies* (notamment Gayatri Spivak), repris par les féminismes postcoloniaux pour penser les obstacles structurels à la prise de parole des groupes opprimés.\n",
+    "books": [
+      "intersectionality-as-critical-social-theory"
     ]
   }
 ]

@@ -1,5 +1,43 @@
 [
   {
+    "name": "Patricia Hill Collins",
+    "slug": "patricia-hill-collins",
+    "chapters": [
+      {
+        "title": "Intersectionality and Epistemic Resistance",
+        "slug": "intersectionality-and-epistemic-resistance"
+      },
+      {
+        "title": "Intersectionality and Resistant Knowledge Projects",
+        "slug": "intersectionality-and-resistant-knowledge-projects"
+      },
+      {
+        "title": "Intersectionality and the Question of Freedom",
+        "slug": "intersectionality-and-the-question-of-freedom"
+      },
+      {
+        "title": "Intersectionality as Critical Inquiry",
+        "slug": "intersectionality-as-critical-inquiry"
+      },
+      {
+        "title": "Intersectionality, Experience, and Community",
+        "slug": "intersectionality-experience-and-community"
+      },
+      {
+        "title": "Intersectionality without Social Justice?",
+        "slug": "intersectionality-without-social-justice"
+      },
+      {
+        "title": "Relationality within Intersectionality",
+        "slug": "relationality-within-intersectionality"
+      },
+      {
+        "title": "What’s Critical about Critical Social Theory?",
+        "slug": "whats-critical-about-critical-social-theory"
+      }
+    ]
+  },
+  {
     "name": "Carole Boyce Davies",
     "slug": "carole-boyce-davies",
     "chapters": [
@@ -30,6 +68,10 @@
       {
         "title": "Women’s Rights / Workers’ Rights / Anti-Imperialism: Challenging the Superexploitation of Black Working-Class Women",
         "slug": "superexploitation"
+      },
+      {
+        "title": "Résumé",
+        "slug": "carnival"
       }
     ]
   },
