@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "left-of-karl-marx",
+    "title": "Left of Karl Marx : The Life Of Black Communist Claudia Jones",
+    "author": "Carole Boyce Davies",
+    "publicationYear": 2007,
+    "pageCount": 348,
+    "coverImage": "/images/covers/left-of-karl-marx.jpg",
+    "chapters": [
+      {
+        "title": "Résumé",
+        "slug": "_summary",
+        "order": 0
+      },
+      {
+        "title": "Introduction",
+        "slug": "introduction",
+        "order": 2
+      },
+      {
+        "title": "Women’s Rights / Workers’ Rights / Anti-Imperialism: Challenging the Superexploitation of Black Working-Class Women",
+        "slug": "superexploitation",
+        "order": 3
+      },
+      {
+        "title": "From 'Half the World' to the Whole World: Journalism as Black Transnational Political Practice",
+        "slug": "journalism",
+        "order": 4
+      },
+      {
+        "title": "Prison Blues: Literary Activism and a Poetry of Resistance",
+        "slug": "prison-blues",
+        "order": 5
+      },
+      {
+        "title": "Deportation: The Other Politics of Diaspora",
+        "slug": "deportation",
+        "order": 6
+      },
+      {
+        "title": "Carnival and Diaspora: Caribbean Community, Happiness, and Activism",
+        "slug": "carnival",
+        "order": 7
+      },
+      {
+        "title": "Piece Work/Peace Work: Self-Construction versus State Repression",
+        "slug": "self-construction",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "slug": "make-your-own-job",
+    "title": "Make Your Own Job: How The Entrepreneurial Work Ethic Exhausted America",
+    "author": "Erik M. Baker",
+    "publicationYear": null,
+    "pageCount": null,
+    "coverImage": "/images/covers/make-your-own-job.jpg",
+    "chapters": [
+      {
+        "title": "Make Your Own Job: How The Entrepreneurial Work Ethic Exhausted America",
+        "slug": "introduction",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "slug": "race-articulation",
+    "title": "Race, Articulation and Societies Structured in Dominance",
+    "author": "Stuart Hall",
+    "publicationYear": null,
+    "pageCount": null,
+    "coverImage": "/images/covers/race-articulation.jpg",
+    "chapters": [
+      {
+        "title": "Section 1 — Ruptures théoriques : critiques du réductionnisme et émergence de l’articulation",
+        "slug": "chapitre-1",
+        "order": 1
+      },
+      {
+        "title": "Section 2 - Le moment où Stuart nous révèle tout",
+        "slug": "chapitre-2",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "slug": "test-book",
+    "title": "Test Book",
+    "author": "Auteur inconnu",
+    "publicationYear": null,
+    "pageCount": null,
+    "coverImage": "/images/covers/test-book.jpg",
+    "chapters": [
+      {
+        "title": "Chapitre test",
+        "slug": "test",
+        "order": 0
+      }
+    ]
+  }
+]

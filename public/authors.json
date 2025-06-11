@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Carole Boyce Davies",
+    "slug": "carole-boyce-davies",
+    "chapters": [
+      {
+        "title": "Carnival and Diaspora: Caribbean Community, Happiness, and Activism",
+        "slug": "left-of-karl-marx-carnival"
+      },
+      {
+        "title": "Deportation: The Other Politics of Diaspora",
+        "slug": "left-of-karl-marx-deportation"
+      },
+      {
+        "title": "Introduction",
+        "slug": "left-of-karl-marx-introduction"
+      },
+      {
+        "title": "From 'Half the World' to the Whole World: Journalism as Black Transnational Political Practice",
+        "slug": "left-of-karl-marx-journalism"
+      },
+      {
+        "title": "Prison Blues: Literary Activism and a Poetry of Resistance",
+        "slug": "left-of-karl-marx-prison-blues"
+      },
+      {
+        "title": "Piece Work/Peace Work: Self-Construction versus State Repression",
+        "slug": "left-of-karl-marx-self-construction"
+      },
+      {
+        "title": "Women’s Rights / Workers’ Rights / Anti-Imperialism: Challenging the Superexploitation of Black Working-Class Women",
+        "slug": "left-of-karl-marx-superexploitation"
+      }
+    ]
+  },
+  {
+    "name": "Erik M. Baker",
+    "slug": "erik-m.-baker",
+    "chapters": [
+      {
+        "title": "Make Your Own Job: How The Entrepreneurial Work Ethic Exhausted America",
+        "slug": "make-your-own-job"
+      }
+    ]
+  },
+  {
+    "name": "Stuart Hall",
+    "slug": "stuart-hall",
+    "chapters": [
+      {
+        "title": "Section 1 — Ruptures théoriques : critiques du réductionnisme et émergence de l’articulation",
+        "slug": "chapitre-1"
+      },
+      {
+        "title": "Section 2 - Le moment où Stuart nous révèle tout",
+        "slug": "chapitre-1"
+      }
+    ]
+  }
+]

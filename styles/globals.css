@@ -1,0 +1,17 @@
+@import "tailwindcss/preflight";
+
+@tailwind utilities;
+
+/* Typographie personnalisée */
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+    background-color: #FAF4EB; /* couleur beige de fond */
+    color: #2E2A26; /* texte foncé */
+  }
+}
+
+/* Prose (texte markdown stylisé) */
+.prose {
+  max-width: 100%; /* pour garder la largeur fluide sur mobile */
+}
