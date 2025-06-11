@@ -54,6 +54,15 @@
     ]
   },
   {
+    "title": "Construction discursive",
+    "slug": "construction-discursive",
+    "definition": "Processus par lequel des catégories sociales se construisent via le langage, les institutions, les pratiques. La race est produite discursivement, non découverte.\n",
+    "historicalContext": "Concept clé de Michel Foucault. Utilisé dans les Cultural Studies pour déconstruire les catégories issues du racisme scientifique et colonial.\n",
+    "books": [
+      "the-fateful-triangle"
+    ]
+  },
+  {
     "title": "Contre-public noir",
     "slug": "contre-public-noir",
     "definition": "Espace discursif autonome permettant aux Noir·es d’exprimer leurs récits et revendications. *The West Indian Gazette* incarne un tel espace.\n",
@@ -99,6 +108,15 @@
     ]
   },
   {
+    "title": "Diaspora",
+    "slug": "diaspora",
+    "definition": "Forme de subjectivité collective fondée sur le déplacement, la mémoire d’un ailleurs et des pratiques hybrides. Chez Hall, la diaspora noire est transnationale, conflictuelle et multiple.\n",
+    "historicalContext": "Notion élargie dans les années 1990 (Black Studies, postcolonialisme) pour penser les identités noires au-delà du nationalisme.\n",
+    "books": [
+      "the-fateful-triangle"
+    ]
+  },
+  {
     "title": "Écriture carcérale",
     "slug": "ecriture-carcerale",
     "definition": "Production littéraire issue de l’expérience de l’enfermement, révélant l’aliénation et la politisation du vécu répressif.\n",
@@ -123,6 +141,24 @@
     "historicalContext": "Inspirée de la théorie critique (École de Francfort) et renouvelée par les épistémologies féministes et décoloniales qui valorisent les savoirs situés.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Essentialisme stratégique",
+    "slug": "essentialisme-strategique",
+    "definition": "Usage tactique d’une identité collective (ethnique, raciale, culturelle) à des fins politiques, sans croire à son essentialité.\n",
+    "historicalContext": "Popularisé par Gayatri Spivak dans les années 1980 pour penser les contradictions des luttes subalternes. Hall s’en empare pour penser les mobilisations minoritaires.\n",
+    "books": [
+      "the-fateful-triangle"
+    ]
+  },
+  {
+    "title": "Ethnicité",
+    "slug": "ethnicite",
+    "definition": "Mode d’identification collectif fondé sur des récits partagés, des pratiques culturelles et une mémoire historique. Processus discursif et positionnement politique, non héritage figé.\n",
+    "historicalContext": "Concept né au XIXe siècle, réactivé par les luttes anticoloniales et les Cultural Studies. Transformé dans les années 1980–1990 par les théories diasporiques.\n",
+    "books": [
+      "the-fateful-triangle"
     ]
   },
   {
@@ -159,6 +195,24 @@
     "historicalContext": "Inspirée par Michel Foucault et les épistémologies féministes et postcoloniales. Réactivée dans les études critiques pour valoriser les filiations alternatives aux canons académiques.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Identité blanche",
+    "slug": "identite-blanche",
+    "definition": "Sentiment subjectif d’appartenance au groupe racial blanc, mobilisé comme cadre d’interprétation du monde social et politique. Elle se manifeste par la perception d’un sort commun, d’intérêts partagés et d’une solidarité entre Blancs. Elle peut être activée par la perception d’une menace envers le statut collectif du groupe, sans nécessairement impliquer un racisme explicite. (White Identity Politics, Jardina, Chapitre 1)\nAttachement subjectif et émotionnel au groupe racial blanc, qui oriente les préférences politiques non pas en fonction de principes universels, mais selon l’impact perçu sur le groupe blanc. Cet attachement fonctionne comme une grille de lecture du monde social et politique. (White Identity Politics, Jardina, Chapitre 6)\n",
+    "historicalContext": "Longtemps restée invisible du fait de l’hégémonie blanche, cette identité a été ignorée par les sciences sociales. Elle se manifeste aujourd’hui dans un contexte de diversification démographique rapide (notamment post-1965) et de perte projetée du statut de majorité blanche d’ici 2043. Jardina en fait un objet politique distinct du racisme classique, appelant à sa théorisation spécifique. (White Identity Politics, Jardina, Chapitre 1)\nL’idée d’une conscience raciale blanche a longtemps été ignorée ou disqualifiée dans la recherche. Jardina démontre qu’à l’ère post-Obama et dans le sillage de la mobilisation pro-Trump, l’identité blanche devient une variable politique autonome, mesurable empiriquement et distincte du racisme explicite. (White Identity Politics, Jardina, Chapitre 6)\n",
+    "books": [
+      "white-identity-politics"
+    ]
+  },
+  {
+    "title": "Identité dominante",
+    "slug": "identite-dominante",
+    "definition": "Appartenance à un groupe historiquement hégémonique qui ne se pense pas comme tel tant que son pouvoir n’est pas menacé. L’identité blanche, longtemps non marquée car majoritaire, devient politiquement saillante lorsqu’elle perçoit une perte de statut.\n",
+    "historicalContext": "Rarement analysée par les sciences sociales, cette notion s’ancre dans la tradition critique de W.E.B. Du Bois sur le \"salaire de la race\". Elle a été réactivée par les travaux sur les majorités menacées (années 1990–2000) et par la group position theory de Blumer. Jardina actualise cette perspective dans un contexte de transformation démographique.\n",
+    "books": [
+      "white-identity-politics"
     ]
   },
   {
@@ -225,12 +279,30 @@
     ]
   },
   {
+    "title": "Mobilisation stratégique de l’identité blanche",
+    "slug": "mobilisation-strategique-de-lidentite-blanche",
+    "definition": "Stratégie politique visant à activer la conscience raciale blanche sans recourir à un discours explicitement raciste. Elle fonctionne par cadrage culturel, euphémisation, langage codé, et mise en scène de menaces envers les intérêts ou l’identité du groupe blanc.\n",
+    "historicalContext": "Apparue dès les campagnes de George Wallace (1968), cette forme de mobilisation est reprise par Nixon, Buchanan, puis Trump. Jardina montre que cette stratégie est d’autant plus efficace qu’elle évite le stigmate du racisme explicite, tout en activant une solidarité blanche défensive dans un contexte de transformation démographique.\n",
+    "books": [
+      "white-identity-politics"
+    ]
+  },
+  {
     "title": "Modèle non additionnel de l’oppression",
     "slug": "modele-non-additionnel-de-loppression",
     "definition": "Cadre critique qui rejette l’idée que les oppressions (racisme, sexisme, classisme, etc.) s’ajoutent de manière cumulative. Il met en avant leur co-constitution structurelle et contextuelle.\n",
     "historicalContext": "Critiqué dès les années 1980–1990 par les féminismes noirs et chicanos pour son incapacité à rendre compte des vécus imbriqués. Collins le remplace par une logique relationnelle et systémique.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Nation",
+    "slug": "nation",
+    "definition": "Construction discursive et affective fondée sur un récit symbolique d’unité, d’origine partagée et de continuité culturelle. Produit une illusion d’homogénéité souvent excluante.\n",
+    "historicalContext": "Forme politique moderne née au XVIIIe siècle. Déconstruite dans les années 1980–1990 par les études culturelles (Anderson, Bhabha). Hall l’analyse comme fiction performative.\n",
+    "books": [
+      "the-fateful-triangle"
     ]
   },
   {
@@ -285,6 +357,24 @@
     "historicalContext": "Notion issue du marxisme, reprise par Paulo Freire et bell hooks. Elle valorise les savoirs produits dans les luttes comme outils d’analyse critique.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Préférence pour la hiérarchie sociale",
+    "slug": "preference-pour-la-hierarchie-sociale",
+    "definition": "Disposition psychologique (Social Dominance Orientation, SDO) caractérisant les individus qui valorisent les relations sociales hiérarchiques et souhaitent maintenir la domination de certains groupes sur d’autres.\n",
+    "historicalContext": "Concept introduit dans les années 1990 par Sidanius et Pratto, utilisé pour analyser l’adhésion à des systèmes inégalitaires, le racisme et l’autoritarisme. Jardina l’utilise pour expliquer la prédisposition de certains Blancs à s’identifier fortement à leur groupe racial dominant.\n",
+    "books": [
+      "white-identity-politics"
+    ]
+  },
+  {
+    "title": "Race",
+    "slug": "race",
+    "definition": "Système discursif de classification des différences humaines, sans fondement biologique. Outil symbolique de naturalisation des hiérarchies sociales, réinventé selon les besoins idéologiques.\n",
+    "historicalContext": "Émerge au XVIe siècle (controverse Las Casas–Sepúlveda, 1550), se consolide au XVIIIe siècle avec Linnaeus et Blumenbach. Reformulée au XXe siècle en termes culturels. Critiquée par Du Bois, Fanon, Foucault.\n",
+    "books": [
+      "the-fateful-triangle"
     ]
   },
   {
@@ -358,6 +448,24 @@
     "books": []
   },
   {
+    "title": "Signifiant flottant",
+    "slug": "signifiant-flottant",
+    "definition": "Terme dont la signification change selon le contexte. La race en est un exemple : elle glisse entre registres (biologique, culturel, religieux…) tout en conservant sa fonction hiérarchisante.\n",
+    "historicalContext": "Concept introduit par Roland Barthes dans le cadre de la sémiotique idéologique. Repris par Hall pour penser la plasticité sémantique du mot « race ».\n",
+    "books": [
+      "the-fateful-triangle"
+    ]
+  },
+  {
+    "title": "Structure de sentiment",
+    "slug": "structure-de-sentiment",
+    "definition": "Chez Raymond Williams, forme d’expérience affective collective, historiquement située. Pour Hall, la nation fonctionne comme une telle structure, productrice de récit et d’appartenance.\n",
+    "historicalContext": "Concept des années 1970 pour penser les transformations culturelles liées au capitalisme. Hall l’adapte pour penser les affects nationaux.\n",
+    "books": [
+      "the-fateful-triangle"
+    ]
+  },
+  {
     "title": "Superexploitation",
     "slug": "superexploitation",
     "definition": "Intensification de l’exploitation capitaliste selon des lignes raciales et genrées. Les femmes noires sont exploitées comme travailleuses, opprimées comme femmes, et marginalisées comme Noires.\n",
@@ -400,6 +508,33 @@
     "historicalContext": "Concept issu des *Subaltern Studies* (notamment Gayatri Spivak), repris par les féminismes postcoloniaux pour penser les obstacles structurels à la prise de parole des groupes opprimés.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "White consciousness",
+    "slug": "white-consciousness",
+    "definition": "Forme politisée et mobilisée de l’identité blanche. Elle suppose la reconnaissance d’un destin collectif, la perception d’une menace statutaire et une volonté d’agir politiquement pour préserver les intérêts du groupe racial blanc.\n",
+    "historicalContext": "Théorisée à l’origine pour étudier les mobilisations afro-américaines (Dawson, Miller, Bobo), cette notion a rarement été appliquée au groupe dominant. Jardina en propose une application empirique dans un contexte de diversification raciale, où une partie des Blancs développe une conscience équivalente à celle des minorités.\n",
+    "books": [
+      "white-identity-politics"
+    ]
+  },
+  {
+    "title": "White identity",
+    "slug": "white-identity",
+    "definition": "Sentiment subjectif d’appartenance au groupe racial blanc, incluant reconnaissance, fierté et sentiment de similarité avec les autres Blancs. Fonctionne comme disposition psychologique mobilisable, indépendamment de toute hostilité explicite envers d’autres groupes.\n",
+    "historicalContext": "Concept resté marginal dans les sciences sociales en raison de l’invisibilité structurelle de la blanchité. Son étude se développe au tournant des années 2000 dans les whiteness studies et la psychologie sociale. Jardina propose une mesure empirique rigoureuse de cette identité, distincte du racisme ou du conservatisme.\n",
+    "books": [
+      "white-identity-politics"
+    ]
+  },
+  {
+    "title": "Whiteness",
+    "slug": "whiteness",
+    "definition": "Ensemble des significations sociales, culturelles et politiques associées au fait d’être blanc. Fonctionne comme un référentiel implicite de la citoyenneté, de la normalité et du mérite, particulièrement chez les Blancs fortement identifiés à leur groupe.\n",
+    "historicalContext": "Inscrite juridiquement dès le Naturalization Act de 1790, la blanchité devient au XIXᵉ siècle un critère d’américanité. Les whiteness studies (Roediger, Lipsitz, Frankenberg) ont analysé cette position dominante comme invisible. Jardina démontre que la blancheur agit aujourd’hui comme une idéologie structurante et mobilisatrice.\n",
+    "books": [
+      "white-identity-politics"
     ]
   }
 ]
