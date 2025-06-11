@@ -34,6 +34,10 @@
       {
         "title": "What’s Critical about Critical Social Theory?",
         "slug": "whats-critical-about-critical-social-theory"
+      },
+      {
+        "title": "Intersectionality as Critical Social Theory",
+        "slug": "intersectionality-as-critical-social-theory"
       }
     ]
   },
@@ -96,6 +100,68 @@
       {
         "title": "Section 2 - Le moment où Stuart nous révèle tout",
         "slug": "chapitre-1"
+      },
+      {
+        "title": "Ethnicity and Difference in Global Times",
+        "slug": "ethnicity-and-difference-in-global-times"
+      },
+      {
+        "title": "Nations and Diasporas",
+        "slug": "nations-and-diasporas"
+      },
+      {
+        "title": "Race — The Sliding Signifier",
+        "slug": "race-the-sliding-signifier"
+      },
+      {
+        "title": "The Fateful Triangle: Race, Ethnicity, Nation",
+        "slug": "the-fateful-triangle"
+      }
+    ]
+  },
+  {
+    "name": "Ashley Jardina",
+    "slug": "ashley-jardina",
+    "chapters": [
+      {
+        "title": "A Black Man In The White House",
+        "slug": "a-black-man-in-the-white-house"
+      },
+      {
+        "title": "Making the Invisible Visible",
+        "slug": "making-the-invisible-visible"
+      },
+      {
+        "title": "Policies that Protect the Group",
+        "slug": "policies-that-protect-the-group"
+      },
+      {
+        "title": "The Content and Contours of Whiteness",
+        "slug": "the-content-and-contours-of-whiteness"
+      },
+      {
+        "title": "The Future of White America",
+        "slug": "the-future-of-white-america"
+      },
+      {
+        "title": "The Measurement and Meaning of Group Ties",
+        "slug": "the-measurement-and-meaning-of-group-ties"
+      },
+      {
+        "title": "The New American Minority",
+        "slug": "the-new-american-minority"
+      },
+      {
+        "title": "The Preservation of Whiteness",
+        "slug": "the-preservation-of-whiteness"
+      },
+      {
+        "title": "Who Identifies as White?",
+        "slug": "who-identifies-as-white"
+      },
+      {
+        "title": "White Identity Politics",
+        "slug": "white-identity-politics"
       }
     ]
   }

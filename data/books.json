@@ -8,6 +8,11 @@
     "coverImage": "/images/covers/intersectionality-as-critical-social-theory.jpg",
     "chapters": [
       {
+        "title": "Intersectionality as Critical Social Theory",
+        "slug": "_summary",
+        "order": 0
+      },
+      {
         "title": "Intersectionality as Critical Inquiry",
         "slug": "intersectionality-as-critical-inquiry",
         "order": 1
@@ -135,17 +140,92 @@
     ]
   },
   {
-    "slug": "test-book",
-    "title": "Test Book",
-    "author": "Auteur inconnu",
-    "publicationYear": null,
-    "pageCount": null,
-    "coverImage": "/images/covers/test-book.jpg",
+    "slug": "the-fateful-triangle",
+    "title": "The Fateful Triangle: Race, Ethnicity, Nation",
+    "author": "Stuart Hall",
+    "publicationYear": 2017,
+    "pageCount": 256,
+    "coverImage": "/images/covers/the-fateful-triangle.jpg",
     "chapters": [
       {
-        "title": "Chapitre test",
-        "slug": "test",
+        "title": "The Fateful Triangle: Race, Ethnicity, Nation",
+        "slug": "_summary",
         "order": 0
+      },
+      {
+        "title": "Race — The Sliding Signifier",
+        "slug": "race-the-sliding-signifier",
+        "order": 1
+      },
+      {
+        "title": "Ethnicity and Difference in Global Times",
+        "slug": "ethnicity-and-difference-in-global-times",
+        "order": 2
+      },
+      {
+        "title": "Nations and Diasporas",
+        "slug": "nations-and-diasporas",
+        "order": 3
+      }
+    ]
+  },
+  {
+    "slug": "white-identity-politics",
+    "title": "White Identity Politics",
+    "author": "Ashley Jardina",
+    "publicationYear": 2019,
+    "pageCount": 388,
+    "coverImage": "/images/covers/white-identity-politics.jpg",
+    "chapters": [
+      {
+        "title": "White Identity Politics",
+        "slug": "_summary",
+        "order": 0
+      },
+      {
+        "title": "The New American Minority",
+        "slug": "the-new-american-minority",
+        "order": 1
+      },
+      {
+        "title": "Making the Invisible Visible",
+        "slug": "making-the-invisible-visible",
+        "order": 2
+      },
+      {
+        "title": "The Measurement and Meaning of Group Ties",
+        "slug": "the-measurement-and-meaning-of-group-ties",
+        "order": 3
+      },
+      {
+        "title": "Who Identifies as White?",
+        "slug": "who-identifies-as-white",
+        "order": 4
+      },
+      {
+        "title": "The Content and Contours of Whiteness",
+        "slug": "the-content-and-contours-of-whiteness",
+        "order": 5
+      },
+      {
+        "title": "The Preservation of Whiteness",
+        "slug": "the-preservation-of-whiteness",
+        "order": 6
+      },
+      {
+        "title": "Policies that Protect the Group",
+        "slug": "policies-that-protect-the-group",
+        "order": 7
+      },
+      {
+        "title": "A Black Man In The White House",
+        "slug": "a-black-man-in-the-white-house",
+        "order": 8
+      },
+      {
+        "title": "The Future of White America",
+        "slug": "the-future-of-white-america",
+        "order": 9
       }
     ]
   }
