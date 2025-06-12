@@ -11,7 +11,7 @@ slug: "a-black-man-in-the-white-house"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - Rôle de l’identité blanche dans les choix électoraux présidentiels (2012 et 2016)
 - Obama perçu comme menace statutaire plus que cible de haine raciale explicite
@@ -19,8 +19,9 @@ bookSlug: "white-identity-politics"
 - Donald Trump comme mobilisateur stratégique de l’identité blanche
 - Comparaison avec des figures antérieures : Wallace, Nixon, Buchanan
 - L’identité blanche comme nouvelle boussole électorale blanche
+<!--themes:end-->
 
-### Résumé et analyse
+<!--summary:start-->
 
 Ce chapitre démontre que l’**identité blanche** ne se limite pas à structurer les opinions politiques générales, mais agit comme un facteur déterminant dans les **choix électoraux présidentiels**, en particulier lors des campagnes de 2012 (Obama vs Romney) et 2016 (Trump vs Clinton).
 
@@ -33,6 +34,7 @@ En 2016, Donald Trump devient le candidat qui **mobilise le plus efficacement l�
 Elle retrace également les continuités historiques avec les campagnes de George Wallace, Richard Nixon ou Pat Buchanan, qui mobilisaient déjà un nationalisme blanc implicite. Mais Trump agit dans un contexte démographique nouveau, où la peur du basculement racialisé est plus intense.
 
 L’**identité blanche devient ainsi une heuristique électorale**, un filtre à travers lequel les électeurs blancs évaluent les candidats selon leur capacité perçue à défendre les intérêts du groupe. Cette dynamique transforme profondément le paysage politique, en instaurant la race comme ligne structurante du comportement électoral blanc.
+<!--summary:end-->
 
 <!--concepts:start-->
 

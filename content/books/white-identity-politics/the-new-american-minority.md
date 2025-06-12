@@ -11,7 +11,7 @@ slug: "the-new-american-minority"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - Montée d’une identité blanche politisée aux États-Unis
 - Diversification démographique rapide et projections de perte de majorité blanche d’ici 2043
@@ -19,8 +19,8 @@ bookSlug: "white-identity-politics"
 - Reconfiguration des conflits raciaux au-delà du paradigme noir/blanc
 - Transformation des attitudes blanches : du racisme explicite à la conscience de groupe
 - Nécessité de repenser les outils théoriques de la science politique face aux nouvelles formes de mobilisation blanche
-
-### Résumé et analyse
+<!--themes:end-->
+<!--summary:start-->
 
 Le chapitre s’ouvre sur une citation de Bill Clinton (1998) qui anticipait les effets de la diversification raciale sur la cohésion nationale. Vingt ans plus tard, les Blancs sont déjà minoritaires dans de nombreuses villes et certaines institutions symboliques sont dirigées par des personnalités issues des minorités (Barack Obama, Sonia Sotomayor). Ces évolutions déclenchent des réactions de défense blanche : manifestations, lois migratoires restrictives, rejet du multiculturalisme, rhétorique nationaliste.
 
@@ -31,7 +31,7 @@ Historiquement, l’identité blanche est inscrite dans les fondements de la cit
 Jardina propose de recentrer l’analyse sur cette **solidarité blanche**, même modérée, qui peut expliquer des préférences politiques spécifiques : soutien à des politiques sociales perçues comme profitant aux Blancs, rejet de l’immigration ou du multiculturalisme non pas par haine, mais par logique de protection du groupe. Cette identité est partagée par 30 à 40 % des Blancs selon ses enquêtes.
 
 Ce chapitre constitue un tournant conceptuel en science politique : il appelle à dépasser les analyses centrées sur l’hostilité raciale et à intégrer la logique défensive d’un groupe dominant confronté à une perte relative de pouvoir.
-
+<!--summary:end-->
 <!--concepts:start-->
 
 ### Concepts clés définis, expliqués et historicisés

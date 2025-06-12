@@ -11,7 +11,7 @@ slug: "who-identifies-as-white"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - Profil sociodémographique et psychologique des Blancs s’identifiant racialement
 - Déconstruction du mythe de l’homme blanc ouvrier comme figure dominante de l’identité blanche
@@ -19,8 +19,8 @@ bookSlug: "white-identity-politics"
 - Rôle limité des variables économiques objectives dans la prédiction de l’identité blanche
 - Répartition géographique et générationnelle des identifiants blancs
 - Approche critique des stéréotypes médiatiques sur les électeurs pro-Trump
-
-### Résumé et analyse
+<!--themes:end-->
+<!--summary:start-->
 
 Ce chapitre examine les profils des individus blancs qui s’identifient le plus fortement à leur groupe racial. Jardina interroge plusieurs variables – âge, genre, éducation, revenus, traits psychologiques – pour déconstruire le stéréotype dominant de l’électeur blanc pro-Trump : ouvrier, homme, en colère, économiquement vulnérable.
 
@@ -33,7 +33,7 @@ La géographie joue un rôle secondaire. Si les identifiants blancs sont un peu 
 Elle mobilise enfin le concept de **salaire psychologique** (W.E.B. Du Bois) pour expliquer pourquoi certains Blancs, bien qu’objectivement proches des conditions sociales des minorités, préfèrent activer une solidarité raciale plutôt que des alliances de classe. Cette stratégie symbolique permet de maintenir un sentiment de supériorité ou de distinction, même en l’absence de réels privilèges matériels.
 
 Jardina conclut que l’identité blanche est moins une conséquence de la misère qu’un instrument de défense statutaire dans un contexte de transformation sociale, culturelle et démographique rapide.
-
+<!--summary:start-->
 <!--concepts:start-->
 
 ### Concepts clés définis, expliqués et historicisés

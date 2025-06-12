@@ -11,7 +11,7 @@ slug: "the-preservation-of-whiteness"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - Rôle de l’identité blanche dans l’opinion publique américaine contemporaine
 - Ciblage politique des identifiants blancs par les élites
@@ -19,8 +19,8 @@ bookSlug: "white-identity-politics"
 - Distinction analytique entre préjugé racial et solidarité raciale blanche
 - L’identité blanche comme force politique structurante dans la défense du statut
 - Vision stratégique et sélective des politiques publiques selon leur impact perçu sur le groupe blanc
-
-### Résumé et analyse
+<!--themes:end-->
+<!--summary:start-->
 
 Ce chapitre approfondit l’analyse des conséquences politiques de l’**identité blanche**, en montrant qu’elle constitue l’un des prédicteurs les plus solides des attitudes envers l’immigration. Ashley Jardina mobilise des données issues d’enquêtes (ANES, YouGov) pour démontrer que les Blancs fortement identifiés à leur groupe racial expriment un **soutien marqué à des politiques migratoires restrictives** et manifestent une inquiétude face à la perte perçue de domination du groupe blanc.
 
@@ -31,7 +31,7 @@ Jardina introduit ici une distinction essentielle entre **préjugé racial** (ho
 Elle décrit également la **stratégie des élites politiques**, qui mobilisent cette solidarité blanche sans recourir à un discours ouvertement raciste, en s’appuyant sur la peur du déclin, le mérite ou l’identité nationale. Cela permet de maintenir des inégalités tout en évitant les stigmates associés au racisme.
 
 Enfin, Jardina démontre que l’identité blanche ne se limite pas à un enjeu spécifique. Elle fonctionne comme une **ressource politique transversale**, orientant les préférences, les votes, les représentations sociales. Loin de disparaître, elle devient un levier central dans les conflits politiques contemporains autour du pouvoir symbolique et matériel des Blancs dans une société de plus en plus plurielle.
-
+<!--summary:end-->
 <!--concepts:start-->
 
 ### Concepts clés définis, expliqués et historicisés

@@ -11,7 +11,7 @@ slug: "making-the-invisible-visible"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - Invisibilité sociale de la blancheur comme identité raciale dominante
 - Rôle du sentiment de menace statutaire dans l’activation de l’identité blanche
@@ -19,8 +19,9 @@ bookSlug: "white-identity-politics"
 - Articulation entre solidarité raciale blanche et comportements politiques
 - Tension entre préjugés raciaux explicites et attachement in-group défensif
 - L’identité dominante comme identité réactive plutôt qu’assertive
+<!--themes:end-->
 
-### Résumé et analyse
+<!--summary:start-->
 
 Dans ce chapitre, Ashley Jardina déconstruit l’idée selon laquelle la blancheur serait neutre, invisible ou universelle. Elle s’appuie sur la psychologie sociale et la sociologie critique pour montrer que cette **invisibilité** est un effet de la domination : tant que leur position hégémonique n’est pas remise en cause, les Blancs n’ont pas besoin de se penser comme un groupe. La blancheur fonctionne ainsi comme une norme implicite.
 
@@ -31,6 +32,7 @@ Jardina critique ensuite la focalisation exclusive des sciences sociales sur les
 Enfin, Jardina distingue l’**identité blanche** (sentiment d’appartenance) de la **conscience de groupe** (mobilisation collective). Elle montre que cette conscience peut émerger lorsque les menaces symboliques deviennent saillantes, et qu’elle structure alors les préférences électorales, notamment envers des candidats perçus comme protecteurs du statut blanc. L’identité blanche devient ainsi un levier politique autonome, distinct des formes explicites de racisme.
 
 Ce chapitre reformule les théories des attitudes raciales à partir du point de vue du groupe dominant, en conceptualisant la blancheur comme une identité politique conditionnellement mobilisée. Jardina fournit ainsi un outil théorique pour comprendre la reproduction du pouvoir blanc dans une société perçue comme de plus en plus multiculturelle.
+<!--summary:end-->
 
 <!--concepts:start-->
 

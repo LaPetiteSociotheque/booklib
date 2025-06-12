@@ -11,7 +11,7 @@ slug: "the-measurement-and-meaning-of-group-ties"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - Définition et mesure empirique de l’identité raciale blanche
 - Distinction entre l’identité blanche et *white consciousness*
@@ -19,8 +19,8 @@ bookSlug: "white-identity-politics"
 - Usage des outils de sondage dans l’étude des attitudes raciales
 - Importance de la validité et de la fiabilité des indicateurs en science politique
 - Séparation entre attachement *in-group* et hostilité *out-group*
-
-### Résumé et analyse
+<!--themes:end-->
+<!--summary:start-->
 
 Dans ce chapitre, Ashley Jardina précise les outils conceptuels et méthodologiques permettant de mesurer empiriquement l’attachement des Blancs à leur groupe racial. Elle inscrit son analyse dans une tradition des sciences sociales qui conçoit l’identité comme un **attachement psychologique** à un groupe, à la fois cognitif et affectif.
 
@@ -31,7 +31,7 @@ En analysant les enquêtes ANES (2012, 2016) et YouGov (2016), Jardina montre qu
 Jardina aborde ensuite les questions de validité des indicateurs : biais de désirabilité sociale, différence entre modes d’administration (en ligne ou en face-à-face), limites des outils implicites comme le *feeling thermometer*. Elle justifie l’usage de **mesures explicites** pour capter la force de l’identité raciale blanche, malgré les contraintes méthodologiques.
 
 Enfin, elle insiste sur le fait que ni l’identité blanche ni la conscience blanche ne sont réductibles au racisme explicite. Les données statistiques démontrent que **solidarité in-group** et **hostilité out-group** doivent être analysées séparément. Cette distinction est fondamentale pour les chapitres suivants, qui étudieront les effets spécifiques de l’identité blanche sur les préférences politiques.
-
+<!--summary:end-->
 <!--concepts:start-->
 
 ### Concepts clés définis, expliqués et historicisés

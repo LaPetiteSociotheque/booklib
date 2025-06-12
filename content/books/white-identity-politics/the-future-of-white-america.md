@@ -11,7 +11,7 @@ slug: "the-future-of-white-america"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - Effets à long terme de l’identité blanche et de la *white consciousness* sur la politique américaine
 - Polarisation partisane croissante autour des lignes raciales
@@ -19,8 +19,8 @@ bookSlug: "white-identity-politics"
 - Rôle des élites politiques dans l’activation ou l’atténuation du clivage racial
 - Maintien de la hiérarchie raciale par réincorporation stratégique dans la *whiteness*
 - Limites de la lutte contre l’inégalité raciale fondée uniquement sur le changement d’attitudes
-
-### Résumé et analyse
+<!--themes:end-->
+<!--summary:start-->
 
 Dans ce chapitre prospectif, Ashley Jardina interroge les **implications durables de l’identité blanche** dans une société américaine en mutation démographique rapide. Elle rappelle que dans certains États (Californie, Texas, Hawaï), les Blancs sont déjà numériquement minoritaires, et que cette perspective nationale nourrit chez une partie d’entre eux un **sentiment d’alerte statutaire**, renforçant une conscience raciale active.
 
@@ -33,7 +33,7 @@ Elle avertit également du rôle central que jouent les **élites politiques**, 
 Enfin, Jardina déconstruit le **mythe démographique de la minorisation blanche**, qui suppose une dilution inévitable du pouvoir blanc. Elle montre que la *whiteness* peut se recomposer en incorporant certains groupes auparavant perçus comme non-blancs (Italiens, Irlandais, certains Latinos ou Asiatiques), maintenant ainsi la hiérarchie raciale.
 
 Elle conclut que les luttes pour l’égalité devront désormais affronter **deux formes de résistance** : le racisme explicite et la défense euphémisée du statut racial dominant sous couvert d’intérêt collectif. L’**idéologie blanche** est appelée à jouer un rôle structurant dans le futur politique des États-Unis.
-
+<!--summary:end-->
 <!--concepts:start-->
 
 ### Concepts clés définis, expliqués et historicisés

@@ -11,7 +11,7 @@ slug: "policies-that-protect-the-group"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - Fonction heuristique des appartenances de groupe dans la formation de l’opinion politique
 - Préférences politiques fondées sur les intérêts perçus du groupe racial blanc
@@ -19,8 +19,8 @@ bookSlug: "white-identity-politics"
 - Distinguer l’identité blanche de l’hostilité envers les minorités : *in-group protection* ≠ *out-group animus*
 - Influence stratégique des encadrements politiques sur la perception raciale des politiques publiques
 - Usage de l’identité blanche comme boussole politique implicite
-
-### Résumé et analyse
+<!--themes:end-->
+<!--summary:start-->
 
 Dans ce chapitre, Ashley Jardina poursuit son analyse de l’influence de l’**identité blanche** sur les préférences politiques. Elle montre que de nombreux Blancs fortement identifiés à leur race forment leurs opinions en fonction des bénéfices perçus pour leur groupe, plutôt qu’en vertu de principes idéologiques abstraits. Elle mobilise ici l’idée, issue de Philip Converse, que les citoyens utilisent des **raccourcis cognitifs**, comme l’appartenance groupale, pour structurer leurs jugements politiques.
 
@@ -31,7 +31,7 @@ Jardina insiste sur le rôle de l’**encadrement politique et culturel** : les 
 Les élites politiques jouent un rôle central dans ce processus. En cadrant certaines mesures comme « appartenant » au groupe blanc, elles mobilisent des segments significatifs de l’électorat sans recourir à un discours explicitement raciste. Jardina démontre ainsi que l’identité blanche constitue un **repère cognitif stable**, activé dans des contextes électoraux ou de débat public.
 
 Ce chapitre approfondit donc l’idée que l’adhésion à certaines politiques ne reflète pas uniquement des préférences idéologiques ou économiques individuelles, mais une logique de **solidarité raciale implicite**, orientée vers la préservation du statut collectif.
-
+<!--summary:end-->
 <!--concepts:start-->
 
 ### Concepts clés définis, expliqués et historicisés

@@ -11,7 +11,7 @@ slug: "the-content-and-contours-of-whiteness"
 bookSlug: "white-identity-politics"
 ---
 
-### Thèmes centraux
+<!--themes:start-->
 
 - *Whiteness* comme construction culturelle invisible mais structurante
 - Contenu normatif de l’identité blanche : nationalisme, fierté, griefs
@@ -19,8 +19,8 @@ bookSlug: "white-identity-politics"
 - Sentiment de privation relative et perception de compétition raciale
 - Étayage empirique de la dimension idéologique de la blanchité
 - Déstabilisation du mythe de l’identité blanche comme vide de sens
-
-### Résumé et analyse
+<!--themes:end-->
+<!--summary:start-->
 
 Contre l’idée répandue selon laquelle l’identité blanche serait vide, universelle ou dénuée de contenu, Ashley Jardina démontre que les individus fortement identifiés à leur race possèdent une représentation cohérente, investie et idéologisée de la blancheur. À partir de questionnaires fermés et ouverts (enquêtes ANES, YouGov, MTurk), elle met en lumière trois axes majeurs :
 
@@ -33,7 +33,7 @@ Enfin, un **sentiment de concurrence et de victimisation**. De nombreux identifi
 Jardina mobilise les théories de la menace et du conflit intergroupe pour démontrer que ce sentiment de menace est avant tout **subjectif**. La blancheur fonctionne ainsi comme une **idéologie racialisée**, donnant sens à des préférences politiques spécifiques : opposition à l’immigration, attachement à une américanité restrictive, soutien à une histoire blanche de la nation.
 
 Ce chapitre permet de conceptualiser *whiteness* non comme un vide identitaire, mais comme un **répertoire normatif actif**, structurant l’appartenance nationale, les frontières symboliques et les comportements politiques.
-
+<!--summary:end-->
 <!--concepts:start-->
 
 ### Concepts clés définis, expliqués et historicisés
