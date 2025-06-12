@@ -56,6 +56,8 @@ Chez Jones, il s’agit d’un féminisme matérialiste centré sur les femmes n
 🔹 **Contexte historique**  
 Ce féminisme naît en opposition au féminisme blanc bourgeois et au nationalisme noir patriarcal. Il prolonge les combats de figures comme Sojourner Truth et Frances Harper, et sera plus tard développé par Audre Lorde, bell hooks ou le Combahee River Collective.
 
+
+
 [**Diaspora noire**](/concepts/diaspora-noire)
 
 🔹 **Définition**  
