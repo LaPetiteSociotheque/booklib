@@ -8,7 +8,7 @@ const bookSlugs = fs.readdirSync(booksDir);
 const books = bookSlugs.map((bookSlug) => {
   const bookPath = path.join(booksDir, bookSlug);
 
-  // 📄 Récupérer tous les chapitres (fichiers .md)
+  // Vérifie que le dossier contient des fichiers Markdown
   const chapterFiles = fs
     .readdirSync(bookPath)
     .filter((f) => f.endsWith(".md"));
@@ -28,17 +28,41 @@ const books = bookSlugs.map((bookSlug) => {
   let publicationYear = null;
   let pageCount = null;
   let coverImage = `/images/covers/${bookSlug}.jpg`;
+  let description = "";
 
+  // Cherche un fichier _summary.md
+  const summaryPath = path.join(bookPath, "_summary.md");
+  if (fs.existsSync(summaryPath)) {
+    const rawContent = fs.readFileSync(summaryPath, "utf-8");
+    const { data: summaryData, content: summaryBody } = matter(rawContent);
+
+    // Mise à jour prioritaire depuis _summary.md si info présente
+    if (summaryData.title) bookTitle = summaryData.title;
+    if (summaryData.author) author = summaryData.author;
+    if (summaryData.publicationYear) publicationYear = summaryData.publicationYear;
+    if (summaryData.pageCount) pageCount = summaryData.pageCount;
+
+    // Extraire le premier paragraphe non vide
+    description = summaryBody
+      .split(/\r?\n\r?\n/)
+      .map((p) => p.trim())
+      .find((p) => p.length > 0)
+      ?.replace(/\*\*(.*?)\*\*/g, "$1")
+      .replace(/\*(.*?)\*/g, "$1")
+      .replace(/`(.*?)`/g, "$1") || "";
+  }
+
+  // Récupérer tous les chapitres
   const chapters = chapterFiles
+    .filter((f) => f !== "_summary.md") // Ne pas inclure le résumé comme chapitre
     .map((filename) => {
       const filePath = path.join(bookPath, filename);
       const { data } = matter(fs.readFileSync(filePath, "utf-8"));
 
-      // 🔁 Récupérer les métadonnées globales dès qu'on les trouve
+      // Récupération éventuelle d'infos manquantes
       if (!bookTitle && data.bookTitle) bookTitle = data.bookTitle;
       if (!author && data.author) author = data.author;
-      if (!publicationYear && data.publicationYear)
-        publicationYear = data.publicationYear;
+      if (!publicationYear && data.publicationYear) publicationYear = data.publicationYear;
       if (!pageCount && data.pageCount) pageCount = data.pageCount;
       if (!coverImage && data.coverImage) coverImage = data.coverImage;
 
@@ -56,7 +80,8 @@ const books = bookSlugs.map((bookSlug) => {
     author: author || "Auteur inconnu",
     publicationYear: publicationYear || null,
     pageCount: pageCount || null,
-    coverImage: coverImage,
+    coverImage,
+    description,
     chapters,
   };
 });
@@ -64,4 +89,4 @@ const books = bookSlugs.map((bookSlug) => {
 const outputFile = path.join(process.cwd(), "data", "books.json");
 fs.mkdirSync(path.dirname(outputFile), { recursive: true });
 fs.writeFileSync(outputFile, JSON.stringify(books, null, 2));
-console.log("✅ books.json généré avec succès dans /data");
+console.log("✅ books.json généré avec succès avec descriptions dans /data");

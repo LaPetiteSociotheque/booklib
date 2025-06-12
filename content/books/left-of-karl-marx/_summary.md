@@ -1,5 +1,5 @@
 ---
-title: "Résumé"
+title: "Left of Karl Marx : The Life Of Black Communist Claudia Jones"
 book: "Left of Karl Marx : The Life Of Black Communist Claudia Jones"
 publicationYear: 2007
 pageCount: 348

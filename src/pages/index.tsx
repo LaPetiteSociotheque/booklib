@@ -11,14 +11,34 @@ export async function getStaticProps() {
   const fileContents = fs.readFileSync(filePath, "utf-8")
   const books = JSON.parse(fileContents)
 
-  return { props: { books } }
+  // Génération d'un hash basé sur la date (ex : "2025-06-12")
+  const today = new Date()
+  const daySeed = today.toISOString().split("T")[0]
+  const hash = daySeed.split("").reduce((acc, char) => acc + char.charCodeAt(0), 0)
+
+  // Fiches de lecture en vedette (2 livres)
+  const featuredBookStart = hash % Math.max(books.length - 1, 1)
+  const featuredBooks = books.slice(featuredBookStart, featuredBookStart + 2)
+
+  // Derniers livres
+  const latestBooks = books.slice(-2)
+
+  // Auteurs en vedette (3 auteurs)
+  const featuredAuthorStart = hash % Math.max(authorsIndex.length - 2, 1)
+  const featuredAuthors = authorsIndex.slice(featuredAuthorStart, featuredAuthorStart + 3)
+
+  return {
+    props: {
+      books,
+      featuredBooks,
+      latestBooks,
+      featuredAuthors,
+    },
+    revalidate: 86400, // revalider tous les jours
+  }
 }
 
-export default function HomePage({ books }) {
-  const featuredBooks = books.slice(0, 2)
-  const latestBooks = books.slice(-2)
-  const featuredAuthors = authorsIndex.slice(0, 3)
-
+export default function HomePage({ books, featuredBooks, latestBooks, featuredAuthors }) {
   return (
     <>
       <Head>

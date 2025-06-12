@@ -6,12 +6,8 @@
     "publicationYear": 2019,
     "pageCount": 376,
     "coverImage": "/images/covers/intersectionality-as-critical-social-theory.jpg",
+    "description": "Intersectionality as Critical Social Theory propose une défense rigoureuse de l’intersectionnalité en tant que cadre de pensée critique, ancré dans les luttes sociales et les traditions intellectuelles subalternes. Patricia Hill Collins y développe une conception relationnelle et transformatrice de l’analyse sociale, refusant l’addition mécanique des catégories (race, genre, classe) au profit d’une pensée en systèmes co-constitutifs.",
     "chapters": [
-      {
-        "title": "Intersectionality as Critical Social Theory",
-        "slug": "_summary",
-        "order": 0
-      },
       {
         "title": "Intersectionality as Critical Inquiry",
         "slug": "intersectionality-as-critical-inquiry",
@@ -61,12 +57,8 @@
     "publicationYear": 2007,
     "pageCount": 348,
     "coverImage": "/images/covers/left-of-karl-marx.jpg",
+    "description": "Dans Left of Karl Marx, Carole Boyce Davies évalue l'activisme, les écrits et l'héritage de Claudia Jones (1915-1964), intellectuelle radicale afro-caribéenne pionnière, communiste convaincue et féministe. Jones est enterrée au cimetière Highgate de Londres, à gauche de Karl Marx - un emplacement que Boyce Davies trouve approprié étant donné que Jones a élargi le marxisme-léninisme pour incorporer le genre et la race dans sa critique politique et son militantisme.",
     "chapters": [
-      {
-        "title": "Résumé",
-        "slug": "_summary",
-        "order": 0
-      },
       {
         "title": "Introduction",
         "slug": "introduction",
@@ -111,6 +103,7 @@
     "publicationYear": null,
     "pageCount": null,
     "coverImage": "/images/covers/make-your-own-job.jpg",
+    "description": "",
     "chapters": [
       {
         "title": "Make Your Own Job: How The Entrepreneurial Work Ethic Exhausted America",
@@ -126,6 +119,7 @@
     "publicationYear": null,
     "pageCount": null,
     "coverImage": "/images/covers/race-articulation.jpg",
+    "description": "",
     "chapters": [
       {
         "title": "Section 1 — Ruptures théoriques : critiques du réductionnisme et émergence de l’articulation",
@@ -146,12 +140,8 @@
     "publicationYear": 2017,
     "pageCount": 256,
     "coverImage": "/images/covers/the-fateful-triangle.jpg",
+    "description": "Dans The Fateful Triangle — issu de conférences données à l’université Harvard en 1994 — l’une des figures fondatrices des cultural studies réfléchit aux conséquences clivantes, souvent mortelles, des politiques contemporaines de l’identification. En démêlant les rapports de pouvoir qui traversent les catégories de race, d’ethnicité et de nationalité, Stuart Hall montre comment les anciennes hiérarchies de l’identité humaine dans la culture occidentale ont été violemment déconstruites lorsque des groupes opprimés ont introduit de nouvelles significations dans la représentation de la différence.",
     "chapters": [
-      {
-        "title": "The Fateful Triangle: Race, Ethnicity, Nation",
-        "slug": "_summary",
-        "order": 0
-      },
       {
         "title": "Race — The Sliding Signifier",
         "slug": "race-the-sliding-signifier",
@@ -176,12 +166,8 @@
     "publicationYear": 2019,
     "pageCount": 388,
     "coverImage": "/images/covers/white-identity-politics.jpg",
+    "description": "La blancheur, autrefois considérée comme invisible en raison de la position dominante des Blancs et de leur capacité à se confondre avec la norme, fait désormais l’objet d’une identification active de la part d’une large partie d’entre eux, qui soutiennent des politiques et des candidats perçus comme protégeant leur pouvoir et leur statut.\r\nDans White Identity Politics, Ashley Jardina propose une analyse décisive des nouvelles formes d’identité blanche et des comportements politiques collectifs qui en découlent, en s’appuyant sur un vaste corpus de données. Là où les recherches précédentes sur les attitudes raciales des Blancs mettaient l’accent sur l’hostilité envers les groupes extérieurs, Jardina recentre l’attention sur l’importance de l’identification au groupe d’appartenance et du favoritisme in-group.\r\nWhite Identity Politics montre que les Blancs mécontents ne se trouvent pas uniquement au sein des classes populaires : ils représentent une part importante de la population américaine — avec des conséquences profondes sur les comportements politiques et l’avenir des conflits raciaux aux États-Unis.",
     "chapters": [
-      {
-        "title": "White Identity Politics",
-        "slug": "_summary",
-        "order": 0
-      },
       {
         "title": "The New American Minority",
         "slug": "the-new-american-minority",
