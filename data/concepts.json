@@ -1,5 +1,14 @@
 [
   {
+    "title": "Accumulation primitive",
+    "slug": "accumulation-primitive",
+    "definition": "Processus historique de séparation des producteur·ices d’avec leurs moyens de subsistance, qui permet la formation d’un prolétariat dépendant du travail salarié.\n",
+    "historicalContext": "Concept central de Karl Marx dans Le Capital, décrit comme préalable au capitalisme. Silvia Federici en propose une relecture féministe en intégrant la répression des femmes, la chasse aux sorcières et la colonisation.\n",
+    "books": [
+      "caliban-and-the-witch"
+    ]
+  },
+  {
     "title": "Activisme culturel",
     "slug": "activisme-culturel",
     "definition": "Engagement politique via les pratiques culturelles (arts, fêtes, presse).\n",
@@ -51,6 +60,15 @@
     "historicalContext": "Concept théorisé par Stanley Fish dans les études littéraires, puis réinvesti dans les épistémologies féministes pour penser la production collective de savoir dans les espaces militants, familiaux ou culturels.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Communs",
+    "slug": "communs",
+    "definition": "Ressources partagées, gérées collectivement par une communauté selon des règles auto-définies, hors du marché et de l’État.\n",
+    "historicalContext": "Historiquement liés aux terres communautaires en Europe. Leur destruction par les enclosures marque un moment-clé de l’accumulation primitive. Federici en propose une revalorisation féministe.\n",
+    "books": [
+      "caliban-and-the-witch"
     ]
   },
   {
@@ -117,6 +135,15 @@
     ]
   },
   {
+    "title": "Différence sexuelle",
+    "slug": "difference-sexuelle",
+    "definition": "Construction sociale et historique des oppositions entre les sexes, utilisée pour justifier des hiérarchies sociales et économiques.\n",
+    "historicalContext": "Thématisée par les féminismes matérialistes, elle est ici analysée comme une production du capitalisme naissant, assignant les femmes à la sphère reproductive.\n",
+    "books": [
+      "caliban-and-the-witch"
+    ]
+  },
+  {
     "title": "Écriture carcérale",
     "slug": "ecriture-carcerale",
     "definition": "Production littéraire issue de l’expérience de l’enfermement, révélant l’aliénation et la politisation du vécu répressif.\n",
@@ -171,6 +198,15 @@
     ]
   },
   {
+    "title": "Féminisation coloniale",
+    "slug": "feminisation-coloniale",
+    "definition": "Processus discursif et politique par lequel la colonie est représentée comme une femme à dominer, civiliser ou protéger.\n",
+    "historicalContext": "Analysée dans les études de genre postcoloniales. Federici y voit une continuité entre patriarcat et impérialisme.\n",
+    "books": [
+      "caliban-and-the-witch"
+    ]
+  },
+  {
     "title": "Féminisme marxiste noir",
     "slug": "feminisme-marxiste-noir",
     "definition": "Courant critique qui lie analyse marxiste de la production et critique du racisme et du patriarcat. Pour Jones, les droits des femmes noires sont constitutifs de la lutte des classes.\n",
@@ -198,10 +234,19 @@
     ]
   },
   {
+    "title": "Homo œconomicus",
+    "slug": "homo-oeconomicus",
+    "definition": "Sujet économique rationnel, individualiste, maximisant ses intérêts. Figure normative du capitalisme.\n",
+    "historicalContext": "Critique de l’économie politique classique. Federici montre comment ce modèle est produit historiquement par la discipline des corps et l’effacement des subjectivités collectives.\n",
+    "books": [
+      "caliban-and-the-witch"
+    ]
+  },
+  {
     "title": "Identité blanche",
     "slug": "identite-blanche",
-    "definition": "Sentiment subjectif d’appartenance au groupe racial blanc, mobilisé comme cadre d’interprétation du monde social et politique. Elle se manifeste par la perception d’un sort commun, d’intérêts partagés et d’une solidarité entre Blancs. Elle peut être activée par la perception d’une menace envers le statut collectif du groupe, sans nécessairement impliquer un racisme explicite. (White Identity Politics, Jardina, Chapitre 1)\nAttachement subjectif et émotionnel au groupe racial blanc, qui oriente les préférences politiques non pas en fonction de principes universels, mais selon l’impact perçu sur le groupe blanc. Cet attachement fonctionne comme une grille de lecture du monde social et politique. (White Identity Politics, Jardina, Chapitre 6)\n",
-    "historicalContext": "Longtemps restée invisible du fait de l’hégémonie blanche, cette identité a été ignorée par les sciences sociales. Elle se manifeste aujourd’hui dans un contexte de diversification démographique rapide (notamment post-1965) et de perte projetée du statut de majorité blanche d’ici 2043. Jardina en fait un objet politique distinct du racisme classique, appelant à sa théorisation spécifique. (White Identity Politics, Jardina, Chapitre 1)\nL’idée d’une conscience raciale blanche a longtemps été ignorée ou disqualifiée dans la recherche. Jardina démontre qu’à l’ère post-Obama et dans le sillage de la mobilisation pro-Trump, l’identité blanche devient une variable politique autonome, mesurable empiriquement et distincte du racisme explicite. (White Identity Politics, Jardina, Chapitre 6)\n",
+    "definition": "Sentiment subjectif d’appartenance au groupe racial blanc, mobilisé comme cadre d’interprétation du monde social et politique. Elle se manifeste par la perception d’un sort commun, d’intérêts partagés et d’une solidarité entre Blancs. Elle peut être activée par la perception d’une menace envers le statut collectif du groupe, sans nécessairement impliquer un racisme explicite. (White Identity Politics, Jardina, Chapitre 1)\n\nAttachement subjectif et émotionnel au groupe racial blanc, qui oriente les préférences politiques non pas en fonction de principes universels, mais selon l’impact perçu sur le groupe blanc. Cet attachement fonctionne comme une grille de lecture du monde social et politique. (White Identity Politics, Jardina, Chapitre 6)\n",
+    "historicalContext": "Longtemps restée invisible du fait de l’hégémonie blanche, cette identité a été ignorée par les sciences sociales. Elle se manifeste aujourd’hui dans un contexte de diversification démographique rapide (notamment post-1965) et de perte projetée du statut de majorité blanche d’ici 2043. Jardina en fait un objet politique distinct du racisme classique, appelant à sa théorisation spécifique. (White Identity Politics, Jardina, Chapitre 1)\n\nL’idée d’une conscience raciale blanche a longtemps été ignorée ou disqualifiée dans la recherche. Jardina démontre qu’à l’ère post-Obama et dans le sillage de la mobilisation pro-Trump, l’identité blanche devient une variable politique autonome, mesurable empiriquement et distincte du racisme explicite. (White Identity Politics, Jardina, Chapitre 6)\n",
     "books": [
       "white-identity-politics"
     ]
@@ -306,6 +351,15 @@
     ]
   },
   {
+    "title": "Naturalisation",
+    "slug": "naturalisation",
+    "definition": "Processus par lequel des rapports sociaux ou politiques sont présentés comme naturels, donc immuables et universels.\n",
+    "historicalContext": "Critiquée dans les théories critiques, notamment féministes et postcoloniales, pour masquer l’origine historique et politique des hiérarchies sociales.\n",
+    "books": [
+      "caliban-and-the-witch"
+    ]
+  },
+  {
     "title": "Neutralisation institutionnelle",
     "slug": "neutralisation-institutionnelle",
     "definition": "Processus par lequel un concept critique est intégré dans les structures académiques ou politiques sans transformation des rapports de pouvoir, perdant ainsi sa force subversive.\n",
@@ -405,6 +459,24 @@
     ]
   },
   {
+    "title": "Répression reproductive",
+    "slug": "repression-reproductive",
+    "definition": "Ensemble des mécanismes de contrôle de la capacité reproductive des femmes, au service des intérêts économiques ou politiques.\n",
+    "historicalContext": "Thématisée par les féministes noires et marxistes. Federici l’analyse comme une composante centrale de l’accumulation capitaliste.\n",
+    "books": [
+      "caliban-and-the-witch"
+    ]
+  },
+  {
+    "title": "Reproduction sociale",
+    "slug": "reproduction-sociale",
+    "definition": "Ensemble des activités (éducation, soin, sexualité, reproduction biologique) qui assurent la production et le maintien de la force de travail.\n",
+    "historicalContext": "Concept développé par les féminismes marxistes dans les années 1970. Federici en fait un axe central de l’analyse du capitalisme.\n",
+    "books": [
+      "caliban-and-the-witch"
+    ]
+  },
+  {
     "title": "Résistance épistémique",
     "slug": "resistance-epistemique",
     "definition": "Pratiques cognitives et théoriques par lesquelles les groupes opprimés contestent les savoirs hégémoniques légitimant leur domination.\n",
@@ -446,6 +518,15 @@
     "definition": "",
     "historicalContext": "",
     "books": []
+  },
+  {
+    "title": "Sexualisation coloniale",
+    "slug": "sexualisation-coloniale",
+    "definition": "Attribution de caractéristiques sexuelles dégradantes ou exotiques aux peuples colonisés, servant à justifier leur domination.\n",
+    "historicalContext": "Développée dans les études postcoloniales et féministes noires. Federici l’utilise pour décrire l’imaginaire racial et sexuel de la conquête.\n",
+    "books": [
+      "caliban-and-the-witch"
+    ]
   },
   {
     "title": "Signifiant flottant",

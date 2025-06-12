@@ -1,5 +1,46 @@
 [
   {
+    "slug": "caliban-and-the-witch",
+    "title": "Caliban and the Witch",
+    "author": "Silvia Federici",
+    "publicationYear": 2004,
+    "pageCount": 285,
+    "coverImage": "/images/covers/caliban-and-the-witch.jpg",
+    "description": "Silvia Federici propose, dans Caliban and the Witch, une lecture féministe, matérialiste et historique de la naissance du capitalisme, en replaçant au cœur de ce processus la violence de genre et la réorganisation du travail reproductif. En rupture avec les récits classiques de l’accumulation primitive, elle montre que le capitalisme ne s’est pas constitué seulement par l’expropriation des terres ou la mise au travail salarié, mais aussi — et surtout — par la destruction des formes communautaires de vie et la discipline du corps, en particulier celui des femmes.",
+    "chapters": [
+      {
+        "title": "Introduction",
+        "slug": "introduction",
+        "order": 1
+      },
+      {
+        "title": "All the World Needs a Jolt",
+        "slug": "all-the-world-needs-a-jolt",
+        "order": 2
+      },
+      {
+        "title": "The Accumulation of Labor and the Degradation of Women",
+        "slug": "accumulation-of-labor-degradation-of-women",
+        "order": 3
+      },
+      {
+        "title": "The Great Caliban",
+        "slug": "the-great-caliban",
+        "order": 4
+      },
+      {
+        "title": "The Great Witch Hunt In Europe",
+        "slug": "the-great-witch-hunt-in-europe",
+        "order": 5
+      },
+      {
+        "title": "Colonization and Christianization",
+        "slug": "colonization-and-christianization",
+        "order": 6
+      }
+    ]
+  },
+  {
     "slug": "intersectionality-as-critical-social-theory",
     "title": "Intersectionality as Critical Social Theory",
     "author": "Patricia Hill Collins",

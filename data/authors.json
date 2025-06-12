@@ -1,5 +1,39 @@
 [
   {
+    "name": "Silvia Federici",
+    "slug": "silvia-federici",
+    "chapters": [
+      {
+        "title": "The Accumulation of Labor and the Degradation of Women",
+        "slug": "accumulation-of-labor-degradation-of-women"
+      },
+      {
+        "title": "All the World Needs a Jolt",
+        "slug": "all-the-world-needs-a-jolt"
+      },
+      {
+        "title": "Colonization and Christianization",
+        "slug": "colonization-and-christianization"
+      },
+      {
+        "title": "Introduction",
+        "slug": "introduction"
+      },
+      {
+        "title": "The Great Caliban",
+        "slug": "the-great-caliban"
+      },
+      {
+        "title": "The Great Witch Hunt In Europe",
+        "slug": "the-great-witch-hunt-in-europe"
+      },
+      {
+        "title": "Caliban and the Witch",
+        "slug": "caliban-and-the-witch"
+      }
+    ]
+  },
+  {
     "name": "Patricia Hill Collins",
     "slug": "patricia-hill-collins",
     "chapters": [
@@ -74,7 +108,7 @@
         "slug": "superexploitation"
       },
       {
-        "title": "Résumé",
+        "title": "Left of Karl Marx : The Life Of Black Communist Claudia Jones",
         "slug": "carnival"
       }
     ]

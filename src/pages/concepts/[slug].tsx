@@ -24,6 +24,22 @@ type Props = {
 }
 
 export default function ConceptPage({ concept, bookTitles }: Props) {
+  const renderParagraphs = (text: string) => {
+    return text
+      .trim()
+      .split(/\n\s*\n/) // Découpe par paragraphes (double saut de ligne ou lignes vides)
+      .map((para, i) => (
+        <p key={i}>
+          {para.split('\n').map((line, j) => (
+            <span key={j}>
+              {line}
+              {j < para.split('\n').length - 1 && <br />}
+            </span>
+          ))}
+        </p>
+      ))
+  }
+
   return (
     <>
       <Head>
@@ -43,12 +59,16 @@ export default function ConceptPage({ concept, bookTitles }: Props) {
           <div className="bg-[#f4e9dd] border border-[#e0d4c4] p-6 rounded-xl space-y-8">
             <section>
               <h2 className="text-2xl font-semibold text-[#B74E22] mb-2">Définition</h2>
-              <p className="prose prose-neutral dark:prose-invert">{concept.definition}</p>
+              <div className="prose prose-neutral dark:prose-invert space-y-4">
+                {renderParagraphs(concept.definition)}
+              </div>
             </section>
 
             <section>
               <h2 className="text-2xl font-semibold text-[#B74E22] mb-2">Contexte historique</h2>
-              <p className="prose prose-neutral dark:prose-invert">{concept.historicalContext}</p>
+              <div className="prose prose-neutral dark:prose-invert space-y-4">
+                {renderParagraphs(concept.historicalContext)}
+              </div>
             </section>
           </div>
 

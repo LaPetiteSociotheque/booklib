@@ -1,0 +1,10 @@
+---
+name: "Silvia Federici"
+slug: "silvia-federici"
+---
+
+Silvia Federici (née en 1942) est une intellectuelle, enseignante et militante féministe marxiste italo-américaine, installée à New York. Elle est professeure émérite et chargée de cours à l’université Hofstra dans l’État de New York, où elle a enseigné les sciences sociales. Elle a également enseigné à l’université de Port Harcourt, au Nigeria, de 1984 à 1986. En 1972, avec Mariarosa Dalla Costa et Selma James, elle cofonde le Collectif féministe international, l’organisation à l’origine de la campagne *Wages for Housework*.
+
+En 1990, Federici cofonde le Committee for Academic Freedom in Africa (CAFA) et, avec Ousseina Alidou, elle codirige pendant plus de dix ans le bulletin du CAFA. Elle est également membre de l’Academic Association of Africa Scholars (ACAS) et l’une des voix soutenant les luttes étudiantes à travers le continent africain et aux États-Unis. En 1995, dans le cadre de la campagne pour la libération de Mumia Abu-Jamal, elle cofonde le projet contre la peine de mort de la Radical Philosophy Association (RPA), une organisation visant à faire des enseignant·es une force active pour l’abolition de la peine capitale. De 1979 à 2003, elle a été membre du collectif Midnight Notes.
+
+Federici est aujourd’hui reconnue comme l’une des principales théoriciennes du féminisme marxiste, de l’histoire des femmes, de la philosophie politique et des théories des communs. Son ouvrage le plus célèbre, *Caliban and the witch*, a été traduit dans plus de vingt langues et est enseigné dans de nombreux cours aux États-Unis et dans d’autres pays. Souvent décrit comme un contrepoint à l’analyse marxienne de « l’accumulation primitive », Caliban reconstruit l’histoire du capitalisme en soulignant la continuité entre la subjugation capitaliste des femmes, la traite transatlantique des esclaves et la colonisation des Amériques. L’ouvrage a été qualifié de première histoire du capitalisme plaçant les femmes au centre. Le travail de Federici dans Caliban a solidifié sa place dans le canon théorique féministe et marxiste.
