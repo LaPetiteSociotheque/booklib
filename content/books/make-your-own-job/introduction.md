@@ -7,6 +7,8 @@ coverImage: /images/covers/make-your-own-job.jpg
 author: "Erik M. Baker"
 slug: "make-your-own-job"
 bookSlug: "make-your-own-job"
+publicationYear: 2025
+pageCount: 352
 concepts:
     - articulation
 ---
