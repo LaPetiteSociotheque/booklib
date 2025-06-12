@@ -124,6 +124,44 @@
     ]
   },
   {
+    "name": "Nick Estes",
+    "slug": "nick-estes",
+    "chapters": [
+      {
+        "title": "Flood",
+        "slug": "flood"
+      },
+      {
+        "title": "Internationalism",
+        "slug": "internationalism"
+      },
+      {
+        "title": "Liberation",
+        "slug": "liberation"
+      },
+      {
+        "title": "Origins",
+        "slug": "origins"
+      },
+      {
+        "title": "Prologue: Prophets",
+        "slug": "prologue-prophets"
+      },
+      {
+        "title": "Siege",
+        "slug": "siege"
+      },
+      {
+        "title": "War",
+        "slug": "war"
+      },
+      {
+        "title": "Our History Is the Future",
+        "slug": "our-history-is-the-future"
+      }
+    ]
+  },
+  {
     "name": "Stuart Hall",
     "slug": "stuart-hall",
     "chapters": [

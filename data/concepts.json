@@ -36,6 +36,15 @@
     ]
   },
   {
+    "title": "Colonialisme d’infrastructure",
+    "slug": "colonialisme-infrastructure",
+    "definition": "Forme de domination coloniale utilisant des projets d’aménagement (barrages, routes, pipelines) pour contrôler, déplacer ou effacer des populations autochtones.\n",
+    "historicalContext": "Déployé au XXe siècle par l’État fédéral américain, notamment à travers le Pick-Sloan Plan, qui a inondé les terres des réserves sioux. Nick Estes montre que ces infrastructures servent à déposséder les peuples indigènes de leurs ressources, à réorganiser leur espace de vie et à imposer une dépendance structurelle aux institutions coloniales.\n",
+    "books": [
+      "our-history-is-the-future"
+    ]
+  },
+  {
     "title": "Communauté de résistance épistémique",
     "slug": "communaute-de-resistance-epistemique",
     "definition": "Collectif social et intellectuel qui produit du savoir à partir de l’expérience de l’oppression et remet en cause les normes dominantes de légitimation théorique.\n",
@@ -78,6 +87,15 @@
     "historicalContext": "Concept clé de Michel Foucault. Utilisé dans les Cultural Studies pour déconstruire les catégories issues du racisme scientifique et colonial.\n",
     "books": [
       "the-fateful-triangle"
+    ]
+  },
+  {
+    "title": "Contre-insurrection mondiale",
+    "slug": "contre-insurrection-mondiale",
+    "definition": "Stratégie impériale visant à réprimer les mouvements révolutionnaires et anticoloniaux à l’échelle planétaire, en les criminalisant et en les surveillant.\n",
+    "historicalContext": "Déployée par les États-Unis pendant la guerre froide, notamment contre l’AIM, accusé de liens avec des mouvements étrangers. Nick Estes montre que les peuples autochtones, bien qu’intérieurs à l’Empire, sont traités comme des ennemis extérieurs dans une logique de guerre permanente. Cette stratégie se poursuit à Standing Rock via la militarisation, les drones et la surveillance.\n",
+    "books": [
+      "our-history-is-the-future"
     ]
   },
   {
@@ -234,6 +252,15 @@
     ]
   },
   {
+    "title": "Guerre permanente",
+    "slug": "guerre-permanente",
+    "definition": "Logique d’affrontement continu menée par les États coloniaux contre les peuples autochtones, au-delà des périodes de conflit militaire officiel.\n",
+    "historicalContext": "Concept mobilisé par Nick Estes pour désigner la continuité de la violence coloniale — militaire, économique, juridique — depuis le XIXe siècle jusqu’au XXIe. Elle se manifeste dans les expropriations, la répression policière, et la militarisation des territoires comme à Standing Rock.\n",
+    "books": [
+      "our-history-is-the-future"
+    ]
+  },
+  {
     "title": "Homo œconomicus",
     "slug": "homo-oeconomicus",
     "definition": "Sujet économique rationnel, individualiste, maximisant ses intérêts. Figure normative du capitalisme.\n",
@@ -258,6 +285,15 @@
     "historicalContext": "Rarement analysée par les sciences sociales, cette notion s’ancre dans la tradition critique de W.E.B. Du Bois sur le \"salaire de la race\". Elle a été réactivée par les travaux sur les majorités menacées (années 1990–2000) et par la group position theory de Blumer. Jardina actualise cette perspective dans un contexte de transformation démographique.\n",
     "books": [
       "white-identity-politics"
+    ]
+  },
+  {
+    "title": "Internationalisme indigène",
+    "slug": "internationalisme-indigene",
+    "definition": "Ensemble des alliances transnationales construites par les peuples autochtones pour lutter contre le colonialisme, l’impérialisme et le capitalisme à l’échelle mondiale.\n",
+    "historicalContext": "Développé dans les années 1960–1970 par des organisations comme l’AIM, en lien avec les luttes du tiers-monde (Palestine, Vietnam, Cuba, Afrique australe). Réactivé à Standing Rock par la présence de délégations internationales solidaires. Nick Estes montre que cet internationalisme est enraciné dans une histoire indigène de résistance globale.\n",
+    "books": [
+      "our-history-is-the-future"
     ]
   },
   {
@@ -303,6 +339,15 @@
     "historicalContext": "Depuis le XIXe siècle, la presse noire est centrale dans les luttes anticoloniales. Jones y ajoute une lecture de genre et de classe.\n",
     "books": [
       "left-of-karl-marx"
+    ]
+  },
+  {
+    "title": "Justice environnementale autochtone",
+    "slug": "justice-environnementale-autochtone",
+    "definition": "Courant de lutte qui articule la protection de l’environnement à la souveraineté politique, spirituelle et territoriale des peuples autochtones.\n",
+    "historicalContext": "Apparu dans les années 1970–1980 en réponse à l’exclusion des communautés indigènes des politiques écologiques dominantes. Dans le livre, Nick Estes montre que cette justice s’oppose aux logiques extractives coloniales, et qu’elle s’exprime pleinement à Standing Rock à travers la défense de l’eau et des terres sacrées.\n",
+    "books": [
+      "our-history-is-the-future"
     ]
   },
   {
@@ -369,6 +414,15 @@
     ]
   },
   {
+    "title": "Ontologie coloniale",
+    "slug": "ontologie-coloniale",
+    "definition": "Vision du monde imposée par le colonialisme, fondée sur la séparation entre nature et culture, humain et non-humain, sujet et objet.\n",
+    "historicalContext": "Cette ontologie structure les politiques extractives, juridiques et territoriales des États coloniaux. Nick Estes montre qu’elle s’oppose à l’ontologie relationnelle autochtone, où la terre est un parent et le temps est circulaire. À Standing Rock, les protecteurs de l’eau affirment une alternative ontologique fondée sur la relation, la mémoire et le soin.\n",
+    "books": [
+      "our-history-is-the-future"
+    ]
+  },
+  {
     "title": "Pensée en systèmes co-constitutifs",
     "slug": "pensee-en-systemes-co-constitutifs",
     "definition": "Approche théorique qui considère les rapports de domination comme formés dans l’interaction mutuelle, sans hiérarchie ni addition.\n",
@@ -429,6 +483,15 @@
     "historicalContext": "Émerge au XVIe siècle (controverse Las Casas–Sepúlveda, 1550), se consolide au XVIIIe siècle avec Linnaeus et Blumenbach. Reformulée au XXe siècle en termes culturels. Critiquée par Du Bois, Fanon, Foucault.\n",
     "books": [
       "the-fateful-triangle"
+    ]
+  },
+  {
+    "title": "Red Power",
+    "slug": "red-power",
+    "definition": "Mouvement révolutionnaire autochtone né dans les années 1960–1970, fondé sur la souveraineté, l’action directe, l’autodétermination et les alliances transnationales.\n",
+    "historicalContext": "Inspiré par les luttes du tiers-monde et les mouvements noirs, le Red Power se manifeste à travers l’AIM, les occupations d’Alcatraz et de Wounded Knee. Nick Estes montre qu’il constitue une rupture avec l’assimilation et une base politique pour les luttes contemporaines comme Standing Rock.\n",
+    "books": [
+      "our-history-is-the-future"
     ]
   },
   {
@@ -553,6 +616,15 @@
     "historicalContext": "Concept issu du marxisme, mobilisé pour décrire l’exploitation coloniale. Jones l’adapte pour désigner la condition des femmes noires dans les économies capitalistes, anticipant les travaux sur le capitalisme racial.\n",
     "books": [
       "left-of-karl-marx"
+    ]
+  },
+  {
+    "title": "Temps indigène",
+    "slug": "temps-indigene",
+    "definition": "Conception du temps non linéaire, fondée sur la circularité, la mémoire collective et la relation entre générations, terres et esprits.\n",
+    "historicalContext": "Opposé au temps colonial du progrès et de l’accumulation, le temps indigène relie les luttes présentes aux visions prophétiques du passé. Nick Estes mobilise cette conception pour montrer que Standing Rock est une résurgence historique plutôt qu’un événement ponctuel. Elle structure la résistance et les formes de souveraineté autochtone.\n",
+    "books": [
+      "our-history-is-the-future"
     ]
   },
   {

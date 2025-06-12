@@ -154,6 +154,57 @@
     ]
   },
   {
+    "slug": "our-history-is-the-future",
+    "title": "Our History Is the Future",
+    "author": "Nick Estes",
+    "publicationYear": 2023,
+    "pageCount": 320,
+    "coverImage": "/images/covers/our-history-is-the-future.jpg",
+    "description": "Dans Our History Is the Future, Nick Estes retrace la lutte contre le Dakota Access Pipeline comme l’un des derniers chapitres d’une histoire longue de souveraineté et de résistance autochtones. S’appuyant sur la tradition militante et spirituelle des nations sioux, il articule une critique du colonialisme de peuplement, du capitalisme extractif et de l’impérialisme américain. À travers une lecture radicalement historique de la mobilisation de Standing Rock, Estes met en lumière les continuités politiques entre les traités brisés, les guerres indiennes, le mouvement Red Power, et les luttes environnementales contemporaines. L’ouvrage affirme que la libération autochtone ne passe pas par l’intégration à l’État colonial, mais par la résurgence d’une souveraineté ancrée dans la terre, la mémoire et les pratiques collectives.",
+    "chapters": [
+      {
+        "title": "Prologue: Prophets",
+        "slug": "prologue-prophets",
+        "order": 1
+      },
+      {
+        "title": "Siege",
+        "slug": "siege",
+        "order": 2
+      },
+      {
+        "title": "Origins",
+        "slug": "origins",
+        "order": 3
+      },
+      {
+        "title": "War",
+        "slug": "war",
+        "order": 4
+      },
+      {
+        "title": "Flood",
+        "slug": "flood",
+        "order": 5
+      },
+      {
+        "title": "Red Power",
+        "slug": "red-power",
+        "order": 6
+      },
+      {
+        "title": "Internationalism",
+        "slug": "internationalism",
+        "order": 7
+      },
+      {
+        "title": "Liberation",
+        "slug": "liberation",
+        "order": 8
+      }
+    ]
+  },
+  {
     "slug": "race-articulation",
     "title": "Race, Articulation and Societies Structured in Dominance",
     "author": "Stuart Hall",
