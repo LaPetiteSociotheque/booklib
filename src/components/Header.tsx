@@ -21,7 +21,7 @@ export default function Header() {
       <div className="text-4xl font-bold uppercase">LA PETITE SOCIOTHÈQUE</div>
       </Link>
       
-      <div className="text-md font-light mt-1 mb-6">Réserve de savoirs militants à partager</div>
+      <div className="text-md font-light mt-1 mb-6">Petites bouchées de socio à partager</div>
 
       <div className="flex flex-col md:flex-row md:items-center gap-4">
         <form onSubmit={handleSearch} className="flex items-center gap-2">
