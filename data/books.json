@@ -150,12 +150,42 @@
     "description": "Dans Make Your Own Job, Erik Baker retrace l’histoire culturelle de l’idéologie entrepreneuriale aux États-Unis et analyse sa centralité dans la manière contemporaine de penser le travail. Il montre comment, depuis la fin du XIXe siècle, les discours de développement personnel, les traditions religieuses protestantes et les théories managériales ont progressivement fusionné pour promouvoir une éthique valorisant l’initiative individuelle, la créativité et l’auto-entrepreneuriat. Cette « éthique entrepreneuriale du travail » transforme la précarité économique en opportunité morale : l’individu est sommé de s’adapter, de se réinventer, de « créer son propre emploi ».",
     "chapters": [
       {
-        "title": "Make Your Own Job: How The Entrepreneurial Work Ethic Exhausted America",
+        "title": "Introduction",
         "slug": "introduction",
         "order": 1
+      },
+      {
+        "title": "The Eclipse of Industriousness",
+        "slug": "the-eclipse-of-industriousness",
+        "order": 1
+      },
+      {
+        "title": "Leading Change",
+        "slug": "leading-change",
+        "order": 2
+      },
+      {
+        "title": "Depression Entrepreneurship",
+        "slug": "depression-entrepreneurship",
+        "order": 3
+      },
+      {
+        "title": "The Gospel of Work",
+        "slug": "the-gospel-of-work",
+        "order": 4
+      },
+      {
+        "title": "Faith in the Future",
+        "slug": "faith-in-the-future",
+        "order": 5
+      },
+      {
+        "title": "An Entrepreneurial Theology",
+        "slug": "an-entrepreneurial-theology",
+        "order": 6
       }
     ],
-    "date": "2025-06-07"
+    "date": "2025-06-12"
   },
   {
     "slug": "our-history-is-the-future",
