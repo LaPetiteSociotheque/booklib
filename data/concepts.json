@@ -27,6 +27,24 @@
     ]
   },
   {
+    "title": "Appareils idéologiques d’État",
+    "slug": "appareils-ideologiques-d-etat",
+    "definition": "Institutions qui, sans recourir directement à la coercition, participent à la reproduction des rapports sociaux par la production de représentations et de subjectivités.\n",
+    "historicalContext": "Concept développé par Louis Althusser dans les années 1970, repris par les Cultural Studies pour analyser le rôle des institutions dans la domination idéologique.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
+    ]
+  },
+  {
+    "title": "Articulation",
+    "slug": "articulation",
+    "definition": "Manière dont différents modes de production ou structures sociales coexistent dans une même formation sociale, sans être nécessairement intégrés ni réductibles les uns aux autres. Permet de penser la coexistence hiérarchisée de structures hétérogènes.\n\nLa théorie de l’articulation désigne une méthode pour penser les rapports sociaux non comme des ensembles cohérents et homogènes, mais comme des combinaisons instables de structures, de pratiques et de discours. Elle permet d’analyser comment des éléments hétérogènes (race, classe, nation, genre) peuvent être articulés ensemble dans une formation sociale donnée.\n",
+    "historicalContext": "Théorisé dans le marxisme althussérien, puis enrichi par Laclau, Meillassoux ou Rey. Utilisé pour penser les sociétés coloniales et postcoloniales en articulant économie, politique et idéologie.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
+    ]
+  },
+  {
     "title": "Carnaval diasporique",
     "slug": "carnaval-diasporique",
     "definition": "Réactivation de la fête caribéenne comme outil de résistance et de visibilisation en contexte migratoire.\n",
@@ -90,6 +108,15 @@
     ]
   },
   {
+    "title": "Contingence",
+    "slug": "contingence",
+    "definition": "Absence de nécessité historique absolue : les formes sociales et idéologiques sont historiquement situées et modifiables.\n",
+    "historicalContext": "Concept central des théories post-structuralistes (Laclau, Mouffe). Permet de penser les bifurcations, les luttes et recompositions dans l’histoire des rapports sociaux.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
+    ]
+  },
+  {
     "title": "Contre-insurrection mondiale",
     "slug": "contre-insurrection-mondiale",
     "definition": "Stratégie impériale visant à réprimer les mouvements révolutionnaires et anticoloniaux à l’échelle planétaire, en les criminalisant et en les surveillant.\n",
@@ -114,6 +141,15 @@
     "historicalContext": "Notion mobilisée dans les critiques du néolibéralisme (Nancy Fraser, Sara Ahmed) pour désigner la domestication des concepts radicaux par les institutions universitaires et politiques.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Culture",
+    "slug": "culture",
+    "definition": "Champ conflictuel de production de sens, traversé par les rapports de pouvoir. Instance matérielle d’organisation des subjectivités.\n",
+    "historicalContext": "Réélaborée par les Cultural Studies britanniques (Raymond Williams, Stuart Hall) contre les conceptions essentialistes et élitistes de la culture.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
     ]
   },
   {
@@ -253,6 +289,15 @@
     ]
   },
   {
+    "title": "Formations sociales structurées dans la dominance",
+    "slug": "formations-structurees-dans-la-dominance",
+    "definition": "Sociétés où différents niveaux structurels (économie, politique, idéologie) ou modes de production coexistent, certains éléments dominant les autres.\n",
+    "historicalContext": "Issu de la relecture althussérienne de Marx. Permet de penser les effets du colonialisme, racisme et capitalisme dans les formations sociales hybrides du Sud global.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
+    ]
+  },
+  {
     "title": "Généalogie insurgée",
     "slug": "genealogie-insurgee",
     "definition": "Ensemble de traditions intellectuelles issues de positions marginalisées, élaborées pour contester les fondements du savoir dominant.\n",
@@ -268,6 +313,15 @@
     "historicalContext": "Concept mobilisé par Nick Estes pour désigner la continuité de la violence coloniale — militaire, économique, juridique — depuis le XIXe siècle jusqu’au XXIe. Elle se manifeste dans les expropriations, la répression policière, et la militarisation des territoires comme à Standing Rock.\n",
     "books": [
       "our-history-is-the-future"
+    ]
+  },
+  {
+    "title": "Hégémonie",
+    "slug": "hegemonie",
+    "definition": "Forme de domination qui s’exerce par le consentement, l’adhésion partielle et la naturalisation des rapports de pouvoir.\n",
+    "historicalContext": "Élaboré par Antonio Gramsci pour comprendre comment les classes dominantes imposent leurs valeurs par la culture et les institutions, sans recours à la force.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
     ]
   },
   {
@@ -397,6 +451,15 @@
     ]
   },
   {
+    "title": "Mode de production",
+    "slug": "mode-de-production",
+    "definition": "Ensemble des rapports sociaux organisant la production, la circulation et l’appropriation de la richesse.\n",
+    "historicalContext": "Concept marxiste central, reconfiguré par le marxisme structuraliste dans les années 1970 pour analyser la coexistence de plusieurs modes (esclavagiste, marchand, capitaliste) dans les sociétés postcoloniales.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
+    ]
+  },
+  {
     "title": "Modèle non additionnel de l’oppression",
     "slug": "modele-non-additionnel-de-loppression",
     "definition": "Cadre critique qui rejette l’idée que les oppressions (racisme, sexisme, classisme, etc.) s’ajoutent de manière cumulative. Il met en avant leur co-constitution structurelle et contextuelle.\n",
@@ -469,6 +532,15 @@
     ]
   },
   {
+    "title": "Pouvoir symbolique",
+    "slug": "pouvoir-symbolique",
+    "definition": "Capacité à imposer des visions du monde, des catégories de perception et de légitimation à travers des dispositifs de sens.\n",
+    "historicalContext": "Développé par Pierre Bourdieu et reformulé dans les Cultural Studies pour analyser les médias, les normes esthétiques et les récits comme instruments de domination.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
+    ]
+  },
+  {
     "title": "Pratique politique transnationale noire",
     "slug": "pratique-politique-transnationale-noire",
     "definition": "Stratégie de lutte articulant les expériences noires à l’échelle globale. Le journalisme de Jones en est un outil central.\n",
@@ -529,6 +601,15 @@
     "historicalContext": "Issu des épistémologies féministes noires et postcoloniales (Audre Lorde, Gloria Anzaldúa), ce concept rompt avec les approches fixistes ou hiérarchisées.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
+    ]
+  },
+  {
+    "title": "Représentation",
+    "slug": "representation",
+    "definition": "Processus par lequel le sens est produit et circulé dans la société à travers des discours, des images et des récits.\n",
+    "historicalContext": "Théorie développée par les études poststructuralistes et postcoloniales. Elle permet d’analyser les mécanismes de stigmatisation et de racialisation.\n",
+    "books": [
+      "race-articulation-and-societies-structured-in-dominance"
     ]
   },
   {
