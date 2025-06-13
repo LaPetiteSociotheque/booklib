@@ -20,8 +20,14 @@ export async function getStaticProps() {
   const featuredBookStart = hash % Math.max(books.length - 1, 1)
   const featuredBooks = books.slice(featuredBookStart, featuredBookStart + 2)
 
-  // Derniers livres
-  const latestBooks = books.slice(-2)
+  // Derniers livres triés par date
+  const sortedBooks = [...books].sort((a, b) => {
+    const dateA = new Date(a.date || 0).getTime();
+    const dateB = new Date(b.date || 0).getTime();
+    return dateB - dateA;
+  });
+
+  const latestBooks = sortedBooks.slice(0, 2)
 
   // Auteurs en vedette (3 auteurs)
   const featuredAuthorStart = hash % Math.max(authorsIndex.length - 2, 1)
@@ -67,7 +73,11 @@ export default function HomePage({ books, featuredBooks, latestBooks, featuredAu
 
           {/* Dernières fiches publiées */}
           <section className="mb-12">
-            <h2 className="text-xl font-bold text-[#B74E22] mb-6">Dernières fiches publiées</h2>
+            <h2 className="text-xl font-bold text-[#B74E22] mb-6">
+              <Link href="/dernieres" className="hover:underline">
+                Dernières fiches publiées
+              </Link>
+            </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {latestBooks.map((book) => (
                 <Link key={book.slug} href={`/books/${book.slug}`}>

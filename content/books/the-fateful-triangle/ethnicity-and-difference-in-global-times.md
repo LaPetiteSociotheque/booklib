@@ -9,6 +9,7 @@ bookTitle: "The Fateful Triangle: Race, Ethnicity, Nation"
 author: "Stuart Hall"
 slug: "ethnicity-and-difference-in-global-times"
 bookSlug: "the-fateful-triangle"
+date: "2025-06-10"
 ---
 
 <!--themes:start-->

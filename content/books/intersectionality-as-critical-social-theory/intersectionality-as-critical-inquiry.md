@@ -9,6 +9,7 @@ bookTitle: "Intersectionality as Critical Social Theory"
 author: "Patricia Hill Collins"
 slug: "intersectionality-as-critical-inquiry"
 bookSlug: "intersectionality-as-critical-social-theory"
+date: "2025-06-11"
 ---
 
 <!--themes:start-->
@@ -47,7 +48,8 @@ Démarche intellectuelle qui interroge activement les fondements sociaux, politi
 🔹 **Contexte historique**  
 Ancrée dans la théorie critique (École de Francfort), enrichie par les praxis féministes et décoloniales, elle valorise les savoirs situés comme outils de transformation.
 
-[**Praxis**](/concepts/praxis)  
+**Praxis** 
+
 🔹 **Définition**  
 Processus dialectique entre théorie, méthode et engagement social. L’intersectionnalité est conçue comme praxis politique et théorique.  
 🔹 **Contexte historique**  

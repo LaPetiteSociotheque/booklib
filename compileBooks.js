@@ -20,6 +20,7 @@ const books = bookSlugs.map((bookSlug) => {
       title: bookSlug,
       author: "Auteur inconnu",
       chapters: [],
+      date: null,
     };
   }
 
@@ -36,13 +37,11 @@ const books = bookSlugs.map((bookSlug) => {
     const rawContent = fs.readFileSync(summaryPath, "utf-8");
     const { data: summaryData, content: summaryBody } = matter(rawContent);
 
-    // Mise à jour prioritaire depuis _summary.md si info présente
     if (summaryData.title) bookTitle = summaryData.title;
     if (summaryData.author) author = summaryData.author;
     if (summaryData.publicationYear) publicationYear = summaryData.publicationYear;
     if (summaryData.pageCount) pageCount = summaryData.pageCount;
 
-    // Extraire le premier paragraphe non vide
     description = summaryBody
       .split(/\r?\n\r?\n/)
       .map((p) => p.trim())
@@ -52,27 +51,37 @@ const books = bookSlugs.map((bookSlug) => {
       .replace(/`(.*?)`/g, "$1") || "";
   }
 
+  const chapterDates = [];
+
   // Récupérer tous les chapitres
   const chapters = chapterFiles
-    .filter((f) => f !== "_summary.md") // Ne pas inclure le résumé comme chapitre
+    .filter((f) => f !== "_summary.md")
     .map((filename) => {
       const filePath = path.join(bookPath, filename);
       const { data } = matter(fs.readFileSync(filePath, "utf-8"));
 
-      // Récupération éventuelle d'infos manquantes
       if (!bookTitle && data.bookTitle) bookTitle = data.bookTitle;
       if (!author && data.author) author = data.author;
       if (!publicationYear && data.publicationYear) publicationYear = data.publicationYear;
       if (!pageCount && data.pageCount) pageCount = data.pageCount;
       if (!coverImage && data.coverImage) coverImage = data.coverImage;
 
+      if (data.date) {
+        chapterDates.push(new Date(data.date));
+      }
+
       return {
         title: data.title || filename.replace(".md", ""),
         slug: filename.replace(".md", ""),
-        order: data.order || 0,
+        order: data.order || 0
+        // 👇 on n’inclut plus la date ici
       };
     })
     .sort((a, b) => a.order - b.order);
+
+  // Déterminer la date du livre (la plus récente des dates de chapitres)
+  chapterDates.sort((a, b) => b - a);
+  const date = chapterDates[0] ? chapterDates[0].toISOString().split("T")[0] : null;
 
   return {
     slug: bookSlug,
@@ -83,10 +92,11 @@ const books = bookSlugs.map((bookSlug) => {
     coverImage,
     description,
     chapters,
+    date,
   };
 });
 
 const outputFile = path.join(process.cwd(), "data", "books.json");
 fs.mkdirSync(path.dirname(outputFile), { recursive: true });
 fs.writeFileSync(outputFile, JSON.stringify(books, null, 2));
-console.log("✅ books.json généré avec succès avec descriptions dans /data");
+console.log("✅ books.json généré avec succès avec descriptions et dates dans /data");

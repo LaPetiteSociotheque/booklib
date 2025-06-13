@@ -9,6 +9,7 @@ bookTitle: "Caliban and the Witch"
 author: "Silvia Federici"
 slug: "introduction"
 bookSlug: "caliban-and-the-witch"
+date: "2025-06-12"
 ---
 
 <!--themes:start-->

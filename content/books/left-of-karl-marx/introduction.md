@@ -14,6 +14,7 @@ concepts:
   - féminisme noir
   - diaspora noire
   - mémoire politique
+date: "2025-06-07"
 ---
 
 
@@ -58,7 +59,7 @@ Ce féminisme naît en opposition au féminisme blanc bourgeois et au nationalis
 
 
 
-[**Diaspora noire**](/concepts/diaspora-noire)
+**Diaspora noire**
 
 🔹 **Définition**  
 Espace politique transnational structuré par l’exil, les migrations forcées et les luttes anticoloniales. Les différents lieux de vie de Jones (Trinidad, États-Unis, Royaume-Uni) sont autant de nœuds diasporiques.

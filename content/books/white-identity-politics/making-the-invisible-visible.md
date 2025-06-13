@@ -9,6 +9,7 @@ bookTitle: "White Identity Politics"
 author: "Ashley Jardina"
 slug: "making-the-invisible-visible"
 bookSlug: "white-identity-politics"
+date: "2025-06-10"
 ---
 
 <!--themes:start-->

@@ -9,6 +9,7 @@ bookTitle: "Our History Is the Future"
 author: "Nick Estes"
 slug: "prologue-prophets"
 bookSlug: "our-history-is-the-future"
+date: "2025-06-12"
 ---
 
 <!--themes:start-->

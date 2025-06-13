@@ -53,7 +53,8 @@ Capacité à interroger les catégories, présupposés, méthodes et effets soci
 🔹 **Contexte historique**  
 Présente dans les traditions marxistes et féministes ; centrale dans les cultural studies et les critical race theories comme réponse à l’objectivité positiviste.
 
-[**Cooptation**](/concepts/cooptation)  
+**Cooptation**  
+
 🔹 **Définition**  
 Processus par lequel les institutions absorbent et neutralisent les idées critiques en les intégrant dans des logiques de reconnaissance ou de contrôle.  
 🔹 **Contexte historique**  

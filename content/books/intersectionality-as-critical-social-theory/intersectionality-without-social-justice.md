@@ -32,7 +32,8 @@ L’enjeu est de préserver une tension créatrice entre théorie et praxis, et 
 
 <!--concepts:start-->
 
-[**Déconnexion entre théorie et praxis**](/concepts/deconnexion-entre-theorie-et-praxis)  
+**Déconnexion entre théorie et praxis**
+
 🔹 **Définition**  
 Rupture entre l’élaboration conceptuelle d’un outil critique et son ancrage dans les luttes sociales concrètes.  
 🔹 **Contexte historique**  

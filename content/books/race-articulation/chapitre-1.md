@@ -11,6 +11,7 @@ concepts:
   - articulation
   - mode-de-production
   - formations-sociales-structurees-dans-la-dominance
+date: "2025-06-07"
 ---
 
 
