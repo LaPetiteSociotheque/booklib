@@ -272,6 +272,48 @@
     "date": null
   },
   {
+    "slug": "reconsidering-reparations",
+    "title": "Reconsidering Reparations",
+    "author": "Olufemi O. Taiwo",
+    "publicationYear": 2022,
+    "pageCount": 231,
+    "coverImage": "/images/covers/reconsidering-reparations.jpg",
+    "description": "Dans cet ouvrage, Olufemi O. Taiwo propose une refondation radicale du concept de réparations. Rejetant les approches centrées sur la compensation financière ou la reconnaissance symbolique, il défend l’idée de réparations comme projet politique global et transformationnel, capable de reconfigurer les structures sociales, économiques et écologiques issues de l’esclavage, du colonialisme et de l’impérialisme.",
+    "chapters": [
+      {
+        "title": "Introduction",
+        "slug": "introduction",
+        "order": 1
+      },
+      {
+        "title": "Reconsidering World History",
+        "slug": "reconsidering-world-history",
+        "order": 2
+      },
+      {
+        "title": "The Constructive View",
+        "slug": "constructive-view",
+        "order": 3
+      },
+      {
+        "title": "What’s Missing?",
+        "slug": "whats-missing",
+        "order": 4
+      },
+      {
+        "title": "What’s Next: Why Reparations Require Climate Justice",
+        "slug": "reparations-require-climate-justice",
+        "order": 5
+      },
+      {
+        "title": "The Moral Arc of the Universe",
+        "slug": "moral-arc-of-the-universe",
+        "order": 6
+      }
+    ],
+    "date": "2025-06-13"
+  },
+  {
     "slug": "the-fateful-triangle",
     "title": "The Fateful Triangle: Race, Ethnicity, Nation",
     "author": "Stuart Hall",

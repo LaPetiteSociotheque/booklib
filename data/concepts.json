@@ -18,15 +18,6 @@
     ]
   },
   {
-    "title": "Activisme littéraire",
-    "slug": "activisme-litteraire",
-    "definition": "Usage de l’écriture (ici poétique) comme moyen d’expression politique en contexte carcéral. Chez Jones, il devient un outil de mémoire et de survie.\n",
-    "historicalContext": "Tradition présente depuis les récits d’esclaves. En prison, il devient central dans les mouvements abolitionnistes. Jones précède Angela Davis ou Assata Shakur.\n",
-    "books": [
-      "left-of-karl-marx"
-    ]
-  },
-  {
     "title": "Appareils idéologiques d’État",
     "slug": "appareils-ideologiques-d-etat",
     "definition": "Institutions qui, sans recourir directement à la coercition, participent à la reproduction des rapports sociaux par la production de représentations et de subjectivités.\n",
@@ -45,12 +36,21 @@
     ]
   },
   {
-    "title": "Carnaval diasporique",
-    "slug": "carnaval-diasporique",
-    "definition": "Réactivation de la fête caribéenne comme outil de résistance et de visibilisation en contexte migratoire.\n",
-    "historicalContext": "Issu des traditions esclavagistes subversives, il devient à Londres un outil de mobilisation. Jones initie le carnaval de Notting Hill en 1959.\n",
+    "title": "Autodétermination",
+    "slug": "autodetermination",
+    "definition": "Capacité d’un individu ou collectif à définir et gouverner librement ses conditions d’existence, au-delà des cadres imposés par les structures de domination. Cette idée peut-être croisée avec une approche des capabilités, c'est-à-dire centrée sur ce que les individus sont réellement en mesure de faire et d’être – c’est-à-dire leurs capabilités réelles, non leurs simples droits formels. L'autodétermination n'étant atteinte que dans un cadre où les individus ne sont pas restreints dans leurs capabilités.\n",
+    "historicalContext": "Notion centrale des luttes anticoloniales (Nkrumah, Nyerere), du nationalisme noir et des mouvements de libération. Táíwò la réarticule dans un cadre transnational et structurel, en lien avec la redistribution globale des capabilités.\n",
     "books": [
-      "left-of-karl-marx"
+      "reconsidering-reparations"
+    ]
+  },
+  {
+    "title": "Capitalisme racial",
+    "slug": "capitalisme-racial",
+    "definition": "Système économique historiquement structuré par des hiérarchies raciales, où l’accumulation capitaliste repose sur l’exploitation différenciée selon la race.\n",
+    "historicalContext": "Le terme émerge dans les années 1980 (notamment chez Cedric Robinson), mais prolonge les analyses de Du Bois ou Fanon repris par les sociologues et économistes sudafricains cherchant à étudier la forme que prenait le capitalisme sous l'Apartheid. Táíwò s’en sert pour articuler les logiques du capitalisme moderne à l’histoire coloniale et raciale mondiale.\n",
+    "books": [
+      "reconsidering-reparations"
     ]
   },
   {
@@ -60,15 +60,6 @@
     "historicalContext": "Déployé au XXe siècle par l’État fédéral américain, notamment à travers le Pick-Sloan Plan, qui a inondé les terres des réserves sioux. Nick Estes montre que ces infrastructures servent à déposséder les peuples indigènes de leurs ressources, à réorganiser leur espace de vie et à imposer une dépendance structurelle aux institutions coloniales.\n",
     "books": [
       "our-history-is-the-future"
-    ]
-  },
-  {
-    "title": "Communauté de résistance épistémique",
-    "slug": "communaute-de-resistance-epistemique",
-    "definition": "Collectif social et intellectuel qui produit du savoir à partir de l’expérience de l’oppression et remet en cause les normes dominantes de légitimation théorique.\n",
-    "historicalContext": "Concept forgé à partir des épistémologies féministes et postcoloniales (Sandra Harding, Linda Alcoff, bell hooks) ; appliqué par Collins aux femmes noires, peuples autochtones, activistes queer racisé·es.\n",
-    "books": [
-      "intersectionality-as-critical-social-theory"
     ]
   },
   {
@@ -126,15 +117,6 @@
     ]
   },
   {
-    "title": "Contre-public noir",
-    "slug": "contre-public-noir",
-    "definition": "Espace discursif autonome permettant aux Noir·es d’exprimer leurs récits et revendications. *The West Indian Gazette* incarne un tel espace.\n",
-    "historicalContext": "Théorisé par Nancy Fraser ou Catherine Squires, mais ancré historiquement dans les journaux militants noirs des XIXe et XXe siècles. Jones en donne une forme exemplaire.\n",
-    "books": [
-      "left-of-karl-marx"
-    ]
-  },
-  {
     "title": "Cooptation",
     "slug": "cooptation",
     "definition": "Processus par lequel des idées critiques sont intégrées dans des structures dominantes, vidées de leur potentiel subversif et réinscrites dans une logique de reconnaissance ou de contrôle.\n",
@@ -159,15 +141,6 @@
     "historicalContext": "Analysée dans les critiques des politiques de reconnaissance (Nancy Fraser) et de diversité institutionnelle (Sara Ahmed), la dépolitisation accompagne souvent la professionnalisation de concepts issus des luttes sociales.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
-    ]
-  },
-  {
-    "title": "Déportation politique",
-    "slug": "deportation-politique",
-    "definition": "Expulsion répressive ciblant des individus pour leurs engagements idéologiques. Claudia Jones transforme cette marginalisation en stratégie.\n",
-    "historicalContext": "Pratique utilisée durant la guerre froide contre les militant·es racisé·es. Jones incarne cette intersection entre impérialisme, racisme et anticommunisme.\n",
-    "books": [
-      "left-of-karl-marx"
     ]
   },
   {
@@ -196,24 +169,6 @@
     "historicalContext": "Thématisée par les féminismes matérialistes, elle est ici analysée comme une production du capitalisme naissant, assignant les femmes à la sphère reproductive.\n",
     "books": [
       "caliban-and-the-witch"
-    ]
-  },
-  {
-    "title": "Écriture carcérale",
-    "slug": "ecriture-carcerale",
-    "definition": "Production littéraire issue de l’expérience de l’enfermement, révélant l’aliénation et la politisation du vécu répressif.\n",
-    "historicalContext": "Présente dès le XIXe siècle, elle est intensifiée par les mouvements radicaux du XXe siècle. L’œuvre de Jones s’inscrit dans le maccarthysme.\n",
-    "books": [
-      "left-of-karl-marx"
-    ]
-  },
-  {
-    "title": "Émancipation communautaire",
-    "slug": "emancipation-communautaire",
-    "definition": "Forme de liberté élaborée à travers des pratiques collectives concrètes dans des contextes de domination, valorisant les solidarités et les appartenances locales.\n",
-    "historicalContext": "Centrale dans les Black Liberation Movements, les féminismes populaires et les mouvements autochtones. Elle critique les limites des modèles d’émancipation étatiques ou juridiques.\n",
-    "books": [
-      "intersectionality-as-critical-social-theory"
     ]
   },
   {
@@ -295,15 +250,6 @@
     "historicalContext": "Issu de la relecture althussérienne de Marx. Permet de penser les effets du colonialisme, racisme et capitalisme dans les formations sociales hybrides du Sud global.\n",
     "books": [
       "race-articulation-and-societies-structured-in-dominance"
-    ]
-  },
-  {
-    "title": "Généalogie insurgée",
-    "slug": "genealogie-insurgee",
-    "definition": "Ensemble de traditions intellectuelles issues de positions marginalisées, élaborées pour contester les fondements du savoir dominant.\n",
-    "historicalContext": "Inspirée par Michel Foucault et les épistémologies féministes et postcoloniales. Réactivée dans les études critiques pour valoriser les filiations alternatives aux canons académiques.\n",
-    "books": [
-      "intersectionality-as-critical-social-theory"
     ]
   },
   {
@@ -392,15 +338,6 @@
     "slug": "intersectionnalite",
     "definition": "L’intersectionnalité désigne l’analyse croisée des oppressions de race, de classe et de genre. Bien que le terme n’ait pas été utilisé par Claudia Jones, Carole Boyce Davies l’emploie pour décrire la manière dont Jones articule ces oppressions dans son engagement militant.\n",
     "historicalContext": "Le concept a été théorisé par Kimberlé Crenshaw en 1989 pour rendre compte des discriminations spécifiques vécues par les femmes noires. Cependant, des militantes comme Claudia Jones ont appliqué cette logique bien avant sa formalisation, en intégrant les rapports sociaux dans une critique marxiste du capitalisme racial et patriarcal.\n",
-    "books": [
-      "left-of-karl-marx"
-    ]
-  },
-  {
-    "title": "Journalisme militant noir",
-    "slug": "journalisme-militant-noir",
-    "definition": "Utilisation de la presse comme instrument de critique, de mobilisation et d’organisation politique noire. Pour Jones, il s’agit d’un acte politique.\n",
-    "historicalContext": "Depuis le XIXe siècle, la presse noire est centrale dans les luttes anticoloniales. Jones y ajoute une lecture de genre et de classe.\n",
     "books": [
       "left-of-karl-marx"
     ]
@@ -496,12 +433,30 @@
     ]
   },
   {
+    "title": "Non-domination",
+    "slug": "non-domination",
+    "definition": "Principe normatif selon lequel les relations sociales doivent exclure toute forme de contrôle unilatéral ou d’assujettissement structurel.\n",
+    "historicalContext": "Originaire de la tradition républicaine (Philip Pettit), ce concept est réorienté par Táíwò pour penser la justice globale, en insistant sur les héritages coloniaux dans les structures contemporaines de pouvoir.\n",
+    "books": [
+      "reconsidering-reparations"
+    ]
+  },
+  {
     "title": "Ontologie coloniale",
     "slug": "ontologie-coloniale",
     "definition": "Vision du monde imposée par le colonialisme, fondée sur la séparation entre nature et culture, humain et non-humain, sujet et objet.\n",
     "historicalContext": "Cette ontologie structure les politiques extractives, juridiques et territoriales des États coloniaux. Nick Estes montre qu’elle s’oppose à l’ontologie relationnelle autochtone, où la terre est un parent et le temps est circulaire. À Standing Rock, les protecteurs de l’eau affirment une alternative ontologique fondée sur la relation, la mémoire et le soin.\n",
     "books": [
       "our-history-is-the-future"
+    ]
+  },
+  {
+    "title": "Optimisme moral",
+    "slug": "optimisme-moral",
+    "definition": "Croyance dans un progrès inéluctable de l’histoire vers la justice, indépendamment de l’action humaine. Táíwò critique cette posture pour son effet paralysant sur l’engagement politique.\n",
+    "historicalContext": "Lié aux philosophies des Lumières et aux téléologies libérales du progrès, il est contesté par les traditions critiques postcoloniales. Táíwò en propose une relecture stratégique fondée sur l’action collective.\n",
+    "books": [
+      "reconsidering-reparations"
     ]
   },
   {
@@ -514,39 +469,12 @@
     ]
   },
   {
-    "title": "Poésie de la résistance",
-    "slug": "poesie-de-la-resistance",
-    "definition": "Forme poétique articulant dénonciation, douleur et espoir dans une perspective révolutionnaire.\n",
-    "historicalContext": "Présente dans les traditions africaines, caribéennes et afro-américaines. La poésie de Jones s’inscrit dans cette lignée radicale.\n",
-    "books": [
-      "left-of-karl-marx"
-    ]
-  },
-  {
-    "title": "Politique diasporique",
-    "slug": "politique-diasporique",
-    "definition": "Forme d’action politique articulée depuis la dispersion et l’exil, centrée sur les conditions des femmes noires migrantes.\n",
-    "historicalContext": "Émerge avec les mouvements anticoloniaux et marxistes. Jones illustre la capacité de l’exil à générer une praxis transnationale.\n",
-    "books": [
-      "left-of-karl-marx"
-    ]
-  },
-  {
     "title": "Pouvoir symbolique",
     "slug": "pouvoir-symbolique",
     "definition": "Capacité à imposer des visions du monde, des catégories de perception et de légitimation à travers des dispositifs de sens.\n",
     "historicalContext": "Développé par Pierre Bourdieu et reformulé dans les Cultural Studies pour analyser les médias, les normes esthétiques et les récits comme instruments de domination.\n",
     "books": [
       "race-articulation-and-societies-structured-in-dominance"
-    ]
-  },
-  {
-    "title": "Pratique politique transnationale noire",
-    "slug": "pratique-politique-transnationale-noire",
-    "definition": "Stratégie de lutte articulant les expériences noires à l’échelle globale. Le journalisme de Jones en est un outil central.\n",
-    "historicalContext": "Tradition intellectuelle issue du panafricanisme (Du Bois, Amy Ashwood Garvey, George Padmore). Jones la renouvelle dans un contexte médiatique d’après-guerre.\n",
-    "books": [
-      "left-of-karl-marx"
     ]
   },
   {
@@ -604,6 +532,15 @@
     ]
   },
   {
+    "title": "Réparations",
+    "slug": "reparations",
+    "definition": "Projet politique global visant à transformer les conditions matérielles actuelles issues de l’oppression coloniale, de l’esclavage et de l’impérialisme. Les réparations ne consistent pas seulement à compenser, mais à reconstruire les institutions et structures mondiales de manière juste.\n",
+    "historicalContext": "Historiquement associées à des indemnisations symboliques (Holocauste, Apartheid), les réparations ont souvent été vidées de leur potentiel transformateur. Táíwò s’oppose à cette tradition pour proposer une vision structurelle et transnationale du concept.\n",
+    "books": [
+      "reconsidering-reparations"
+    ]
+  },
+  {
     "title": "Représentation",
     "slug": "representation",
     "definition": "Processus par lequel le sens est produit et circulé dans la société à travers des discours, des images et des récits.\n",
@@ -644,15 +581,6 @@
     "slug": "resistance-epistemique",
     "definition": "Pratiques cognitives et théoriques par lesquelles les groupes opprimés contestent les savoirs hégémoniques légitimant leur domination.\n",
     "historicalContext": "Concept développé dans les épistémologies féministes et décoloniales (José Medina, Kristie Dotson), centré sur la narration, la mémoire et l’expérience comme outils critiques.\n",
-    "books": [
-      "intersectionality-as-critical-social-theory"
-    ]
-  },
-  {
-    "title": "Resistant knowledge projects",
-    "slug": "resistant-knowledge-projects",
-    "definition": "Formes collectives de production de savoirs issues de groupes subalternes, articulant expérience vécue, mémoire et critique structurelle des systèmes de domination.\n",
-    "historicalContext": "Appuyés sur les traditions afro-féministes, chicanas, autochtones et queer, ces projets échappent aux normes académiques et défendent la légitimité des savoirs communautaires.\n",
     "books": [
       "intersectionality-as-critical-social-theory"
     ]
@@ -710,15 +638,6 @@
     ]
   },
   {
-    "title": "Structure de sentiment",
-    "slug": "structure-de-sentiment",
-    "definition": "Chez Raymond Williams, forme d’expérience affective collective, historiquement située. Pour Hall, la nation fonctionne comme une telle structure, productrice de récit et d’appartenance.\n",
-    "historicalContext": "Concept des années 1970 pour penser les transformations culturelles liées au capitalisme. Hall l’adapte pour penser les affects nationaux.\n",
-    "books": [
-      "the-fateful-triangle"
-    ]
-  },
-  {
     "title": "Subjectivation entrepreneuriale",
     "slug": "subjectivation-entrepreneuriale",
     "definition": "Processus par lequel les individus sont incités à intérioriser les normes entrepreneuriales — autonomie, innovation, adaptabilité — comme éléments constitutifs de leur identité professionnelle.\n",
@@ -755,21 +674,12 @@
     ]
   },
   {
-    "title": "Travailleuse domestique noire",
-    "slug": "travailleuse-domestique-noire",
-    "definition": "Figure centrale de la critique de Jones, représentant la double dévalorisation du travail reproductif et du travail racialisé. Ces femmes sont surexploitées sans reconnaissance syndicale.\n",
-    "historicalContext": "Après l’abolition de l’esclavage, les femmes noires sont cantonnées au travail domestique aux États-Unis, au Royaume-Uni ou à Trinidad. Jones politise cette réalité dans une lecture marxiste-féministe.\n",
+    "title": "Violence systémique",
+    "slug": "violence-systemique",
+    "definition": "Forme de violence intégrée aux institutions économiques, politiques ou sociales, produisant des préjudices collectifs sans acte individuel identifiable. Elle opère à travers les règles, normes et structures qui perpétuent les inégalités.\n",
+    "historicalContext": "Concept popularisé dans les traditions critiques et anticoloniales (Frantz Fanon, Johan Galtung). Táíwò l’utilise pour désigner les formes invisibles mais persistantes d’oppression mondiale que les réparations doivent cibler à l’échelle structurelle.\n",
     "books": [
-      "left-of-karl-marx"
-    ]
-  },
-  {
-    "title": "Validité scientifique",
-    "slug": "validite-scientifique",
-    "definition": "Ensemble de normes définissant ce qui est reconnu comme savoir légitime. Ces critères sont critiqués pour leur rôle dans l’exclusion des savoirs subalternes.\n",
-    "historicalContext": "Contestée par les épistémologies critiques depuis les années 1980. Donna Haraway et Sandra Harding proposent des alternatives comme le savoir situé ou l’objectivité forte.\n",
-    "books": [
-      "intersectionality-as-critical-social-theory"
+      "reconsidering-reparations"
     ]
   },
   {
