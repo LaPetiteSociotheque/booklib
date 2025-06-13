@@ -57,6 +57,7 @@ export default function HomePage({ books, featuredBooks, latestBooks, featuredAu
   <meta property="og:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
   <meta property="og:url" content="https://lapetitesociotheque.com/" />
   <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="La Petite Sociothèque"></meta>
 
   {/* Twitter Card */}
   <meta name="twitter:card" content="summary_large_image" />
