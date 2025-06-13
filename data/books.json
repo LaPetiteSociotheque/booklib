@@ -157,32 +157,32 @@
       {
         "title": "The Eclipse of Industriousness",
         "slug": "the-eclipse-of-industriousness",
-        "order": 1
+        "order": 2
       },
       {
         "title": "Leading Change",
         "slug": "leading-change",
-        "order": 2
+        "order": 3
       },
       {
         "title": "Depression Entrepreneurship",
         "slug": "depression-entrepreneurship",
-        "order": 3
+        "order": 4
       },
       {
         "title": "The Gospel of Work",
         "slug": "the-gospel-of-work",
-        "order": 4
+        "order": 5
       },
       {
         "title": "Faith in the Future",
         "slug": "faith-in-the-future",
-        "order": 5
+        "order": 6
       },
       {
         "title": "An Entrepreneurial Theology",
         "slug": "an-entrepreneurial-theology",
-        "order": 6
+        "order": 7
       }
     ],
     "date": "2025-06-12"
@@ -240,26 +240,36 @@
     "date": "2025-06-12"
   },
   {
-    "slug": "race-articulation",
+    "slug": "race-articulation-and-societies-structured-in-dominance",
     "title": "Race, Articulation and Societies Structured in Dominance",
     "author": "Stuart Hall",
-    "publicationYear": null,
-    "pageCount": null,
-    "coverImage": "/images/covers/race-articulation.jpg",
-    "description": "",
+    "publicationYear": 1980,
+    "pageCount": 42,
+    "coverImage": "/images/covers/race-articulation-and-societies-structured-in-dominance.jpg",
+    "description": "Ce texte fondamental de Stuart Hall propose une relecture critique du racisme à partir du marxisme althussérien, de la théorie de l’idéologie et des Cultural Studies. Hall y élabore une pensée de la race comme relation sociale historiquement construite, irréductible à l’économique, mais articulée aux structures de classe, de culture et de pouvoir.",
     "chapters": [
       {
-        "title": "Section 1 — Ruptures théoriques : critiques du réductionnisme et émergence de l’articulation",
-        "slug": "chapitre-1",
+        "title": "Ruptures théoriques : critiques du réductionnisme et émergence de l’articulation",
+        "slug": "ruptures-theoriques-et-articulation",
         "order": 1
       },
       {
-        "title": "Section 2 - Le moment où Stuart nous révèle tout",
-        "slug": "chapitre-2",
+        "title": "Idéologie, État et reproduction des rapports raciaux",
+        "slug": "ideologie-etat-et-rapports-raciaux",
         "order": 2
+      },
+      {
+        "title": "Culture, pouvoir symbolique et reproduction du racisme",
+        "slug": "culture-pouvoir-symbolique-et-racisme",
+        "order": 3
+      },
+      {
+        "title": "Théorie, luttes et transformation : vers une politique de l’articulation",
+        "slug": "vers-une-politique-de-l-articulation",
+        "order": 4
       }
     ],
-    "date": "2025-06-07"
+    "date": null
   },
   {
     "slug": "the-fateful-triangle",

@@ -198,12 +198,24 @@
     "slug": "stuart-hall",
     "chapters": [
       {
-        "title": "Section 1 — Ruptures théoriques : critiques du réductionnisme et émergence de l’articulation",
-        "slug": "chapitre-1"
+        "title": "Culture, pouvoir symbolique et reproduction du racisme",
+        "slug": "culture-pouvoir-symbolique-et-racisme"
       },
       {
-        "title": "Section 2 - Le moment où Stuart nous révèle tout",
-        "slug": "chapitre-1"
+        "title": "Idéologie, État et reproduction des rapports raciaux",
+        "slug": "ideologie-etat-et-rapports-raciaux"
+      },
+      {
+        "title": "Ruptures théoriques : critiques du réductionnisme et émergence de l’articulation",
+        "slug": "ruptures-theoriques-et-articulation"
+      },
+      {
+        "title": "Théorie, luttes et transformation : vers une politique de l’articulation",
+        "slug": "vers-une-politique-de-l-articulation"
+      },
+      {
+        "title": "Race, Articulation and Societies Structured in Dominance",
+        "slug": "race-articulation-and-societies-structured-in-dominance"
       },
       {
         "title": "Ethnicity and Difference in Global Times",

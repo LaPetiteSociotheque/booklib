@@ -135,6 +135,15 @@
     ]
   },
   {
+    "title": "Développement personnel",
+    "slug": "developpement-personnel",
+    "definition": "Ensemble de pratiques, de discours et d’ouvrages qui promeuvent l’amélioration de soi comme condition de réussite individuelle, souvent au détriment d’une analyse structurelle des inégalités.\n",
+    "historicalContext": "Popularisé dès les années 1920–30 avec des auteurs comme Dale Carnegie et Norman Vincent Peale, ce courant connaît une forte expansion dans la seconde moitié du XXe siècle, en lien avec la culture managériale et les industries de la motivation.\n",
+    "books": [
+      "make-your-own-job"
+    ]
+  },
+  {
     "title": "Diaspora",
     "slug": "diaspora",
     "definition": "Forme de subjectivité collective fondée sur le déplacement, la mémoire d’un ailleurs et des pratiques hybrides. (The Fateful Triangle, Stuart Hall)\n\nEspace politique transnational structuré par l’exil, la migration contrainte et les luttes anticoloniales. Claudia Jones incarne une politique diasporique par son parcours entre Trinidad, les États-Unis et le Royaume-Uni. (Left Of Karl Marx, Carole Boyce Davies)\n",
@@ -187,6 +196,15 @@
     "historicalContext": "Popularisé par Gayatri Spivak dans les années 1980 pour penser les contradictions des luttes subalternes. Hall s’en empare pour penser les mobilisations minoritaires.\n",
     "books": [
       "the-fateful-triangle"
+    ]
+  },
+  {
+    "title": "Éthique entrepreneuriale du travail",
+    "slug": "ethique-entrepreneuriale-du-travail",
+    "definition": "Système normatif valorisant l’initiative individuelle, la créativité et la responsabilité personnelle comme conditions de réussite et de dignité sociale.\n",
+    "historicalContext": "Ce cadre idéologique émerge au tournant du XXe siècle, nourri par le New Thought, les discours de self-help et les mutations du capitalisme industriel. Il se consolide avec la montée du néolibéralisme et la diffusion massive de l’idéologie managériale.\n",
+    "books": [
+      "make-your-own-job"
     ]
   },
   {
@@ -340,6 +358,15 @@
     "historicalContext": "Apparu dans les années 1970–1980 en réponse à l’exclusion des communautés indigènes des politiques écologiques dominantes. Dans le livre, Nick Estes montre que cette justice s’oppose aux logiques extractives coloniales, et qu’elle s’exprime pleinement à Standing Rock à travers la défense de l’eau et des terres sacrées.\n",
     "books": [
       "our-history-is-the-future"
+    ]
+  },
+  {
+    "title": "Management entrepreneurial",
+    "slug": "management-entrepreneurial",
+    "definition": "Approche managériale qui encourage les employés à adopter des comportements entrepreneuriaux tels que la prise d’initiative, l’innovation constante, et la responsabilisation individuelle.\n",
+    "historicalContext": "Développée dans la seconde moitié du XXe siècle, notamment à travers les travaux de Peter Drucker, cette approche devient dominante dans les années 1980 avec la montée du néolibéralisme et la transformation des grandes entreprises en organisations flexibles.\n",
+    "books": [
+      "make-your-own-job"
     ]
   },
   {
@@ -559,6 +586,15 @@
     ]
   },
   {
+    "title": "Responsabilité totalisée",
+    "slug": "responsabilite-totalisee",
+    "definition": "Principe selon lequel chaque individu est entièrement responsable de sa situation économique, quelle que soit sa position sociale ou les contraintes systémiques.\n",
+    "historicalContext": "Cœur idéologique du néolibéralisme, ce principe s’impose dans les années 1980 comme justification au retrait de l’État et à la privatisation des risques sociaux.\n",
+    "books": [
+      "make-your-own-job"
+    ]
+  },
+  {
     "title": "Savoir situé",
     "slug": "savoir-situe",
     "definition": "Connaissance produite depuis une position sociale, politique et historique spécifique, assumée comme telle dans l’analyse critique.\n",
@@ -599,6 +635,15 @@
     "historicalContext": "Concept des années 1970 pour penser les transformations culturelles liées au capitalisme. Hall l’adapte pour penser les affects nationaux.\n",
     "books": [
       "the-fateful-triangle"
+    ]
+  },
+  {
+    "title": "Subjectivation entrepreneuriale",
+    "slug": "subjectivation-entrepreneuriale",
+    "definition": "Processus par lequel les individus sont incités à intérioriser les normes entrepreneuriales — autonomie, innovation, adaptabilité — comme éléments constitutifs de leur identité professionnelle.\n",
+    "historicalContext": "Ce processus s’intensifie à partir des années 1970 avec la généralisation des techniques de gestion centrées sur la performance individuelle, et s’enracine dans des dispositifs éducatifs, managériaux et culturels.\n",
+    "books": [
+      "make-your-own-job"
     ]
   },
   {
