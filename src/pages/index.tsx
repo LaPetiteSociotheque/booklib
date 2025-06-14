@@ -7,6 +7,7 @@ import RecommendedBooks from "../components/RecommendedBooks"
 import authorsIndex from "../../data/authors.json"
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
+
 export async function getStaticProps() {
   const filePath = path.join(process.cwd(), "data/books.json")
   const fileContents = fs.readFileSync(filePath, "utf-8")
@@ -130,7 +131,10 @@ export default function HomePage({ books, featuredBooks, latestBooks, featuredAu
           <RecommendedBooks books={books} />
 
         </div>
+        <SpeedInsights />
       </main>
+      
     </>
   )
+  
 }
