@@ -87,7 +87,7 @@ export default function AuthorPage({ name, slug, content, books }: Props) {
     <>
       <Head>
         <title>{`${name} – La Petite Sociothèque`}</title>
-        <meta property="og:title" content="{`${name} | La Petite Sociothèque`}" />
+        <meta property="og:title" content="Auteur·ices | La Petite Sociothèque`}" />
   <meta property="og:description" content="Fiches de lecture accessibles et engagées en sciences sociales et histoire critique." />
   <meta property="og:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
   <meta property="og:url" content="https://lapetitesociotheque.com/" />
@@ -96,7 +96,7 @@ export default function AuthorPage({ name, slug, content, books }: Props) {
 
   {/* Twitter Card */}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="{`${name} | La Petite Sociothèque`}" />
+  <meta name="twitter:title" content="Auteur·ices | La Petite Sociothèque`}" />
   <meta name="twitter:description" content="Fiches de lecture accessibles et engagées en sciences sociales et histoire critique." />
   <meta name="twitter:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
       </Head>
