@@ -270,8 +270,8 @@
     ]
   },
   {
-    "name": "Amílcar Cabral",
-    "slug": "amílcar-cabral",
+    "name": "Amilcar Cabral",
+    "slug": "amilcar-cabral",
     "chapters": [
       {
         "title": "Connecting the Struggles: An Informal Talk with Black Americans",
@@ -296,13 +296,7 @@
       {
         "title": "Second Address Before the United Nations, Fourth Committee, 1972",
         "slug": "second-address-un"
-      }
-    ]
-  },
-  {
-    "name": "Amilcar Cabral",
-    "slug": "amilcar-cabral",
-    "chapters": [
+      },
       {
         "title": "Return to the Source",
         "slug": "return-to-the-source"
