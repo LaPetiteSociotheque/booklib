@@ -6,7 +6,7 @@ publicationYear: 1973
 pageCount: 158
 coverImage: /images/covers/return-to-the-source.jpg
 bookTitle: "Return to the Source"
-author: "Amílcar Cabral"
+author: "Amilcar Cabral"
 slug: "introduction"
 bookSlug: "return-to-the-source"
 ---
@@ -22,7 +22,7 @@ bookSlug: "return-to-the-source"
 <!--themes:end-->
 
 <!--summary:start-->
-L’introduction du recueil présente la trajectoire politique et théorique d’Amílcar Cabral à partir de la spécificité de la lutte de libération nationale menée par le Parti Africain pour l’Indépendance de la Guinée et du Cap-Vert (PAIGC). Elle inscrit cette lutte dans une double logique historique : d’une part, celle de la décolonisation post-Seconde Guerre mondiale, où les contradictions de l’ordre impérialiste se font croissantes ; d’autre part, celle des résistances africaines, structurées depuis les années 1950 contre la domination portugaise, marquées par une extrême brutalité (taux d’analphabétisme supérieur à 99 %, mortalité infantile très élevée, usage systématique de la répression armée, famine, racisme structurel).
+L’introduction du recueil présente la trajectoire politique et théorique d’Amilcar Cabral à partir de la spécificité de la lutte de libération nationale menée par le Parti Africain pour l’Indépendance de la Guinée et du Cap-Vert (PAIGC). Elle inscrit cette lutte dans une double logique historique : d’une part, celle de la décolonisation post-Seconde Guerre mondiale, où les contradictions de l’ordre impérialiste se font croissantes ; d’autre part, celle des résistances africaines, structurées depuis les années 1950 contre la domination portugaise, marquées par une extrême brutalité (taux d’analphabétisme supérieur à 99 %, mortalité infantile très élevée, usage systématique de la répression armée, famine, racisme structurel).
 
 L’introduction établit ainsi un cadre dialectique dans lequel le projet de libération ne peut être réduit à une revendication formelle d’indépendance, mais se donne comme une entreprise globale de réappropriation de la souveraineté politique, de transformation sociale et de réhumanisation collective. Cette réappropriation passe par l’organisation politique (la fondation du PAIGC en 1956), la résistance armée (début en 1963) et l’élaboration d’une théorie de l’émancipation fondée sur la mobilisation des masses rurales, la construction de structures administratives autonomes, l’alphabétisation, et la mise en place d’un appareil judiciaire alternatif.
 

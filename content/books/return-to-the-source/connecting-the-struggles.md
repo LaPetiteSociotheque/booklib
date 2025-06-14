@@ -6,7 +6,7 @@ publicationYear: 1973
 pageCount: 158
 coverImage: /images/covers/return-to-the-source.jpg
 bookTitle: "Return to the Source"
-author: "Amílcar Cabral"
+author: "Amilcar Cabral"
 slug: "connecting-the-struggles"
 bookSlug: "return-to-the-source"
 ---
@@ -22,7 +22,7 @@ bookSlug: "return-to-the-source"
 <!--themes:end-->
 
 <!--summary:start-->
-Dans cette intervention informelle, prononcée lors d’une rencontre avec des militants afro-américains aux États-Unis au début des années 1970, Amílcar Cabral développe une réflexion sur la solidarité entre les luttes des peuples africains colonisés et celles des Noirs opprimés dans les sociétés capitalistes avancées, en particulier aux États-Unis. Il propose une lecture unifiée du combat contre l’oppression raciale, fondée sur l’expérience partagée de la domination, mais attentive aux spécificités histo...
+Dans cette intervention informelle, prononcée lors d’une rencontre avec des militants afro-américains aux États-Unis au début des années 1970, Amilcar Cabral développe une réflexion sur la solidarité entre les luttes des peuples africains colonisés et celles des Noirs opprimés dans les sociétés capitalistes avancées, en particulier aux États-Unis. Il propose une lecture unifiée du combat contre l’oppression raciale, fondée sur l’expérience partagée de la domination, mais attentive aux spécificités histo...
 
 Cabral commence par affirmer que les luttes de libération en Afrique ne peuvent être réduites à un problème local ou régional : elles font partie d’un processus global de désintégration de l’impérialisme mondial. Dans cette perspective, les Afro-Américains ne sont pas extérieurs à ce processus, mais en constituent une composante essentielle. La solidarité ne doit pas être seulement idéologique ou sentimentale, mais fondée sur l’analyse des rapports de force et sur une conscience politique diasporique.
 

@@ -6,7 +6,7 @@ publicationYear: 1973
 pageCount: 158
 coverImage: /images/covers/return-to-the-source.jpg
 bookTitle: "Return to the Source"
-author: "Amílcar Cabral"
+author: "Amilcar Cabral"
 slug: "national-liberation-culture"
 bookSlug: "return-to-the-source"
 ---
@@ -22,7 +22,7 @@ bookSlug: "return-to-the-source"
 <!--themes:end-->
 
 <!--summary:start-->
-Dans ce discours prononcé en 1970 à Syracuse University dans le cadre des conférences en hommage à Eduardo Mondlane, Amílcar Cabral élabore une théorie politique de la culture dans les sociétés colonisées. Il affirme que la domination impérialiste repose sur une tentative systématique de destruction ou de neutralisation de la culture des peuples dominés, condition indispensable au maintien de la domination. À l’inverse, la culture devient pour les colonisés une forme de résistance fondamentale, préala...
+Dans ce discours prononcé en 1970 à Syracuse University dans le cadre des conférences en hommage à Eduardo Mondlane, Amilcar Cabral élabore une théorie politique de la culture dans les sociétés colonisées. Il affirme que la domination impérialiste repose sur une tentative systématique de destruction ou de neutralisation de la culture des peuples dominés, condition indispensable au maintien de la domination. À l’inverse, la culture devient pour les colonisés une forme de résistance fondamentale, préala...
 
 La culture n’est pas définie comme un héritage figé mais comme une synthèse dynamique des rapports matériels, sociaux et spirituels d’une société avec son environnement. Elle exprime l’histoire, la structuration sociale, les rapports entre les classes, les normes de production et les aspirations collectives. Pour Cabral, toute tentative de domination impérialiste affronte la réalité culturelle du peuple colonisé ; c’est dans cette confrontation que naît la lutte de libération nationale.
 

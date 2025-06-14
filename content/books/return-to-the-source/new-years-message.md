@@ -6,7 +6,7 @@ publicationYear: 1973
 pageCount: 158
 coverImage: /images/covers/return-to-the-source.jpg
 bookTitle: "Return to the Source"
-author: "Amílcar Cabral"
+author: "Amilcar Cabral"
 slug: "new-years-message"
 bookSlug: "return-to-the-source"
 ---
@@ -22,7 +22,7 @@ bookSlug: "return-to-the-source"
 <!--themes:end-->
 
 <!--summary:start-->
-Dans ce message adressé aux combattants, aux populations libérées et aux soutiens internationaux à l’occasion du Nouvel An (probablement début 1973), Amílcar Cabral dresse un bilan stratégique de la lutte de libération nationale menée par le PAIGC. Ce message n’est pas une célébration formelle, mais un exercice politique de synthèse, d’orientation et de mobilisation. Il vise à renforcer la conscience politique collective, à rappeler les principes fondamentaux de la lutte, et à réaffirmer les objectifs ...
+Dans ce message adressé aux combattants, aux populations libérées et aux soutiens internationaux à l’occasion du Nouvel An (probablement début 1973), Amilcar Cabral dresse un bilan stratégique de la lutte de libération nationale menée par le PAIGC. Ce message n’est pas une célébration formelle, mais un exercice politique de synthèse, d’orientation et de mobilisation. Il vise à renforcer la conscience politique collective, à rappeler les principes fondamentaux de la lutte, et à réaffirmer les objectifs ...
 
 Cabral souligne d’abord les progrès tangibles réalisés : les forces armées populaires contrôlent la majorité du territoire de la Guinée (Bissau), une administration autonome y est en place, des écoles ont été ouvertes, des comités populaires dirigent la vie économique et sociale. Ce constat permet d’affirmer que la souveraineté populaire ne relève plus du projet mais de l’expérience concrète. La lutte armée devient ainsi le vecteur de la construction d’un nouvel ordre social, structuré par la participat...
 

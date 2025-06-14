@@ -6,7 +6,7 @@ publicationYear: 1973
 pageCount: 158
 coverImage: /images/covers/return-to-the-source.jpg
 bookTitle: "Return to the Source"
-author: "Amílcar Cabral"
+author: "Amilcar Cabral"
 slug: "second-address-un"
 bookSlug: "return-to-the-source"
 ---
@@ -22,7 +22,7 @@ bookSlug: "return-to-the-source"
 <!--themes:end-->
 
 <!--summary:start-->
-Dans cette allocution prononcée devant la Quatrième Commission des Nations unies le 16 octobre 1972, Amílcar Cabral défend la cause du PAIGC comme seul représentant légitime des peuples de Guinée (Bissau) et des îles du Cap-Vert. Il y expose les fondements historiques, politiques et juridiques de la lutte armée engagée depuis 1963, et affirme que celle-ci est non seulement conforme aux principes du droit international, mais aussi moralement et politiquement justifiée par l’intransigeance de l’État port...
+Dans cette allocution prononcée devant la Quatrième Commission des Nations unies le 16 octobre 1972, Amilcar Cabral défend la cause du PAIGC comme seul représentant légitime des peuples de Guinée (Bissau) et des îles du Cap-Vert. Il y expose les fondements historiques, politiques et juridiques de la lutte armée engagée depuis 1963, et affirme que celle-ci est non seulement conforme aux principes du droit international, mais aussi moralement et politiquement justifiée par l’intransigeance de l’État port...
 
 Le discours procède à une reconstruction historique du conflit : Cabral évoque les massacres (Pidgiguiti, 1959), les échecs du dialogue pacifique, l’intensification de la répression (arrestations massives, villages brûlés, exécutions), et justifie ainsi le passage à la guerre de libération nationale. Il affirme que cette lutte est inséparable de la construction d’une souveraineté populaire effective : dans plus de deux tiers du territoire libéré, le PAIGC a mis en place une administration autonome, un ...
 

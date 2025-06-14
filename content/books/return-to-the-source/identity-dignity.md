@@ -6,7 +6,7 @@ publicationYear: 1973
 pageCount: 158
 coverImage: /images/covers/return-to-the-source.jpg
 bookTitle: "Return to the Source"
-author: "Amílcar Cabral"
+author: "Amilcar Cabral"
 slug: "identity-dignity"
 bookSlug: "return-to-the-source"
 ---
@@ -22,7 +22,7 @@ bookSlug: "return-to-the-source"
 <!--themes:end-->
 
 <!--summary:start-->
-Dans ce discours, Amílcar Cabral articule deux notions fondamentales – identité et dignité – pour penser la lutte de libération nationale comme processus de réhumanisation des peuples colonisés. Il affirme que l’oppression coloniale repose sur une négation ontologique : elle nie non seulement la souveraineté politique des peuples africains, mais aussi leur valeur humaine fondamentale. La lutte révolutionnaire vise dès lors à reconstruire une identité collective qui ne soit pas seulement culturelle o...
+Dans ce discours, Amilcar Cabral articule deux notions fondamentales – identité et dignité – pour penser la lutte de libération nationale comme processus de réhumanisation des peuples colonisés. Il affirme que l’oppression coloniale repose sur une négation ontologique : elle nie non seulement la souveraineté politique des peuples africains, mais aussi leur valeur humaine fondamentale. La lutte révolutionnaire vise dès lors à reconstruire une identité collective qui ne soit pas seulement culturelle o...
 
 Cabral distingue l’identité imposée par le colonisateur – réduite à des catégories raciales, tribales ou folkloriques – de l’identité produite par l’engagement dans la lutte. C’est à travers la participation active à la guerre de libération, l’organisation sociale autonome et l’exercice de la souveraineté populaire que les peuples opprimés réaffirment leur humanité. L’identité devient donc une construction dynamique, inséparable de la praxis révolutionnaire, et non un héritage immobile.
 
