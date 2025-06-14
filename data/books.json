@@ -314,6 +314,48 @@
     "date": "2025-06-13"
   },
   {
+    "slug": "return-to-the-source",
+    "title": "Return to the Source",
+    "author": "Amilcar Cabral",
+    "publicationYear": 1973,
+    "pageCount": 158,
+    "coverImage": "/images/covers/return-to-the-source.jpg",
+    "description": "Return to the Source rassemble les interventions majeures d’Amilcar Cabral, figure centrale des luttes de libération en Afrique lusophone. À travers ses discours, Cabral développe une pensée politique où la lutte armée s’articule à une reconstruction de la souveraineté populaire, fondée sur l’auto-organisation, l’éducation, et la dignité. Dès l’introduction, il inscrit le combat du PAIGC dans une trajectoire révolutionnaire globale, visant à instaurer un pouvoir populaire dans les zones...",
+    "chapters": [
+      {
+        "title": "Introduction",
+        "slug": "introduction",
+        "order": 1
+      },
+      {
+        "title": "Second Address Before the United Nations, Fourth Committee, 1972",
+        "slug": "second-address-un",
+        "order": 2
+      },
+      {
+        "title": "National Liberation and Culture",
+        "slug": "national-liberation-culture",
+        "order": 3
+      },
+      {
+        "title": "Identity and Dignity in the Context of the National Liberation Struggle",
+        "slug": "identity-dignity",
+        "order": 4
+      },
+      {
+        "title": "Connecting the Struggles: An Informal Talk with Black Americans",
+        "slug": "connecting-the-struggles",
+        "order": 5
+      },
+      {
+        "title": "New Year's Message",
+        "slug": "new-years-message",
+        "order": 6
+      }
+    ],
+    "date": null
+  },
+  {
     "slug": "the-fateful-triangle",
     "title": "The Fateful Triangle: Race, Ethnicity, Nation",
     "author": "Stuart Hall",
