@@ -9,6 +9,7 @@ bookTitle: "Return to the Source"
 author: "Amilcar Cabral"
 slug: "connecting-the-struggles"
 bookSlug: "return-to-the-source"
+date: "2025-06-14"
 ---
 
 <!--themes:start-->

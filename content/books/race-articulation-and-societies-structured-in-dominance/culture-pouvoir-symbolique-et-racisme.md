@@ -9,6 +9,7 @@ bookTitle: "Race, Articulation and Societies Structured in Dominance"
 author: "Stuart Hall"
 slug: "culture-pouvoir-symbolique-et-racisme"
 bookSlug: "race-articulation-and-societies-structured-in-dominance"
+date: "2025-06-13"
 ---
 
 <!--themes:start-->
