@@ -5,6 +5,7 @@ import Head from "next/head"
 import Header from "../components/Header"
 import RecommendedBooks from "../components/RecommendedBooks"
 import authorsIndex from "../../data/authors.json"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export async function getStaticProps() {
   const filePath = path.join(process.cwd(), "data/books.json")

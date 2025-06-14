@@ -39,6 +39,18 @@ export default function BookPage({ book, allBooks, summaryHtml }: BookPageProps)
     <div className="min-h-screen bg-[#FAF4EB] text-[#2E2A26]">
       <Head>
         <title>{book.title}</title>
+        <meta property="og:title" content="{`${book.title} | La Petite Sociothèque`}" />
+  <meta property="og:description" content="Fiches de lecture accessibles et engagées en sciences sociales et histoire critique." />
+  <meta property="og:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
+  <meta property="og:url" content="https://lapetitesociotheque.com/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="La Petite Sociothèque"></meta>
+
+  {/* Twitter Card */}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{`${book.title} | La Petite Sociothèque`}" />
+  <meta name="twitter:description" content="Fiches de lecture accessibles et engagées en sciences sociales et histoire critique." />
+  <meta name="twitter:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
       </Head>
 
       <Header />
