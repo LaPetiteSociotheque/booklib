@@ -38,18 +38,17 @@ export default function ChapterPage({ title, contentHtml, bookSlug, previousChap
         <title>{`${title} | La Petite Sociothèque`}</title>
         <meta name="description" content={title} />
         <meta property="og:title" content="La Petite Sociothèque" />
-  <meta property="og:description" content="Fiches de lecture accessibles et engagées en sciences sociales et histoire critique." />
-  <meta property="og:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
-  <meta property="og:url" content="https://lapetitesociotheque.com/" />
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="La Petite Sociothèque"></meta>
-
-  {/* Twitter Card */}
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="La Petite Sociothèque" />
-  <meta name="twitter:description" content="Fiches de lecture accessibles et engagées en sciences sociales et histoire critique." />
-  <meta name="twitter:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
+        <meta property="og:description" content="Fiches de lecture accessibles et engagées en sciences sociales et histoire critique." />
+        <meta property="og:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
+        <meta property="og:url" content="https://lapetitesociotheque.com/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="La Petite Sociothèque" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="La Petite Sociothèque" />
+        <meta name="twitter:description" content="Fiches de lecture accessibles et engagées en sciences sociales et histoire critique." />
+        <meta name="twitter:image" content="https://lapetitesociotheque.com/images/og/homepage.jpg" />
       </Head>
+
       <div className="mt-8"></div>
       <main className="min-h-screen bg-[#FAF4EB] text-[#2E2A26] p-6">
         <Header />
@@ -80,19 +79,9 @@ export default function ChapterPage({ title, contentHtml, bookSlug, previousChap
             </Link>
           ) : <span />}
         </nav>
-
-        
       </main>
     </>
   )
-}
-
-function linkConceptsInHtml(html: string, concepts: { title: string; slug: string }[]): string {
-  concepts.forEach(({ title, slug }) => {
-    const pattern = new RegExp(`\\b(${title})\\b`, "gi")
-    html = html.replace(pattern, `<a href="/concepts/${slug}" class="text-[#B74E22] underline">$1</a>`)
-  })
-  return html
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -147,13 +136,11 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const fileContent = fs.readFileSync(path.join(bookDir, currentFile), "utf-8")
   const { data, content } = matter(fileContent)
 
-  // Fonction pour convertir Markdown en HTML
   async function markdownToHtml(markdown: string): Promise<string> {
     const processed = await remark().use(html).process(markdown)
     return processed.toString()
   }
 
-  // Extraction des blocs par balises
   function extractBlock(text: string, key: string): string {
     const pattern = new RegExp(`<!--${key}:start-->([\\s\\S]*?)<!--${key}:end-->`, "i")
     const match = text.match(pattern)
@@ -170,20 +157,11 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     markdownToHtml(conceptsMarkdown)
   ])
 
-  let contentHtml = `
+  const contentHtml = `
 <!--themes:start-->${themesHtml}<!--themes:end-->
 <!--summary:start-->${summaryHtml}<!--summary:end-->
 <!--concepts:start-->${conceptsRawHtml}<!--concepts:end-->
 `
-
-  const conceptsPath = path.join(process.cwd(), "data", "concepts.json")
-  const concepts = JSON.parse(fs.readFileSync(conceptsPath, "utf-8"))
-
-  const conceptPattern = /<!--concepts:start-->([\s\S]*?)<!--concepts:end-->/i
-  contentHtml = contentHtml.replace(conceptPattern, (match, inner) => {
-    const linked = linkConceptsInHtml(inner, concepts)
-    return `<!--concepts:start-->${linked}<!--concepts:end-->`
-  })
 
   return {
     props: {
