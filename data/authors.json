@@ -34,6 +34,68 @@
     ]
   },
   {
+    "name": "Sven Beckert",
+    "slug": "sven-beckert",
+    "chapters": [
+      {
+        "title": "Back to the Future",
+        "slug": "back-to-the-future"
+      },
+      {
+        "title": "Building War Capitalism",
+        "slug": "building-war-capitalism"
+      },
+      {
+        "title": "Capturing Labor",
+        "slug": "capturing-labor"
+      },
+      {
+        "title": "Creative Labor",
+        "slug": "creative-labor"
+      },
+      {
+        "title": "Global Passages",
+        "slug": "global-passages"
+      },
+      {
+        "title": "Global Reconstruction",
+        "slug": "global-reconstruction"
+      },
+      {
+        "title": "Industrial Capitalism Takes Its Wings",
+        "slug": "industrial-capitalism-takes-its-wings"
+      },
+      {
+        "title": "Mobilizing Industrial Labor",
+        "slug": "mobilizing-industrial-labor"
+      },
+      {
+        "title": "Slavery Takes Command",
+        "slug": "slavery-takes-command"
+      },
+      {
+        "title": "The Empire of Cotton Comes Apart",
+        "slug": "the-empire-of-cotton-comes-apart"
+      },
+      {
+        "title": "The Rise of a Global Commodity",
+        "slug": "the-rise-of-global-commodity"
+      },
+      {
+        "title": "The Wages of War Capitalism",
+        "slug": "the-wages-of-war-capitalism"
+      },
+      {
+        "title": "World War And Civil War",
+        "slug": "world-war-and-civil-war"
+      },
+      {
+        "title": "Empire Of Cotton",
+        "slug": "empire-of-cotton"
+      }
+    ]
+  },
+  {
     "name": "Patricia Hill Collins",
     "slug": "patricia-hill-collins",
     "chapters": [

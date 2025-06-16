@@ -42,6 +42,83 @@
     "date": "2025-06-12"
   },
   {
+    "slug": "empire-of-cotton",
+    "title": "Empire Of Cotton",
+    "author": "Sven Beckert",
+    "publicationYear": 2015,
+    "pageCount": 640,
+    "coverImage": "/images/covers/empire-of-cotton.jpg",
+    "description": "L’empire du coton fut, dès ses origines, le théâtre d’un affrontement mondial constant entre esclaves et planteurs, marchands et hommes d’État, ouvrier·ères et industriels. Dans Empire of Cotton, Sven Beckert montre de manière saisissante que ces luttes sociales ne sont pas périphériques : elles sont constitutives de l’émergence du capitalisme moderne. Loin d’être un système fondé sur la liberté et la concurrence pure, le capitalisme global naît de l’articulation entre violence impériale, esclavage racial, expropriation coloniale et discipline industrielle.",
+    "chapters": [
+      {
+        "title": "The Rise of a Global Commodity",
+        "slug": "the-rise-of-a-global-commodity",
+        "order": 1
+      },
+      {
+        "title": "Building War Capitalism",
+        "slug": "building-war-capitalism",
+        "order": 2
+      },
+      {
+        "title": "The Wages of War Capitalism",
+        "slug": "wages-of-war-capitalism",
+        "order": 3
+      },
+      {
+        "title": "Capturing Labor",
+        "slug": "capturing-labor",
+        "order": 4
+      },
+      {
+        "title": "Industrial Capitalism Takes Its Wings",
+        "slug": "industrial-capitalism-takes-its-wing",
+        "order": 5
+      },
+      {
+        "title": "Slavery Takes Command",
+        "slug": "slavery-takes-command",
+        "order": 6
+      },
+      {
+        "title": "Mobilizing Industrial Labor",
+        "slug": "mobilizing-industrial-labor",
+        "order": 7
+      },
+      {
+        "title": "Global Passages",
+        "slug": "global-passages",
+        "order": 8
+      },
+      {
+        "title": "Creative Labor",
+        "slug": "creative-destruction",
+        "order": 9
+      },
+      {
+        "title": "World War And Civil War",
+        "slug": "world-war-and-civil-war",
+        "order": 10
+      },
+      {
+        "title": "Global Reconstruction",
+        "slug": "global-reconstruction",
+        "order": 11
+      },
+      {
+        "title": "The Empire of Cotton Comes Apart",
+        "slug": "the-empire-of-cotton-comes-apart",
+        "order": 12
+      },
+      {
+        "title": "Back to the Future",
+        "slug": "back-to-the-future",
+        "order": 13
+      }
+    ],
+    "date": "2025-06-18"
+  },
+  {
     "slug": "intersectionality-as-critical-social-theory",
     "title": "Intersectionality as Critical Social Theory",
     "author": "Patricia Hill Collins",
