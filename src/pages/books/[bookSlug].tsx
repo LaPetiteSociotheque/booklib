@@ -11,6 +11,9 @@ import { BookChaptersTableOfContents } from "../../components/BookChaptersTableO
 import { BookSidebarInfo } from "../../components/BookSidebarInfo"
 import { getAllBooks, getBookBySlug } from "../../lib/books"
 import BookSummary from "../../components/BookSummary"
+import authors from '../../../data/authors.json'
+
+
 
 type Chapter = {
   title: string
@@ -35,6 +38,10 @@ type BookPageProps = {
 }
 
 export default function BookPage({ book, allBooks, summaryHtml }: BookPageProps) {
+  
+  const authorEntry = authors.find((a) => a.name === book.author)
+  const authorSlug = authorEntry?.slug
+  
   return (
     <div className="min-h-screen bg-[#FAF4EB] text-[#2E2A26]">
       <Head>
@@ -56,7 +63,7 @@ export default function BookPage({ book, allBooks, summaryHtml }: BookPageProps)
       <Header />
       <div className="mt-8"></div>
       <main className="px-6 py-12 max-w-5xl mx-auto">
-        <BookTitleBlock title={book.title} author={book.author} />
+        <BookTitleBlock title={book.title} author={book.author} slug={authorSlug} />
 
         <div className="mt-10 flex flex-col lg:flex-row gap-10 items-start">
           {/* Résumé à gauche */}
