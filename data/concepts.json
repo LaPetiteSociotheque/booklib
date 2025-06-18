@@ -54,6 +54,15 @@
     ]
   },
   {
+    "title": "Colonialisme de peuplement",
+    "slug": "colonialisme-de-peuplement",
+    "definition": "Forme de colonialisme dans laquelle les colons ne cherchent pas seulement à exploiter les ressources d’un territoire, mais à s’y installer durablement, en remplaçant la population indigène. Il repose sur l’effacement physique, juridique et symbolique du peuple colonisé.\n",
+    "historicalContext": "Le concept émerge dans les années 1980 dans les études sur les colonies anglo-saxonnes (Australie, États-Unis, Canada). Il est mobilisé dans les études postcoloniales et palestiniennes pour décrire la nature spécifique de l’occupation israélienne. Edward Said, Patrick Wolfe et Rashid Khalidi en sont des références majeures.\n",
+    "books": [
+      "the-hundred-years-war-on-palestine"
+    ]
+  },
+  {
     "title": "Colonialisme d’infrastructure",
     "slug": "colonialisme-infrastructure",
     "definition": "Forme de domination coloniale utilisant des projets d’aménagement (barrages, routes, pipelines) pour contrôler, déplacer ou effacer des populations autochtones.\n",
@@ -343,6 +352,15 @@
     ]
   },
   {
+    "title": "Intifada",
+    "slug": "intifada",
+    "definition": "Mot arabe signifiant « soulèvement ». Il désigne les révoltes populaires palestiniennes contre l’occupation israélienne, en particulier la Première Intifada (1987–1993) et la Seconde Intifada (2000–2005), impliquant différentes formes de résistance.\n",
+    "historicalContext": "La Première Intifada marque une rupture avec la direction politique en exil, en mettant en avant l’organisation de terrain. La Seconde, plus militarisée, entraîne une répression extrême et l’installation du mur de séparation. Ces deux moments structurent profondément la politique palestinienne contemporaine.\n",
+    "books": [
+      "the-hundred-years-war-on-palestine"
+    ]
+  },
+  {
     "title": "Justice environnementale autochtone",
     "slug": "justice-environnementale-autochtone",
     "definition": "Courant de lutte qui articule la protection de l’environnement à la souveraineté politique, spirituelle et territoriale des peuples autochtones.\n",
@@ -406,6 +424,15 @@
     ]
   },
   {
+    "title": "Nakba",
+    "slug": "nakba",
+    "definition": "Terme arabe signifiant \"catastrophe\", désignant l’expulsion, la fuite et la dépossession de plus de 700 000 Palestiniens entre 1947 et 1949, ainsi que la destruction de centaines de villages. Elle est centrale dans la mémoire collective palestinienne.\n",
+    "historicalContext": "Longtemps absente du récit dominant israélien et occidental, la Nakba est redocumentée dans les années 1980 par les New Historians israéliens (Ilan Pappé, Benny Morris) et intégrée aux travaux postcoloniaux. Elle est aujourd’hui reconnue comme un processus de nettoyage ethnique planifié.\n",
+    "books": [
+      "the-hundred-years-war-on-palestine"
+    ]
+  },
+  {
     "title": "Nation",
     "slug": "nation",
     "definition": "Construction discursive et affective fondée sur un récit symbolique d’unité, d’origine partagée et de continuité culturelle. Produit une illusion d’homogénéité souvent excluante.\n",
@@ -457,6 +484,15 @@
     "historicalContext": "Lié aux philosophies des Lumières et aux téléologies libérales du progrès, il est contesté par les traditions critiques postcoloniales. Táíwò en propose une relecture stratégique fondée sur l’action collective.\n",
     "books": [
       "reconsidering-reparations"
+    ]
+  },
+  {
+    "title": "Panarabisme",
+    "slug": "panarabisme",
+    "definition": "Idéologie politique visant à l’unité des peuples arabes dans un même espace politique, au-delà des frontières imposées par le colonialisme. Elle repose sur une identité culturelle, linguistique et historique commune.\n",
+    "historicalContext": "Le panarabisme se développe au XXe siècle, notamment sous Nasser en Égypte. Il joue un rôle clé dans les années 1950–1960, mais s’effondre après la guerre de 1967. Il est critiqué dans le livre pour son incapacité à reconnaître pleinement l’autonomie politique palestinienne.\n",
+    "books": [
+      "the-hundred-years-war-on-palestine"
     ]
   },
   {

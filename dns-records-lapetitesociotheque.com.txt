@@ -1,0 +1,3 @@
+; DNS Records for lapetitesociotheque.com
+; Add these records to your DNS provider's configuration
+

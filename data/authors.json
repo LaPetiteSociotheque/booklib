@@ -366,6 +366,44 @@
     ]
   },
   {
+    "name": "Rashid Khalidi",
+    "slug": "rashid-khalidi",
+    "chapters": [
+      {
+        "title": "Conclusion: A Century of War on the Palestinians",
+        "slug": "conclusion-century-of-war"
+      },
+      {
+        "title": "The Fifth Declaration of War, 1987–1995",
+        "slug": "the-fifth-declaration-of-war-1987-1995"
+      },
+      {
+        "title": "The First Declaration of War, 1917–1939",
+        "slug": "the-first-declaration-of-war-1917-1939"
+      },
+      {
+        "title": "The Fourth Declaration of War, 1982",
+        "slug": "the-fourth-declaration-of-war-1982"
+      },
+      {
+        "title": "The Second Declaration of War, 1947–1948",
+        "slug": "the-second-declaration-of-war-1947-1948"
+      },
+      {
+        "title": "The Sixth Declaration of War, 2000–2014",
+        "slug": "the-sixth-declaration-of-war-2000-2014"
+      },
+      {
+        "title": "The Third Declaration of War, 1967",
+        "slug": "the-third-declaration-of-war-1967"
+      },
+      {
+        "title": "The Hundred Years’ War on Palestine",
+        "slug": "the-hundred-years-war-on-palestine"
+      }
+    ]
+  },
+  {
     "name": "Ashley Jardina",
     "slug": "ashley-jardina",
     "chapters": [

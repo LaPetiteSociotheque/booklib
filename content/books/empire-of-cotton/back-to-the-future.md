@@ -9,7 +9,7 @@ bookTitle: "Empire of Cotton"
 author: "Sven Beckert"
 slug: "back-to-the-future"
 bookSlug: "empire-of-cotton"
-date: "2025-06-18"
+date: "2025-06-17"
 ---
 
 <!--themes:start-->
