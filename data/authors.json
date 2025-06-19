@@ -256,6 +256,44 @@
     ]
   },
   {
+    "name": "Pierre Odin",
+    "slug": "pierre-odin",
+    "chapters": [
+      {
+        "title": "« Se syndiquer pour la lutte des classes » : la CGT Guadeloupe et la CGT Martinique",
+        "slug": "cgt-lutte-classes"
+      },
+      {
+        "title": "« Après la colonie » : de l’anticolonialisme au post-colonialisme ?",
+        "slug": "conclusion-post-colonialisme"
+      },
+      {
+        "title": "Introduction — « La grève des quarante-quatre jours » : un moment révolutionnaire ?",
+        "slug": "introduction-greve-44-jours"
+      },
+      {
+        "title": "Lutter contre la pwofitasyon : la construction d’une radicalité unitaire",
+        "slug": "pwofitasyon-radicalite"
+      },
+      {
+        "title": "De la lutte politique à la lutte syndicale : topographie d’une reconversion",
+        "slug": "reconversion-syndicale"
+      },
+      {
+        "title": "« Se syndiquer pour marcher vers l’indépendance » : l’Union générale des travailleurs de la Guadeloupe",
+        "slug": "ugtg-independance"
+      },
+      {
+        "title": "Un Mai-68 antillais ?",
+        "slug": "un-mai-68-antillais"
+      },
+      {
+        "title": "Pwofitasyon. Luttes syndicales et anticolonialisme en Guadeloupe et en Martinique",
+        "slug": "pwofitasyon"
+      }
+    ]
+  },
+  {
     "name": "Stuart Hall",
     "slug": "stuart-hall",
     "chapters": [

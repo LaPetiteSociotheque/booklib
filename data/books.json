@@ -317,6 +317,53 @@
     "date": "2025-06-12"
   },
   {
+    "slug": "pwofitasyon",
+    "title": "Pwofitasyon. Luttes syndicales et anticolonialisme en Guadeloupe et en Martinique",
+    "author": "Pierre Odin",
+    "publicationYear": 2019,
+    "pageCount": 368,
+    "coverImage": "/images/covers/pwofitasyon.jpg",
+    "description": "Pwofitasyon propose une analyse sociologique rigoureuse des luttes syndicales contemporaines en Guadeloupe et en Martinique, en les inscrivant dans une trajectoire longue de résistance anticolonialiste. À partir d’une enquête minutieuse sur la grève générale de 2009 et les dynamiques ayant conduit à sa formation, Pierre Odin reconstitue les recompositions du militantisme antillais depuis les années 1960.",
+    "chapters": [
+      {
+        "title": "Introduction — « La grève des quarante-quatre jours » : un moment révolutionnaire ?",
+        "slug": "introduction",
+        "order": 1
+      },
+      {
+        "title": "De la lutte politique à la lutte syndicale : topographie d’une reconversion",
+        "slug": "reconversion-syndicale",
+        "order": 2
+      },
+      {
+        "title": "Un Mai-68 antillais ?",
+        "slug": "un-mai-68-antillais",
+        "order": 2
+      },
+      {
+        "title": "« Se syndiquer pour marcher vers l’indépendance » : l’Union générale des travailleurs de la Guadeloupe",
+        "slug": "ugtg-independance",
+        "order": 3
+      },
+      {
+        "title": "« Se syndiquer pour la lutte des classes » : la CGT Guadeloupe et la CGT Martinique",
+        "slug": "cgt-lutte-classes",
+        "order": 4
+      },
+      {
+        "title": "Lutter contre la pwofitasyon : la construction d’une radicalité unitaire",
+        "slug": "pwofitasyon-radicalite",
+        "order": 5
+      },
+      {
+        "title": "« Après la colonie » : de l’anticolonialisme au post-colonialisme ?",
+        "slug": "conclusion-post-colonialisme",
+        "order": 6
+      }
+    ],
+    "date": "2025-06-19"
+  },
+  {
     "slug": "race-articulation-and-societies-structured-in-dominance",
     "title": "Race, Articulation and Societies Structured in Dominance",
     "author": "Stuart Hall",
