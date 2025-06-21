@@ -1,5 +1,52 @@
 [
   {
+    "slug": "black-on-both-sides",
+    "title": "Black on Both Sides",
+    "author": "C. Riley Snorton",
+    "publicationYear": 2017,
+    "pageCount": 228,
+    "coverImage": "/images/covers/black-on-both-sides.jpg",
+    "description": "Dans Black on Both Sides, C. Riley Snorton identifie de multiples points d’intersection entre la noirceur (blackness) et la transidentité (transness), depuis le milieu du XIXe siècle jusqu’aux lois et violences contemporaines anti-noires et anti-trans.",
+    "chapters": [
+      {
+        "title": "Introduction",
+        "slug": "introduction",
+        "order": 1
+      },
+      {
+        "title": "Anatomically Speaking: Ungendered Flesh and the Science of Sex",
+        "slug": "anatomically-speaking",
+        "order": 2
+      },
+      {
+        "title": "Trans Capable: Fungibility, Fugitivity, and the Matter of Being",
+        "slug": "trans-capable",
+        "order": 3
+      },
+      {
+        "title": "Reading the “trans-” in Transatlantic Literature",
+        "slug": "reading-the-trans",
+        "order": 4
+      },
+      {
+        "title": "A Nightmarish Silhouette: Racialization and the Long Exposure of Transition",
+        "slug": "a-nightmarish-silhouette",
+        "order": 5
+      },
+      {
+        "title": "Conclusion",
+        "slug": "conclusion",
+        "order": 6
+      },
+      {
+        "title": "DeVine’s Cut: Public Memory and the Politics of Martyrdom",
+        "slug": "devines-cut",
+        "order": 6
+      }
+    ],
+    "date": "2025-06-21"
+  },
+  {
     "slug": "caliban-and-the-witch",
     "title": "Caliban and the Witch",
     "author": "Silvia Federici",

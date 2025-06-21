@@ -1,5 +1,43 @@
 [
   {
+    "name": "C. Riley Snorton",
+    "slug": "c.-riley-snorton",
+    "chapters": [
+      {
+        "title": "A Nightmarish Silhouette: Racialization and the Long Exposure of Transition",
+        "slug": "a-nightmarish-silhouette"
+      },
+      {
+        "title": "Anatomically Speaking: Ungendered Flesh and the Science of Sex",
+        "slug": "anatomically-speaking"
+      },
+      {
+        "title": "Conclusion",
+        "slug": "conclusion"
+      },
+      {
+        "title": "DeVine’s Cut: Public Memory and the Politics of Martyrdom",
+        "slug": "devines-cut"
+      },
+      {
+        "title": "Introduction",
+        "slug": "introduction"
+      },
+      {
+        "title": "Reading the “trans-” in Transatlantic Literature",
+        "slug": "reading-the-trans"
+      },
+      {
+        "title": "Trans Capable: Fungibility, Fugitivity, and the Matter of Being",
+        "slug": "trans-capable"
+      },
+      {
+        "title": "Black on Both Sides",
+        "slug": "black-on-both-sides"
+      }
+    ]
+  },
+  {
     "name": "Silvia Federici",
     "slug": "silvia-federici",
     "chapters": [
@@ -484,6 +522,16 @@
       {
         "title": "White Identity Politics",
         "slug": "white-identity-politics"
+      }
+    ]
+  },
+  {
+    "name": "Lloyd Best",
+    "slug": "lloyd-best",
+    "chapters": [
+      {
+        "title": "Une typologie partielle des systèmes économiques",
+        "slug": "typologie-systemes-economiques"
       }
     ]
   }
