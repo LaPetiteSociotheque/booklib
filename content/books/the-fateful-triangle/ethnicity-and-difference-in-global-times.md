@@ -10,6 +10,9 @@ author: "Stuart Hall"
 slug: "ethnicity-and-difference-in-global-times"
 bookSlug: "the-fateful-triangle"
 date: "2025-06-10"
+themes: 
+    - Théorie critique
+    - Racialisation et blanchité
 ---
 
 <!--themes:start-->

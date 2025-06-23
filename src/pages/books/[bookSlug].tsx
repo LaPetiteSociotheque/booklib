@@ -13,6 +13,7 @@ import { getAllBooks, getBookBySlug } from "../../lib/books"
 import BookSummary from "../../components/BookSummary"
 import authors from '../../../data/authors.json'
 import { Analytics } from "@vercel/analytics/next"
+import { BookThemesBlock } from "../../components/BookThemesBlock"
 
 
 
@@ -81,6 +82,7 @@ export default function BookPage({ book, allBooks, summaryHtml }: BookPageProps)
                 pageCount={book.pageCount}
               />
             </div>
+             <BookThemesBlock bookSlug={book.slug} />
           </div>
         </div>
 

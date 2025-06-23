@@ -9,6 +9,11 @@ bookTitle: "Black on Both Sides"
 author: "C. Riley Snorton"
 slug: "a-nightmarish-silhouette"
 bookSlug: "black-on-both-sides"
+themes: 
+    - Racialisation et Blanchité
+    - Genre et féminisme noir
+    - Théorie critique
+    - Histoire et luttes
 ---
 
 <!--themes:start-->

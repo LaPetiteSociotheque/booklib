@@ -9,6 +9,8 @@ bookTitle: "White Identity Politics"
 author: "Ashley Jardina"
 slug: "a-black-man-in-the-white-house"
 bookSlug: "white-identity-politics"
+themes: 
+    - Racialisation et blanchité
 ---
 
 <!--themes:start-->

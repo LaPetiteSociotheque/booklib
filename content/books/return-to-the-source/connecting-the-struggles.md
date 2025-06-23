@@ -10,6 +10,10 @@ author: "Amilcar Cabral"
 slug: "connecting-the-struggles"
 bookSlug: "return-to-the-source"
 date: "2025-06-14"
+themes:
+    - Théorie critique
+    - Racialisation et blanchité
+    - Histoire et luttes
 ---
 
 <!--themes:start-->

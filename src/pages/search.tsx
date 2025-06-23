@@ -28,43 +28,57 @@ export const getServerSideProps: GetServerSideProps = async ({ query }) => {
   const q = (query.q as string || '').toLowerCase()
 
   const booksDir = path.join(process.cwd(), 'content', 'books')
-  const bookSlugs = fs.readdirSync(booksDir)
+  if (!fs.existsSync(booksDir)) {
+    return { props: { q, books: [], chapters: [] } }
+  }
 
+  const bookSlugs = fs.readdirSync(booksDir)
   const books: Book[] = []
   const chapters: Chapter[] = []
 
   for (const bookSlug of bookSlugs) {
     const chapterDir = path.join(booksDir, bookSlug)
-    const chapterFiles = fs.readdirSync(chapterDir)
+    if (!fs.statSync(chapterDir).isDirectory()) continue
+
+    const chapterFiles = fs.readdirSync(chapterDir).filter(f => f.endsWith('.md'))
 
     let bookMatched = false
 
     for (const file of chapterFiles) {
       const filePath = path.join(chapterDir, file)
-      const fileContents = fs.readFileSync(filePath, 'utf8')
-      const { data, content } = matter(fileContents)
 
-      const chapterSlug = file.replace(/\.md$/, '')
-      const chapterTitle = data.title || chapterSlug
+      try {
+        const fileContents = fs.readFileSync(filePath, 'utf8')
+        const { data, content } = matter(fileContents)
 
-      const textMatch = chapterTitle.toLowerCase().includes(q) || content.toLowerCase().includes(q)
-      const bookMatch = data.bookTitle?.toLowerCase().includes(q) || data.description?.toLowerCase().includes(q)
+        const chapterSlug = file.replace(/\.md$/, '')
+        const chapterTitle = typeof data.title === 'string' ? data.title : chapterSlug
 
-      if (textMatch) {
-        chapters.push({
-          title: chapterTitle,
-          slug: chapterSlug,
-          bookSlug,
-        })
-      }
+        const bookTitle = typeof data.bookTitle === 'string' ? data.bookTitle : ''
+        const description = typeof data.description === 'string' ? data.description : ''
 
-      if (!bookMatched && (bookMatch || textMatch)) {
-        books.push({
-          slug: bookSlug,
-          title: data.bookTitle || chapterTitle,
-          description: data.description || '',
-        })
-        bookMatched = true
+        const textMatch = chapterTitle.toLowerCase().includes(q) || content.toLowerCase().includes(q)
+        const bookMatch = bookTitle.toLowerCase().includes(q) || description.toLowerCase().includes(q)
+
+        if (textMatch) {
+          chapters.push({
+            title: chapterTitle,
+            slug: chapterSlug,
+            bookSlug,
+          })
+        }
+
+        if (!bookMatched && (bookMatch || textMatch)) {
+          books.push({
+            slug: bookSlug,
+            title: bookTitle || chapterTitle,
+            description,
+          })
+          bookMatched = true
+        }
+      } catch (error) {
+        console.error(`Erreur lors du traitement de ${filePath}`, error)
+        continue
       }
     }
   }

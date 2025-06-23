@@ -11,7 +11,8 @@
     "build:books": "node compileBooks.js",
     "start": "next start",
     "lint": "next lint",
-    "generate:index": "ts-node scripts/generateIndex.ts"
+    "generate:index": "ts-node scripts/generateIndex.ts",
+    "build:themes": "node buildThemes.js"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",

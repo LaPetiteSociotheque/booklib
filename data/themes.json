@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "capitalisme-racial,-économie-politique-et-critique-du-néolibéralisme",
+    "title": "Capitalisme racial, économie politique et critique du néolibéralisme",
+    "description": "",
+    "books": [
+      "caliban-and-the-witch",
+      "empire-of-cotton",
+      "left-of-karl-marx",
+      "make-your-own-job",
+      "our-history-is-the-future",
+      "pwofitasyon",
+      "reconsidering-reparations"
+    ]
+  },
+  {
+    "slug": "genre-et-féminisme-noir",
+    "title": "Genre et féminisme noir",
+    "description": "",
+    "books": [
+      "black-on-both-sides",
+      "caliban-and-the-witch",
+      "intersectionality-as-critical-social-theory",
+      "left-of-karl-marx",
+      "reconsidering-reparations"
+    ]
+  },
+  {
+    "slug": "histoire-et-luttes",
+    "title": "Histoire et luttes",
+    "description": "",
+    "books": [
+      "black-on-both-sides",
+      "caliban-and-the-witch",
+      "empire-of-cotton",
+      "left-of-karl-marx",
+      "make-your-own-job",
+      "our-history-is-the-future",
+      "pwofitasyon",
+      "reconsidering-reparations",
+      "return-to-the-source",
+      "the-hundred-years-war-on-palestine"
+    ]
+  },
+  {
+    "slug": "police-et-carcéralité",
+    "title": "Police et carcéralité",
+    "description": "",
+    "books": [
+      "left-of-karl-marx",
+      "our-history-is-the-future"
+    ]
+  },
+  {
+    "slug": "racialisation-et-blanchité",
+    "title": "Racialisation et Blanchité",
+    "description": "",
+    "books": [
+      "black-on-both-sides",
+      "intersectionality-as-critical-social-theory",
+      "left-of-karl-marx",
+      "make-your-own-job",
+      "our-history-is-the-future",
+      "pwofitasyon",
+      "race-articulation-and-societies-structured-in-dominance",
+      "reconsidering-reparations",
+      "return-to-the-source",
+      "the-fateful-triangle",
+      "the-hundred-years-war-on-palestine",
+      "white-identity-politics"
+    ]
+  },
+  {
+    "slug": "théorie-critique",
+    "title": "Théorie critique",
+    "description": "",
+    "books": [
+      "black-on-both-sides",
+      "intersectionality-as-critical-social-theory",
+      "left-of-karl-marx",
+      "race-articulation-and-societies-structured-in-dominance",
+      "reconsidering-reparations",
+      "return-to-the-source",
+      "the-fateful-triangle"
+    ]
+  }
+]

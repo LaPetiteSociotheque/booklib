@@ -9,6 +9,11 @@ bookTitle: "Our History Is the Future"
 author: "Nick Estes"
 slug: "flood"
 bookSlug: "our-history-is-the-future"
+themes: 
+    - Capitalisme racial, économie politique et critique du néolibéralisme
+    - Racialisation et blanchité
+    - Histoire et luttes
+    - Police et carcéralité
 ---
 
 <!--themes:start-->

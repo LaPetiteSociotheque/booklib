@@ -10,6 +10,10 @@ author: "Pierre Odin"
 slug: "cgt-lutte-classes"
 bookSlug: "pwofitasyon"
 date: "2025-06-19"
+themes:
+    - Capitalisme racial, économie politique et critique du néolibéralisme
+    - Racialisation et blanchité
+    - Histoire et luttes
 ---
 
 <!--themes:start-->

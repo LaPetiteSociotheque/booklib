@@ -9,6 +9,10 @@ bookTitle: "Intersectionality as Critical Social Theory"
 author: "Patricia Hill Collins"
 slug: "intersectionality-and-epistemic-resistance"
 bookSlug: "intersectionality-as-critical-social-theory"
+themes: 
+    - Genre et féminisme noir
+    - Théorie critique
+    - Racialisation et blanchité
 ---
 
 <!--themes:start-->

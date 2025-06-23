@@ -10,6 +10,9 @@ author: "Sven Beckert"
 slug: "back-to-the-future"
 bookSlug: "empire-of-cotton"
 date: "2025-06-17"
+themes: 
+    - Capitalisme racial, économie politique et critique du néolibéralisme
+    - Histoire et luttes
 ---
 
 <!--themes:start-->

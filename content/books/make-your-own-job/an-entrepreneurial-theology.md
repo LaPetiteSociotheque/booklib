@@ -9,10 +9,10 @@ slug: "an-entrepreneurial-theology"
 bookSlug: "make-your-own-job"
 publicationYear: 2025
 pageCount: 352
-concepts:
-    - theologie-entrepreneuriale
-    - culpabilite-productive
-    - responsabilite-totalisee
+themes: 
+    - Capitalisme racial, économie politique et critique du néolibéralisme
+    - Racialisation et blanchité
+    - Histoire et luttes
 date: "2025-06-12"
 ---
 

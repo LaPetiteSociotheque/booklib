@@ -9,6 +9,9 @@ bookTitle: "The Hundred Years’ War on Palestine"
 author: "Rashid Khalidi"
 slug: "conclusion-century-of-war"
 bookSlug: "the-hundred-years-war-on-palestine"
+themes: 
+    - Racialisation et blanchité
+    - Histoire et luttes
 ---
 
 <!--themes:start-->

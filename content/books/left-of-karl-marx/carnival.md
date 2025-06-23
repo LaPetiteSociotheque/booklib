@@ -9,10 +9,13 @@ bookTitle: "Left of Karl Marx : The Life Of Black Communist Claudia Jones"
 author: "Carole Boyce Davies"
 slug: "carnival"
 bookSlug: "left-of-karl-marx"
-concepts:
-  - carnaval diasporique
-  - communauté diasporique
-  - activisme culturel
+themes: 
+    - Genre et féminisme noir
+    - Capitalisme racial, économie politique et critique du néolibéralisme
+    - Théorie critique
+    - Racialisation et blanchité
+    - Histoire et luttes
+    - Police et carcéralité
 ---
 
 

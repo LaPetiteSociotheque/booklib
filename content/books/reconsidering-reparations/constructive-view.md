@@ -9,6 +9,12 @@ bookTitle: "Reconsidering Reparations"
 author: "Olufemi O. Taiwo"
 slug: "constructive-view"
 bookSlug: "reconsidering-reparations"
+themes: 
+    - Genre et féminisme noir
+    - Capitalisme racial, économie politique et critique du néolibéralisme
+    - Théorie critique
+    - Racialisation et blanchité
+    - Histoire et luttes
 ---
 
 <!--themes:start-->

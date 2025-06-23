@@ -15,12 +15,11 @@ export default function Header() {
   }
 
   return (
-    
-    <header className="bg-[#FBE3C2] px-6 py-6 text-[#4B2E1F] font-serif" >
+    <header className="bg-[#FBE3C2] px-6 py-6 text-[#4B2E1F] font-serif">
       <Link href="/" className="text-4xl font-bold uppercase block w-fit hover:opacity-80">
-      <div className="text-4xl font-bold uppercase">LA PETITE SOCIOTHÈQUE</div>
+        <div className="text-4xl font-bold uppercase">LA PETITE SOCIOTHÈQUE</div>
       </Link>
-      
+
       <div className="text-md font-light mt-1 mb-6">Petites bouchées d'ouvrages militants à partager</div>
 
       <div className="flex flex-col md:flex-row md:items-center gap-4">
@@ -46,6 +45,9 @@ export default function Header() {
           </Link>
           <Link href="/concepts" className="px-3 py-1 border border-[#C18C57] bg-white rounded-md text-sm">
             Concepts
+          </Link>
+          <Link href="/about" className="px-3 py-1 border border-[#C18C57] bg-white rounded-md text-sm">
+            À propos
           </Link>
         </nav>
       </div>

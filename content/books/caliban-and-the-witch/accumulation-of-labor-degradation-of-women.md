@@ -9,6 +9,10 @@ bookTitle: "Caliban and the Witch"
 author: "Silvia Federici"
 slug: "accumulation-of-labor-degradation-of-women"
 bookSlug: "caliban-and-the-witch"
+themes: 
+    - Genre et féminisme noir
+    - Capitalisme racial, économie politique et critique du néolibéralisme
+    - Histoire et luttes
 ---
 
 <!--themes:start-->
