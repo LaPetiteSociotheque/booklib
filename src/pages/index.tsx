@@ -6,6 +6,7 @@ import Header from "../components/Header"
 import RecommendedBooks from "../components/RecommendedBooks"
 import authorsIndex from "../../data/authors.json"
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
 
 
 export async function getStaticProps() {
@@ -132,6 +133,7 @@ export default function HomePage({ books, featuredBooks, latestBooks, featuredAu
 
         </div>
         <SpeedInsights />
+        <Analytics />
       </main>
       
     </>
