@@ -4,6 +4,7 @@ import path from "path"
 import Head from "next/head"
 import Link from "next/link"
 import Header from "../components/Header"
+import { Analytics } from "@vercel/analytics/next"
 
 export async function getStaticProps() {
   const filePath = path.join(process.cwd(), "data/books.json")
@@ -64,6 +65,7 @@ export default function DernieresPage({ sortedBooks }) {
             ))}
           </div>
         </div>
+        <Analytics />
       </main>
     </>
   )

@@ -12,6 +12,7 @@ import { BookSidebarInfo } from "../../components/BookSidebarInfo"
 import { getAllBooks, getBookBySlug } from "../../lib/books"
 import BookSummary from "../../components/BookSummary"
 import authors from '../../../data/authors.json'
+import { Analytics } from "@vercel/analytics/next"
 
 
 
@@ -87,6 +88,7 @@ export default function BookPage({ book, allBooks, summaryHtml }: BookPageProps)
         <div className="mt-12">
           <BookChaptersTableOfContents chapters={book.chapters} bookSlug={book.slug} />
         </div>
+        <Analytics />
       </main>
     </div>
   )
