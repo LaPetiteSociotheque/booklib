@@ -34,14 +34,14 @@
         "order": 5
       },
       {
-        "title": "Conclusion",
-        "slug": "conclusion",
-        "order": 6
-      },
-      {
         "title": "DeVine’s Cut: Public Memory and the Politics of Martyrdom",
         "slug": "devines-cut",
         "order": 6
+      },
+      {
+        "title": "Conclusion",
+        "slug": "conclusion",
+        "order": 7
       }
     ],
     "date": "2025-06-21"
@@ -599,6 +599,78 @@
       }
     ],
     "date": "2025-06-18"
+  },
+  {
+    "slug": "the-promise-of-patriarchy",
+    "title": "The Promise of Patriarchy: Women and the Nation Of Islam",
+    "author": "Ula Yvette Taylor",
+    "publicationYear": 2017,
+    "pageCount": 285,
+    "coverImage": "/images/covers/the-promise-of-patriarchy.jpg",
+    "description": "Dans The Promise of Patriarchy, Ula Yvette Taylor retrace l’histoire des femmes dans la Nation of Islam (NOI) depuis sa fondation dans les années 1930 jusqu’à la fin du XXe siècle. Elle montre que, loin d’être passives ou marginales, ces femmes ont joué un rôle central dans l’émergence, la structuration et la pérennisation du mouvement. À travers des figures comme Clara Muhammad, Burnsteen Sharrieff ou Sister Thelma X, Taylor met en lumière une féminité musulmane noire façonnée par la discipline religieuse, la modestie vestimentaire et l’engagement éducatif, mais traversée de tensions, de résistances et de négociations.",
+    "chapters": [
+      {
+        "title": "Introduction",
+        "slug": "introduction",
+        "order": 1
+      },
+      {
+        "title": "Mrs. Clara Poole",
+        "slug": "mrs-clara-poole",
+        "order": 2
+      },
+      {
+        "title": "Building a Movement, Fighting the Devil",
+        "slug": "building-movement-fighting-devil",
+        "order": 3
+      },
+      {
+        "title": "Allah Temple of Islam Families: The Dillon Report",
+        "slug": "allah-temple-islam-families-dillon-report",
+        "order": 4
+      },
+      {
+        "title": "Controlling the Black Body: Internal and External Challenges",
+        "slug": "controlling-black-body",
+        "order": 5
+      },
+      {
+        "title": "World War II: Women Anchoring the Nation of Islam",
+        "slug": "world-war-ii-women-anchoring-noi",
+        "order": 6
+      },
+      {
+        "title": "Flexing a New Womanhood",
+        "slug": "flexing-new-womanhood",
+        "order": 7
+      },
+      {
+        "title": "Nation of Islam Womanhood, 1960–1975",
+        "slug": "noi-womanhood-1960-1975",
+        "order": 8
+      },
+      {
+        "title": "The Royal Family",
+        "slug": "royal-family",
+        "order": 9
+      },
+      {
+        "title": "The Appeal of Black Nationalism and the Promise of Prosperity",
+        "slug": "appeal-black-nationalism-promise-prosperity",
+        "order": 10
+      },
+      {
+        "title": "Modesty, Marriage, and Motherhood",
+        "slug": "modesty-marriage-motherhood",
+        "order": 11
+      },
+      {
+        "title": "Epilogue",
+        "slug": "epilogue",
+        "order": 12
+      }
+    ],
+    "date": "2025-06-24"
   },
   {
     "slug": "white-identity-politics",
