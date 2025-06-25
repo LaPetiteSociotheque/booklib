@@ -4,6 +4,7 @@ import { GetStaticPaths, GetStaticProps } from "next"
 import Head from "next/head"
 import Header from "../../components/Header"
 import Link from "next/link"
+import { Analytics } from "@vercel/analytics/next"
 
 type Concept = {
   title: string
@@ -99,6 +100,7 @@ export default function ConceptPage({ concept, bookTitles }: Props) {
             </div>
           )}
         </div>
+        <Analytics />
       </main>
     </>
   )

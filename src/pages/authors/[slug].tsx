@@ -9,6 +9,7 @@ import AuthorHeader from '../../components/AuthorHeader'
 import AuthorBiography from '../../components/AuthorBiography'
 import AuthorWorks from '../../components/AuthorWorks'
 import { GetStaticPaths, GetStaticProps } from 'next'
+import { Analytics } from "@vercel/analytics/next"
 
 type Props = {
   name: string
@@ -106,6 +107,7 @@ export default function AuthorPage({ name, slug, content, books }: Props) {
         <AuthorHeader name={name} slug={slug} />
         <AuthorBiography content={content} />
         <AuthorWorks books={books} />
+        <Analytics />
       </main>
     </>
   )

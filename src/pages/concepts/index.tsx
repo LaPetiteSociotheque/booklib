@@ -3,6 +3,7 @@ import Head from 'next/head'
 import concepts from '../../../data/concepts.json'
 import ConceptList from '../../components/ConceptList'
 import Header from '../../components/Header'
+import { Analytics } from "@vercel/analytics/next"
 
 const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
 
@@ -72,6 +73,7 @@ export default function ConceptsPage() {
           {/* Liste des concepts filtrés */}
           <ConceptList concepts={filteredConcepts} />
         </div>
+        <Analytics />
       </main>
     </>
   )

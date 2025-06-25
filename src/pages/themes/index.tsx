@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Header from '../../components/Header'
 import themes from '../../../data/themes.json'
 import books from '../../../data/books.json'
+import { Analytics } from "@vercel/analytics/next"
 
 export default function ThemesPage() {
   return (
@@ -50,6 +51,7 @@ export default function ThemesPage() {
             )
           })}
         </div>
+        <Analytics />
       </main>
     </>
   )

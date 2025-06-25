@@ -5,6 +5,7 @@ import Header from '../../components/Header'
 import AuthorCard from '../../components/AuthorCard'
 import Link from 'next/link'
 import { GetStaticProps } from 'next'
+import { Analytics } from "@vercel/analytics/next"
 
 type Author = {
   name: string
@@ -61,6 +62,7 @@ export default function AuthorListPage({ authors }: Props) {
             </Link>
           ))}
         </div>
+        <Analytics />
       </main>
     </>
   )
