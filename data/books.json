@@ -166,6 +166,58 @@
     "date": "2025-06-17"
   },
   {
+    "slug": "hammer-and-hoe",
+    "title": "Hammer and Hoe",
+    "author": "Robin D. G. Kelley",
+    "publicationYear": 1990,
+    "pageCount": 304,
+    "coverImage": "/images/covers/hammer-and-hoe.jpg",
+    "description": "Dans Hammer and Hoe, Robin D. G. Kelley retrace l’histoire oubliée des mobilisations communistes noires dans l’Alabama des années 1930, au cœur des campagnes du Sud profond. En croisant archives locales, témoignages oraux et analyse marxiste, il met en lumière une tradition radicale enracinée dans les luttes quotidiennes des ouvrier·es agricoles, des femmes noires et des travailleurs pauvres.",
+    "chapters": [
+      {
+        "title": "Prologue",
+        "slug": "prologue",
+        "order": 1
+      },
+      {
+        "title": "An Invisible Army: Jobs, Relief, and the Birth of a Movement",
+        "slug": "an-invisible-army",
+        "order": 2
+      },
+      {
+        "title": "They Learned to Organize",
+        "slug": "they-learned-to-organize",
+        "order": 2
+      },
+      {
+        "title": "In Egyptland",
+        "slug": "in-egyptland",
+        "order": 3
+      },
+      {
+        "title": "Organize or Starve!: Communists, Labor, and Antiradical Violence",
+        "slug": "organize-or-starve",
+        "order": 4
+      },
+      {
+        "title": "In the Heart of the Trouble: Race, Sex, and the ILD",
+        "slug": "in-the-heart-of-the-trouble",
+        "order": 5
+      },
+      {
+        "title": "Negroes Ain’t Black—But Red!",
+        "slug": "negroes-aint-black-but-red",
+        "order": 6
+      },
+      {
+        "title": "Conclusion: Beyond the Frame",
+        "slug": "conclusion-beyond-the-frame",
+        "order": 7
+      }
+    ],
+    "date": "2025-07-02"
+  },
+  {
     "slug": "intersectionality-as-critical-social-theory",
     "title": "Intersectionality as Critical Social Theory",
     "author": "Patricia Hill Collins",
