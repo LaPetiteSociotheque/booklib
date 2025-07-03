@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Header from '../components/Header'
+import { Analytics } from "@vercel/analytics/next"
 
 export default function AboutPage() {
   return (
@@ -48,6 +49,7 @@ export default function AboutPage() {
             {/* 🔼 OU REMPLACE PAR TA PROPRE CITATION 🔼 */}
           </div>
         </section>
+        <Analytics/>
       </main>
     </>
   )
