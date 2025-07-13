@@ -20,6 +20,8 @@ bookSlug: "white-identity-politics"
 - Répartition géographique et générationnelle des identifiants blancs
 - Approche critique des stéréotypes médiatiques sur les électeurs pro-Trump
 <!--themes:end-->
+
+
 <!--summary:start-->
 
 Ce chapitre examine les profils des individus blancs qui s’identifient le plus fortement à leur groupe racial. Jardina interroge plusieurs variables – âge, genre, éducation, revenus, traits psychologiques – pour déconstruire le stéréotype dominant de l’électeur blanc pro-Trump : ouvrier, homme, en colère, économiquement vulnérable.
@@ -34,6 +36,8 @@ Elle mobilise enfin le concept de **salaire psychologique** (W.E.B. Du Bois) pou
 
 Jardina conclut que l’identité blanche est moins une conséquence de la misère qu’un instrument de défense statutaire dans un contexte de transformation sociale, culturelle et démographique rapide.
 <!--summary:start-->
+
+
 <!--concepts:start-->
 
 ### Concepts clés définis, expliqués et historicisés
