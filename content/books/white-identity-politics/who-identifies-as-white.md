@@ -35,7 +35,7 @@ La géographie joue un rôle secondaire. Si les identifiants blancs sont un peu 
 Elle mobilise enfin le concept de **salaire psychologique** (W.E.B. Du Bois) pour expliquer pourquoi certains Blancs, bien qu’objectivement proches des conditions sociales des minorités, préfèrent activer une solidarité raciale plutôt que des alliances de classe. Cette stratégie symbolique permet de maintenir un sentiment de supériorité ou de distinction, même en l’absence de réels privilèges matériels.
 
 Jardina conclut que l’identité blanche est moins une conséquence de la misère qu’un instrument de défense statutaire dans un contexte de transformation sociale, culturelle et démographique rapide.
-<!--summary:start-->
+<!--summary:end-->
 
 
 <!--concepts:start-->
