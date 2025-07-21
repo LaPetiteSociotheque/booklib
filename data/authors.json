@@ -1,5 +1,39 @@
 [
   {
+    "name": "Angela Y. Davis",
+    "slug": "angela-y.-davis",
+    "chapters": [
+      {
+        "title": "Abolitionist Alternatives",
+        "slug": "abolitionist-alternatives"
+      },
+      {
+        "title": "How Gender Structures the Prison System",
+        "slug": "how-gender-structures-the-prison-system"
+      },
+      {
+        "title": "Imprisonment and Reform",
+        "slug": "imprisonment-and-reform"
+      },
+      {
+        "title": "Prison Reform or Prison Abolition?",
+        "slug": "prison-reform-or-prison-abolition"
+      },
+      {
+        "title": "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison",
+        "slug": "slavery-civil-rights-and-abolitionist-perspectives"
+      },
+      {
+        "title": "The Prison Industrial Complex",
+        "slug": "the-prison-industrial-complex"
+      },
+      {
+        "title": "Are Prisons Obsolete?",
+        "slug": "are-prisons-obsolete"
+      }
+    ]
+  },
+  {
     "name": "C. Riley Snorton",
     "slug": "c.-riley-snorton",
     "chapters": [
@@ -34,6 +68,14 @@
       {
         "title": "Black on Both Sides",
         "slug": "black-on-both-sides"
+      },
+      {
+        "title": "Introduction",
+        "slug": "introduction"
+      },
+      {
+        "title": "Reading the “trans-” in Transatlantic Literature",
+        "slug": "reading-the-trans"
       }
     ]
   },
@@ -164,10 +206,6 @@
       {
         "title": "Prologue",
         "slug": "prologue"
-      },
-      {
-        "title": "They Learned to Organize",
-        "slug": "they-learned-to-organize"
       },
       {
         "title": "Hammer and Hoe",

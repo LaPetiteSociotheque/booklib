@@ -1,6 +1,6 @@
 ---
 name: Angela Y. Davis
-slug: angela-davis
+slug: angela-y.-davis
 ---
 
 Angela Yvonne Davis (née le 26 janvier 1944) est une militante politique marxiste et féministe, philosophe, universitaire et autrice américaine. Elle est professeure émérite distinguée en études féministes et en histoire de la conscience à l’Université de Californie à Santa Cruz. Davis a été membre de longue date du Parti communiste des États-Unis (CPUSA) et membre fondatrice des Committees of Correspondence for Democracy and Socialism (CCDS). Elle a été active dans des mouvements tels que le mouvement Occupy et la campagne de Boycott, Désinvestissement et Sanctions (BDS).
