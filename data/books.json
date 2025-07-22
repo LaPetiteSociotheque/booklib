@@ -1,5 +1,62 @@
 [
   {
+    "slug": "abolition-feminism-now",
+    "title": "Abolition. Feminism. Now.",
+    "author": "Angela Y. Davis",
+    "publicationYear": 2022,
+    "pageCount": 250,
+    "coverImage": "/images/covers/abolition-feminism-now.jpg",
+    "description": "Abolition. Feminism. Now. est à la fois une célébration du travail de libération, une généalogie des mouvements, un appel à l’action et un défi lancé à celles et ceux qui considèrent l’abolition et le féminisme comme des projets politiques distincts – voire incompatibles.",
+    "chapters": [
+      {
+        "title": "chapitre-3-partie-2",
+        "slug": "chapitre-3-partie-2",
+        "order": 0
+      },
+      {
+        "title": "Introduction",
+        "slug": "introduction",
+        "order": 1
+      },
+      {
+        "title": "Chapitre 1: Abolition. - Partie 1",
+        "slug": "chapitre-1-partie-1",
+        "order": 2
+      },
+      {
+        "title": "Chapitre 1: Abolition - Partie 2",
+        "slug": "chapitre-1-partie-2",
+        "order": 3
+      },
+      {
+        "title": "Chapitre 2: Feminism. - Partie 1",
+        "slug": "chapitre-2-partie-1",
+        "order": 4
+      },
+      {
+        "title": "Chapitre 2: Feminism. - Partie 2",
+        "slug": "chapitre-2-partie-2",
+        "order": 5
+      },
+      {
+        "title": "Chapitre 3: Now. - Partie 1",
+        "slug": "chapitre-3-partie-1",
+        "order": 6
+      },
+      {
+        "title": "Épilogue",
+        "slug": "epilogue",
+        "order": 8
+      },
+      {
+        "title": "Les 11 points de praxis d’INCITE!",
+        "slug": "11-points-incite",
+        "order": 9
+      }
+    ],
+    "date": "2025-07-22"
+  },
+  {
     "slug": "are-prisons-obsolete",
     "title": "Are Prisons Obsolete?",
     "author": "Angela Y. Davis",
